@@ -33,7 +33,8 @@ form.onsubmit = async (event) => {
         const magic = document.getElementById("magic");
         const first = "styreleder";
         const last = "kirkeveien90.no";
-        magic.innerHTML = `<b>${first}@${last}`;
+        const full = `${first}@${last}`;
+        magic.innerHTML = `<b><a href="mailto:${full}">${full}</a></b>`;
     } else {
         alert("Njet. Prøv igjen");
     }
