@@ -8,7 +8,8 @@ layout: default
 Trenger du å kontakte noen i styret finner du telefonnummerene oppført på tavla ved utgangsdøren i hver oppgang.
 Vi biter ikke :) 
 
-E-posten til styreleder får du ved å besvare spørsmålet under 
+## E-post til styreleder
+For å beskytte oss mot spam må du først besvare et enkelt spørsmål før du får e-posten.
 
 <div id="magic">
 <form>
