@@ -1,7 +1,7 @@
 ---
 title: Hyppige spørsmål
 layout: default
-nav_order: 1000
+nav_order: 2
 ---
 
 # Ofte stilte spørsmål
