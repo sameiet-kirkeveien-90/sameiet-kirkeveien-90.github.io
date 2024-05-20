@@ -12,7 +12,7 @@ E-posten til styreleder får du ved å besvare spørsmålet under (spambeskyttel
 
 <div id="magic">
 <form>
-<label>Hvilket år er vi i? Fire siffer <input type="numeric" name="mysteriousinput" style="width: 4em;"/> 
+<label>Hvilket år er vi i? Fire siffer <input type="number" min="1900" max="2050" name="mysteriousinput" style="width: 4em;"/> 
 <button>Vis epost</button>
 </label>
 </form>
