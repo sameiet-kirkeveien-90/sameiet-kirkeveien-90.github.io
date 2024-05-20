@@ -8,3 +8,7 @@ url: https://github.com/sameiet-kirkeveien-90/kirkeveien90
 #aux_links:
   #Template Repository: https://github.com/just-the-docs/just-the-docs-template
   #Kirkeveien: https://kirkeveien90.no
+
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Rediger denne siden på GitHub."
+gh_edit_repository: https://github.com/sameiet-kirkeveien-90/sameiet-kirkeveien-90.github.io
