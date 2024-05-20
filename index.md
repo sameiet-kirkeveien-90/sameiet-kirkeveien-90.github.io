@@ -1,6 +1,7 @@
 ---
 title: Hjem
 layout: home
+nav_order: 1
 redirect_from:
   - /kirkeveien90/
 ---
@@ -12,4 +13,7 @@ Forhåpentligvis kan den være et naturlig startpunkt for informasjonsbehov knyt
 - folk som pusser opp og lurer på søppelhåndtering og husordensregler knyttet til dette
 - nye leietakere 
 
-Mer innhold kommer, men _better working than perfect_
+Innholdet er søkbart og du finner det meste i menyen.
+
+<!-- https://www.dropbox.com/scl/fi/ymg209dj53eoi1vcymcmw/Oppslag-om-hjemmeside.pdf?rlkey=k8d0c6gnpa79f0r4zyi1153g9&dl=0
+-->

@@ -1,7 +1,9 @@
 # Kilden for hjemmesiden til Sameiet Kirkeveien 90
 
 Dette er en minimal hjemmeside som benytter Github Pages for bygging og publisering.
-Den benytter en mal for Jekyll som heter [Just the Docs][Just the Docs] og man kan finne videre
+Den blir publisert på www.kirkeveien90.no.
+
+Siden benytter en mal for Jekyll som heter [Just the Docs][Just the Docs] og man kan finne videre
 dokumentasjon på hvordan man benytter dette på hjemmesiden til malen.
 
 Under er den opprinnelige teksten som denne malen benytter for å informere.
