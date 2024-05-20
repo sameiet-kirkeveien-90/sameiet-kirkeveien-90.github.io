@@ -5,6 +5,14 @@ layout: default
 
 # Søppelhåndtering
 
+Denne siden dekker forhåpentligvis de fleste spørsmål om håndtering av søppel. Kort oppsummert:
+- normale mengder restavfall går i sjakta
+- papp- og papir rives i biter og komprimeres før de kastes i våre kasser i bakgården
+- maling og annet spesialavfall skal på gjenvinningsstasjonen
+- glass- og metallembalasje skal i konteinere [på andre siden av parken](https://sortere.no/kart/kommune/Oslo) (Wilhelm Færdens vei) 
+- Metallskrap, knuste drikkeglass, og annet deponimateriale kan leveres på gjenbruksstasjonen.
+- Batterier og små-elektro skal til gjenbruksstasjonen.
+
 ## Søppelsjakta mellom leilighetene
 Vi er så heldige at vi er en av få bygårder med fungerende søppelsjakt! Dette er ment for vanlig mat- og restavfall. Denne ligger i bakkant av hver leilighet, der de nå ikke-fungerende heisene for tjenestefolket er, og deles mellom leilighetene på hver side av oppgangen. Alt som går i sjakta skal i pose - ting faller ut, og man kan tenke seg hvor hyggelig det er med bleier som ikke er i pose … Isopor skal kastes som vanlig restavfall, og må derfor også i vanlige handleposer. Større mengder - som når du bestiller et kjøleskap eller stor TV - må avleveres på en gjenbruksstasjon (se over).
 
@@ -22,7 +30,11 @@ Det er et gjentagende problem at folk kaster søppel i konteinerne til den rosa 
 
 ![nabogårdens søppel](/assets/images/nabosøppel.jpg)
 
-## Søppel fra oppussing
+## Søppel fra oppussing og større søppelmengder 
+
+Pusser du opp eller gjør annet som genererer mye søppel må du håndtere avhending selv. Her er det mest nærliggende å kjøre søpla til gjenvinningsstasjonen på Smestad, fem min fra Majorstua, men den mobile gjenbruksstasjonen tar både trevirke, isopor og store pappmengder. Se [egen side](/bil) om du mangler bil. 
+
+Fjerning av søppel er ditt ansvar så vennligst ikke hensett søppel og vent på at andre skal ta det for deg. Bestiller du levering av ting fra Elkjøp og lignende er det ditt ansvar at de ikke kaster søpla (isopor, strips og plast) i papirdunkene! Det skjer litt for ofte ...
 
 ### Avfallssekker 
 Det er mange som driver med oppussing og typisk har behov for å få hentet større avfallsmengder via iSekk, SøppelTaxi eller [avfallssekk.no](https://www.avfallsekk.no/). Reglene er det samme uansett type avfallssekk:
