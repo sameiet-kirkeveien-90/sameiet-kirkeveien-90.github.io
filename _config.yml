@@ -22,9 +22,6 @@ whitelist:
   - jekyll-redirect-from
 
 nav_external_links:
-  - title: Infopakke for nyinnflyttede
-    url: https://docs.google.com/document/d/1ASuMmaPJ4z-UNlcXCb_7i6PJlKj656c2bylQFAN6nng/edit?usp=sharing
-    opens_in_new_tab: true 
   - title: Facebookgruppe for Kirkeveien 90
     url: https://www.facebook.com/groups/kirkeveien90/
     opens_in_new_tab: true 
