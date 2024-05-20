@@ -1,6 +1,8 @@
 ---
 title: Hjem
 layout: home
+redirect_from:
+  - /kirkeveien90/
 ---
 
 Denne hjemmesiden er ment å være til hjelp for beboere i Sameiet Kirkeveien 90.

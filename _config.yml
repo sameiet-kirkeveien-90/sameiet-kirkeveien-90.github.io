@@ -14,3 +14,10 @@ gh_edit_link_text: "Rediger denne siden på GitHub."
 gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_repository: https://github.com/sameiet-kirkeveien-90/sameiet-kirkeveien-90.github.io
 gh_edit_view_mode: "edit"
+
+plugins: 
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
+
