@@ -1,5 +1,6 @@
 ---
 title: Oppussing
+layout: default
 ---
 
 # Tenker du å pusse opp?
