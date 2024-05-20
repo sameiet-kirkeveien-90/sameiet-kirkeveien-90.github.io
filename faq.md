@@ -1,6 +1,7 @@
 ---
 title: Hyppige spørsmål
 layout: default
+nav_order: 1000
 ---
 
 # Ofte stilte spørsmål
@@ -35,3 +36,8 @@ Så er det bare å sparkle og male :)
 - Vinduer: drygolin. S7020y80r
 - Beslag topp etg: powercoat sort
 - Balkonggulv: sto, mellomgrå polyuhrethan 2mm.
+
+## Diverse
+
+### Hvor kan jeg kaste glass- og metallemballasje nå som Shell er borte?
+På andre siden av parken. Se ellers [søppelsiden](/soppel).
