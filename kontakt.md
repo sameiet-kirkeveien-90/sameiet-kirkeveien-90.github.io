@@ -8,11 +8,12 @@ layout: default
 Trenger du å kontakte noen i styret finner du telefonnummerene oppført på tavla ved utgangsdøren i hver oppgang.
 Vi biter ikke :) 
 
-E-posten til styreleder får du ved å besvare spørsmålet under (spambeskyttelse).
+E-posten til styreleder får du ved å besvare spørsmålet under 
 
 <div id="magic">
 <form>
-<label>Hvilket år er vi i? Fire siffer <input type="number" min="1900" max="2050" name="mysteriousinput" style="width: 4em;"/> 
+<label>Hvilket år er vi i?
+<input type="number" min="1900" max="2050" name="mysteriousinput" style="width: 4em;"/> 
 <button>Vis epost</button>
 </label>
 </form>
