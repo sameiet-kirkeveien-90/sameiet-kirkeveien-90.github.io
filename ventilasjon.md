@@ -1,5 +1,6 @@
 ---
 title: Ventilasjon og piper
+layout: default
 ---
 
 # Ventilasjon
