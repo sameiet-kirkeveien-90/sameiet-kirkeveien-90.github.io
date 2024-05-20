@@ -1,0 +1,9 @@
+title: Sameiet Kirkeveien 90
+description: En enkel hjemmeside for Sameiet Kirkeveien 90 som skal samle info som hyppig blir etterspurt
+theme: just-the-docs
+logo: assets/images/logo.png
+
+url: https://github.com/sameiet-kirkeveien-90/kirkeveien90
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
