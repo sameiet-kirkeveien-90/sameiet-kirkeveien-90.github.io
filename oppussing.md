@@ -13,4 +13,7 @@ Det er viktig å snakke med styret om, for du står fort ansvarlig for utbedring
 oppussingen. 
 
 Heisene våre er f.eks. ikke ment å fungere som vareheiser og ved skader på dem under oppussing bærer du
-som pusser opp ansvaret og regningen (kan fort komme på femti tusen om man må bytte deler).
+som pusser opp ansvaret og regningen (kan fort komme på flere ti tusen kroner om vi må bytte deler).
+
+## Miljøriktig oppussing
+SINTEF har en veileder for miljøriktig oppusing som blant annet tar for seg avfallshåndtering og opprydding. Det kan være verdt å ta en titt på sidene 41 og utover ([pdf](https://www.sintef.no/globalassets/upload/byggforsk/forbrukerveileder_miljoriktig_oppussing.pdf)).
