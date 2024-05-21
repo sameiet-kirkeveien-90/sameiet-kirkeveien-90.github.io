@@ -37,6 +37,14 @@ Så er det bare å sparkle og male :)
 - Beslag topp etg: powercoat sort
 - Balkonggulv: sto, mellomgrå polyuhrethan 2mm.
 
+## Teknisk
+
+### Er det gjort noen radonmålinger?
+I ["Julebrev 2019"](https://www.dropbox.com/scl/fi/o5lezh1v4ch1mwysauv8d/Julebrev-2019.docx?rlkey=4jiv759nrs0qyqdei6w3v0dxa&st=a4i6koo7&dl=0) kan man lese
+> I henhold til byggeforskrifter skal radonkonsentrasjonen i bygninger som er oppført eller rehabilitert i henhold til Plan- og bygningsloven ikke overstige 200 Bq/m³.
+>
+> *Resultatet for Kirkeveien 90 ligger mellom 20 og 100 Bq/m³.*
+
 ## Diverse
 
 ### Hvor kan jeg kaste glass- og metallemballasje nå som Shell er borte?
