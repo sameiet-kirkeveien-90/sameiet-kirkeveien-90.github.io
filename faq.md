@@ -5,8 +5,17 @@ nav_order: 2
 ---
 
 # Ofte stilte spørsmål
+{: .no_toc }
 
 På denne siden kan hyppige stilte spørsmål og svar legges inn
+
+<details open markdown="block">
+
+  <summary> Spørsmålsoversikt </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Oppussing
 
