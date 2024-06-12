@@ -8,3 +8,5 @@ gem "just-the-docs", "0.8.2" # pinned to the current release
 
 gem 'jekyll-redirect-from'
 
+# Makes it possible to prevent broken links
+gem "html-proofer"

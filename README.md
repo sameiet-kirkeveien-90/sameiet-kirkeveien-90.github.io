@@ -6,6 +6,12 @@ Den blir publisert på www.kirkeveien90.no.
 Siden benytter en mal for Jekyll som heter [Just the Docs][Just the Docs] og man kan finne videre
 dokumentasjon på hvordan man benytter dette på hjemmesiden til malen.
 
+## Kjekt å vite for lokal utvikling
+- `make` lister ut alle mulige "tasks"
+- `make install` installerer det du trenger
+- `make livereload` spinner opp en server med automatisk Live Reload
+- `make check-links` sjekker om du har råtne lenker
+
 Under er den opprinnelige teksten som denne malen benytter for å informere.
 
 ---

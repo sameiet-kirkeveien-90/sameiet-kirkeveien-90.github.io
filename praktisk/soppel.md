@@ -36,7 +36,7 @@ Det er et gjentagende problem at folk kaster søppel i konteinerne til den rosa 
 
 ## Søppel fra oppussing og større søppelmengder 
 
-Pusser du opp eller gjør annet som genererer mye søppel må du håndtere avhending selv. Her er det mest nærliggende å kjøre søpla til gjenvinningsstasjonen på Smestad, fem min fra Majorstua, men den mobile gjenbruksstasjonen tar både trevirke, isopor og store pappmengder. Se [egen side](/bil) om du mangler bil. 
+Pusser du opp eller gjør annet som genererer mye søppel må du håndtere avhending selv. Her er det mest nærliggende å kjøre søpla til gjenvinningsstasjonen på Smestad, fem min fra Majorstua, men den mobile gjenbruksstasjonen tar både trevirke, isopor og store pappmengder. Se [egen side](/praktisk/bil) om du mangler bil. 
 
 Fjerning av søppel er ditt ansvar så vennligst ikke hensett søppel og vent på at andre skal ta det for deg. Bestiller du levering av ting fra Elkjøp og lignende er det ditt ansvar at de ikke kaster søpla (isopor, strips og plast) i papirdunkene! Det skjer litt for ofte ...
 
@@ -47,7 +47,7 @@ Det er mange som driver med oppussing og typisk har behov for å få hentet stø
 - Sekker uten brennbart materiale kan stå inntil veggen mellom oppg A og C. Maks 5 virkedager, og må _fjernes før helgen_.
 
 ### Heisene
-Vi har heiser fra tredvetallet som fremdeles fungerer godt og vi vil beholde dem så lenge som mulig. Heisene har ofte fått skader under oppussing. Dette er den som pusser opp sitt ansvar, så les deg godt opp på [avsnittet om heisbruk under "Oppussing"](/oppussing#oppussing#bruk-av-heisen-til-søppel--og-varetransport).
+Vi har heiser fra tredvetallet som fremdeles fungerer godt og vi vil beholde dem så lenge som mulig. Heisene har ofte fått skader under oppussing. Dette er den som pusser opp sitt ansvar, så [les deg godt opp](/oppussing/heis)
 
 ## Marienlyst mobile gjenvinningsstasjon
 Hver onsdag fra 16-19:30 er det en mobil gjenvinningsstasjon på parkeringen til NRK.  Her sender du alt du vanligvis ikke ville stappet i en vanlig søppelkasse:
@@ -60,5 +60,5 @@ Hver onsdag fra 16-19:30 er det en mobil gjenvinningsstasjon på parkeringen til
 
 [Hjemmesiden til Marienlyst mobile gjenvinningsstasjon](https://www.oslo.kommune.no/avfall-og-gjenvinning/alle-gjenvinningsstasjoner/marienlyst-mobile-gjenvinningsstasjon/) har mer info, inkludert maksgrense. 
 Har du mer avfall enn du orker å bære bort bør du vurdere å kjøre det bort på [Smestad Gjenvinningsstasjon](https://www.oslo.kommune.no/avfall-og-gjenvinning/alle-gjenvinningsstasjoner/smestad-gjenvinningsstasjon/). 
-Mangler du bil og eller henger er det masse [muligheter for fleksibel billeie](/bil#timesleie-av-bil). i nabolaget.
+Mangler du bil og eller henger er det masse [muligheter for fleksibel billeie](/praktisk/bil#timesleie-av-bil). i nabolaget.
 
