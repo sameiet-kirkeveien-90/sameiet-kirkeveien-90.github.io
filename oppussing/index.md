@@ -8,11 +8,6 @@ nav_order: 3
 # Tenker du å pusse opp?
 Det er lurt å ta kontakt med styret før oppussing. Vi har retningslinjer du må følge og kan f.eks. anbefale rørleggere som kjenner gården godt. Vi kan også svare på (noen) ansvars- og forsikringsspørsmål ut i fra historikken til gården.
 
-## Søppel- og varetransport
-Aller helst ser vi at man forsøker å unngå bruk av heisen til material og varetransport under oppussing. Her kan man eksempelvis bruke utvendig søppelsjakt/rør direkte til konteiner, sekk eller tilhenger, eller samle sekkene i leiligheten og ta alt samlet ned med lift. 
-
-Må man bruke heis, se detaljer på [egen side](/heis) for å unngå dyrekjøpte erfaringer.
-
 ## Parkeringstillatelser
 Se [egen side for bil](/bil#parkeringstillatelser-for-bakg%C3%A5rden). Dette kan ordnes digitalt eller med lapp.
 
@@ -21,6 +16,9 @@ Avfallshåndtering og transport av byggevarer må være avklart på forhånd (se
 Det er viktig å snakke med styret om, for du står fort ansvarlig for utbedringer vi må gjøre som følge av 
 oppussingen. 
 
+Aller helst ser vi at man forsøker å unngå bruk av heisen til material og varetransport under oppussing. Her kan man eksempelvis bruke utvendig søppelsjakt/rør direkte til konteiner, sekk eller tilhenger, eller samle sekkene i leiligheten og ta alt samlet ned med lift. 
+
+Må man bruke heis, se detaljer på [egen side](/heis) for å unngå dyrekjøpte erfaringer.
 
 ## Miljøriktig oppussing
 SINTEF har en veileder for miljøriktig oppusing som blant annet tar for seg avfallshåndtering og opprydding. Det kan være verdt å ta en titt på sidene 41 og utover ([pdf](https://www.sintef.no/globalassets/upload/byggforsk/forbrukerveileder_miljoriktig_oppussing.pdf)).
