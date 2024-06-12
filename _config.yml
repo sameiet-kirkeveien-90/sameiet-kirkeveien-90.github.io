@@ -42,14 +42,3 @@ callouts:
   info:
     title: Info
     color: blue
-
-# https://just-the-docs.com/docs/navigation-structure/#grouping-pages-with-collections
-collections:
-  praktisk:
-    permalink: "/:collection/:path/"
-    output: true
-just_the_docs:
-  collections:
-    praktisk:
-      name: Praktisk
-      nav_fold: true

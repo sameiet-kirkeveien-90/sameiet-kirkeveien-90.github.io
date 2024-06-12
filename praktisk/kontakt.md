@@ -3,6 +3,7 @@ title: Kontakt
 layout: default
 redirect_from:
     - /kontakt
+parent: Praktisk
 ---
 
 # Kontakt oss gjerne!

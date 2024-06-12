@@ -3,6 +3,7 @@ title: Bil
 layout: default
 redirect_from:
   - /bil
+parent: Praktisk
 ---
 
 # Bil 

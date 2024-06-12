@@ -1,6 +1,7 @@
 ---
 title: Ventilasjon og piper
 layout: default
+parent: Praktisk
 redirect_from:
     - /ventilasjon
 ---

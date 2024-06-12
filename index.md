@@ -21,5 +21,7 @@ Forhåpentligvis kan den være et naturlig startpunkt for informasjonsbehov knyt
 >
 > På mobil finner du søket i menyen over og på pc er søket øverst på siden.
 
+Lurer du på hvor du skal starte? Prøv med [det praktiske](/praktisk/) :)
+
 <!-- https://www.dropbox.com/scl/fi/ymg209dj53eoi1vcymcmw/Oppslag-om-hjemmeside.pdf?rlkey=k8d0c6gnpa79f0r4zyi1153g9&dl=0
 -->

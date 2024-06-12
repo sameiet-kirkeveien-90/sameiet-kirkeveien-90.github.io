@@ -1,6 +1,7 @@
 ---
 title: Sykkel
 layout: default
+parent: Praktisk
 redirect_from:
     - /sykkel
 ---

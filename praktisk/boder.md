@@ -3,6 +3,7 @@ title: Boder
 layout: default
 redirect_from:
   - /boder
+parent: Praktisk
 ---
 
 # Boder

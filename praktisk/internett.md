@@ -3,6 +3,7 @@ title: Internett og TV
 layout: default
 redirect_from:
     - /internett
+parent: Praktisk
 ---
 
 # Internett og TV-tilbud

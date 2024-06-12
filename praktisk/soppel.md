@@ -1,6 +1,7 @@
 ---
 title: Søppelhåndtering
 layout: default
+parent: Praktisk
 redirect_from:
   - /søppel/
   - /soppel/
