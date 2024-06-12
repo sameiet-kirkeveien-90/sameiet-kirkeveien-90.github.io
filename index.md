@@ -19,7 +19,7 @@ Forhåpentligvis kan den være et naturlig startpunkt for informasjonsbehov knyt
 > Du finner riktignok alt innholdet gjennom menyen, men vi har også en innebygget søkefunksjon.
 > Prøv selv og søk etter "fargekoder", for eksempel! 
 >
-> På mobil finner du søket i menyen over og på pc er søket øverst på siden.
+> På mobil finner du søket i menyen og på pc er søket øverst på siden.
 
 Lurer du på hvor du skal starte? Prøv med [det praktiske](/praktisk/) :)
 
