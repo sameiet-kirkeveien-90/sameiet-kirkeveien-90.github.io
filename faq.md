@@ -35,16 +35,7 @@ Om du trenger at veggen skal t책le store krefter i ett mindre omr책de, f.eks. n�
 S책 er det bare 책 sparkle og male :)
 
 ### Hvilke farger er det benyttet p책 fellesomr책der og vegger?
-
-> Fargeskjema for utvendig maling og farger benyttet i 2014.
-
-- Fargekode oppganger: S-0505 Y20R, hvit Narciss. Bruk Jotun
-- Fasadefarge: keim granital 9055.
-- Vegger topp etg. og utbygg mot kirkeveien: keim granital 5058
-- Brystninger p책 balkonger: Lotussan silikonhartz 5058
-- Vinduer: drygolin. S7020y80r
-- Beslag topp etg: powercoat sort
-- Balkonggulv: sto, mellomgr책 polyuhrethan 2mm.
+Se egen side for [utvendig uttrykk](/oppussing/utvendig#fargekoder).
 
 ## Teknisk
 
