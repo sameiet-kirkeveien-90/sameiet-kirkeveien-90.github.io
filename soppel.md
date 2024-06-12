@@ -45,11 +45,7 @@ Det er mange som driver med oppussing og typisk har behov for å få hentet stø
 - Sekker uten brennbart materiale kan stå inntil veggen mellom oppg A og C. Maks 5 virkedager, og må _fjernes før helgen_.
 
 ### Heisene
-Vi har heiser fra tredvetallet som fremdeles fungerer godt og vi vil beholde dem så lenge som mulig. Heisene har ofte fått skader under oppussing. Dette er eiers ansvar og regningen kan bli høy, så informer håndværkere nøye før oppussing:
-- sett tunge sekker forsiktig ned på heisgulvet. Det er balansert og veldig sensitivt og kan lett kile seg.
-- fordel vekten jevnt. Det er viktig at man ikke har all vekt på en side for å unngå at de kiler seg.
-- heisen må støvsuges på slutten av hver arbeidsdag
-- gulvet fra heisen til døra må vaskes over 
+Vi har heiser fra tredvetallet som fremdeles fungerer godt og vi vil beholde dem så lenge som mulig. Heisene har ofte fått skader under oppussing. Dette er den som pusser opp sitt ansvar, så les deg godt opp på [avsnittet om heisbruk under "Oppussing"](/oppussing#oppussing#bruk-av-heisen-til-søppel--og-varetransport).
 
 ## Marienlyst mobile gjenvinningsstasjon
 Hver onsdag fra 16-19:30 er det en mobil gjenvinningsstasjon på parkeringen til NRK.  Her sender du alt du vanligvis ikke ville stappet i en vanlig søppelkasse:
