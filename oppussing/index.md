@@ -18,7 +18,11 @@ oppussingen.
 
 Aller helst ser vi at man forsøker å unngå bruk av heisen til material og varetransport under oppussing. Her kan man eksempelvis bruke utvendig søppelsjakt/rør direkte til konteiner, sekk eller tilhenger, eller samle sekkene i leiligheten og ta alt samlet ned med lift. 
 
+### Heis
 Må man bruke heis, se detaljer på [egen side](/heis) for å unngå dyrekjøpte erfaringer.
+
+## Ventilasjon
+Mange har endt opp med veldig dårlig inneklima og fuktproblemer etter oppussing. Se [egen side](/ventilasjon) for hva som er viktig, samt oversikt over de fem opprinnelige ventilasjonskanalene.
 
 ## Miljøriktig oppussing
 SINTEF har en veileder for miljøriktig oppusing som blant annet tar for seg avfallshåndtering og opprydding. Det kan være verdt å ta en titt på sidene 41 og utover ([pdf](https://www.sintef.no/globalassets/upload/byggforsk/forbrukerveileder_miljoriktig_oppussing.pdf)).
