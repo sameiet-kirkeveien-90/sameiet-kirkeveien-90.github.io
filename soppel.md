@@ -58,5 +58,5 @@ Hver onsdag fra 16-19:30 er det en mobil gjenvinningsstasjon på parkeringen til
 
 [Hjemmesiden til Marienlyst mobile gjenvinningsstasjon](https://www.oslo.kommune.no/avfall-og-gjenvinning/alle-gjenvinningsstasjoner/marienlyst-mobile-gjenvinningsstasjon/) har mer info, inkludert maksgrense. 
 Har du mer avfall enn du orker å bære bort bør du vurdere å kjøre det bort på [Smestad Gjenvinningsstasjon](https://www.oslo.kommune.no/avfall-og-gjenvinning/alle-gjenvinningsstasjoner/smestad-gjenvinningsstasjon/). 
-Mangler du bil og eller henger er det masse muligheter for fleksibel billeie i nabolaget ([Bilkollektivet](https://bilkollektivet.no/), GetAround, Hyre, Hertz Bilkollektiv, m.m.).
+Mangler du bil og eller henger er det masse [muligheter for fleksibel billeie](/bil#timesleie-av-bil). i nabolaget.
 
