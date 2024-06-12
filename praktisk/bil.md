@@ -8,8 +8,8 @@ parent: Praktisk
 
 # Bil 
 Når man bor sentralt på Marienlyst har man som oftest ikke behov for bil i det daglige,
-men folk flytter, håndverkere kommer for å utføre arbeid, eller man har kanskje man
-må kjøre avfall til gjenvinningsstasjonen på Smestad.
+men folk flytter, håndverkere kommer for å utføre arbeid, og kanskje man
+må kjøre avfall til gjenvinningsstasjonen på Smestad. 
 
 ## Timesleie av bil
 
