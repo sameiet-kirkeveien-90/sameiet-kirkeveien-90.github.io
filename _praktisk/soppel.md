@@ -3,6 +3,7 @@ title: Søppelhåndtering
 layout: default
 redirect_from:
   - /søppel/
+  - /soppel/
 ---
 
 # Søppelhåndtering

@@ -1,6 +1,8 @@
 ---
 title: Bil
 layout: default
+redirect_from:
+  - /bil
 ---
 
 # Bil 

@@ -1,6 +1,8 @@
 ---
 title: Internett og TV
 layout: default
+redirect_from:
+    - /internett
 ---
 
 # Internett og TV-tilbud

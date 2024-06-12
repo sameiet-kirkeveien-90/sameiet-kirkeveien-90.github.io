@@ -1,6 +1,8 @@
 ---
 title: Kontakt
 layout: default
+redirect_from:
+    - /kontakt
 ---
 
 # Kontakt oss gjerne!

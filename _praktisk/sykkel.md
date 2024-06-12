@@ -1,6 +1,8 @@
 ---
 title: Sykkel
 layout: default
+redirect_from:
+    - /sykkel
 ---
 
 # Sykler

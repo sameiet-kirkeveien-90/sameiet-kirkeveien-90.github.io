@@ -1,6 +1,8 @@
 ---
 title: Ventilasjon og piper
 layout: default
+redirect_from:
+    - /ventilasjon
 ---
 
 # Ventilasjon

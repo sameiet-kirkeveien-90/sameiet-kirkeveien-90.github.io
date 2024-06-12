@@ -1,6 +1,8 @@
 ---
 title: Boder
 layout: default
+redirect_from:
+  - /boder
 ---
 
 # Boder
