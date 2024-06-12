@@ -2,6 +2,7 @@
 title: Oppussing
 layout: default
 has_children: true
+nav_order: 3
 ---
 
 # Tenker du å pusse opp?
