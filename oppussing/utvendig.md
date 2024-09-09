@@ -24,6 +24,6 @@ Av kodene under er det hovedsakelig fargen på vinduer og fasade (balkonger) som
 - Fasadefarge: keim granital 9055.
 - Vegger topp etg. og utbygg mot kirkeveien: keim granital 5058
 - Brystninger på balkonger: Lotussan silikonhartz 5058
-- Vinduer: drygolin. S7020y80r
+- Vinduer: Drygolin S7020-y80r Elg
 - Beslag topp etg: powercoat sort
 - Balkonggulv: sto, mellomgrå polyuhrethan 2mm.
