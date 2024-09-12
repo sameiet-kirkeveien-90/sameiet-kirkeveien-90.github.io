@@ -11,6 +11,9 @@ Det er lurt å ta kontakt med styret før oppussing. Vi har retningslinjer du m�
 ## Parkeringstillatelser
 Se [egen side for bil](/praktisk/bil#parkeringstillatelser-for-bakg%C3%A5rden). Dette kan ordnes digitalt eller med lapp.
 
+## Nøkler til håndværkere
+Se [egen side](/praktisk/nøkler) for alt relatert til nøkkelboks og nøkkeldeling.
+
 ## Avfallshåndtering
 Avfallshåndtering og transport av byggevarer må være avklart på forhånd (se [egen side for søppel](/søppel)). 
 Det er viktig å snakke med styret om, for du står fort ansvarlig for utbedringer vi må gjøre som følge av 

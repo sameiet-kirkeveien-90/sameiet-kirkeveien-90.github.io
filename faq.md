@@ -37,6 +37,10 @@ Så er det bare å sparkle og male :)
 ### Hvilke farger er det benyttet på fellesområder og vegger?
 Se egen side for [utvendig uttrykk](/oppussing/utvendig#fargekoder).
 
+### Hvordan bør jeg arrangere deling av nøkler?
+
+Se [egen side](/praktisk/nøkler) for alt relatert til nøkkelboks og nøkkeldeling.
+
 ## Teknisk
 
 ### Er det gjort noen radonmålinger?
