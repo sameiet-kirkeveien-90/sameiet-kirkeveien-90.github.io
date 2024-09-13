@@ -11,7 +11,7 @@ Fra tid til annen får man behov for å kunne levere nøkler til en tredjeperson
 ## Nøkkelboks
 Mange ønsker da å benytte en nøkkelboks og det kan være fristende å skru fast en nøkkelboks der det lar seg gjøre. Dette er dessverre i strid med husreglene (lenket fra menyen, se punkt 15):
 
-> Det er forbudt å opp bevare nøkler til sameiet i nøkkelbokser montert i gården
+> Det er forbudt å oppbevare nøkler til sameiet i nøkkelbokser montert i gården
 
 ## Praktisk løsning: Easypick
 
