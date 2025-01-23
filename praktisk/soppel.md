@@ -34,17 +34,30 @@ Det er et gjentagende problem at folk kaster søppel i konteinerne til den rosa 
 
 ![nabogårdens søppel](/assets/images/nabosøppel.jpg)
 
-## Søppel fra oppussing og større søppelmengder 
-
-Pusser du opp eller gjør annet som genererer mye søppel må du håndtere avhending selv. Her er det mest nærliggende å kjøre søpla til gjenvinningsstasjonen på Smestad, fem min fra Majorstua, men den mobile gjenbruksstasjonen tar både trevirke, isopor og store pappmengder. Se [egen side](/praktisk/bil) om du mangler bil. 
+## Mer enn normale mengder søppel
+Har du f.eks. kjøpt et kjøleskap, IKEA-møbler eller annet som genererer mye søppel kan du ikke kaste det i restavfallet eller papirdunkene. De er ment for små (normale) mengder søppel og masse isopor i restavfallet gjør at søpla i kjelleren flyter utover! Det mest nærliggende er å kjøre søpla til gjenvinningsstasjonen på Smestad, fem min fra Majorstua, men den mobile gjenbruksstasjonen tar både trevirke, isopor og store pappmengder. Se [egen side](/praktisk/bil) om du mangler bil. 
 
 Fjerning av søppel er ditt ansvar så vennligst ikke hensett søppel og vent på at andre skal ta det for deg. Bestiller du levering av ting fra Elkjøp og lignende er det ditt ansvar at de ikke kaster søpla (isopor, strips og plast) i papirdunkene! Det skjer litt for ofte ...
 
-### Avfallssekker 
+### Oppussing og større søppelmengder 
+
+Pusser du opp er det påkrevd å ha en plan for søppelhåndtering. Det beste er om du kan kjøre søpla bort daglig til  gjenvinningsstasjonen på Smestad. Er ikke det mulig - og du trenger mellomlagring - se på seksjonene under.
+
+
+### Flytting av søppel fra leiligheten til bakkeplan
+Aller helst ser vi at man forsøker å unngå bruk av heisen til material og varetransport under oppussing. Her kan man eksempelvis bruke utvendig søppelsjakt/rør direkte til konteiner, sekk eller tilhenger, eller samle sekkene i leiligheten og ta alt samlet ned med lift. God planlegging er essensielt! _Batcher_ du opp søpla ved å midlertidig samle det f.eks. på balkongen slipper du å ha halvfylte poser på bakkeplan og 
+
+#### Avfallssekker 
 Det er mange som driver med oppussing og typisk har behov for å få hentet større avfallsmengder via iSekk, SøppelTaxi eller [avfallssekk.no](https://www.avfallsekk.no/). Reglene er det samme uansett type avfallssekk:
 
 - Sekker med _brennbart_ materiale kan ikke stå i gården. 
-- Sekker uten brennbart materiale kan stå inntil veggen mellom oppg A og C. Maks 5 virkedager, og må _fjernes før helgen_.
+- Sekker med stein fra riving av pipe (kun ikke-brennbart materiale) kan stå inntil veggen mellom oppg A og C. Maks 5 virkedager, og må _fjernes før helgen_.
+
+Så lenge du ikke setter sekkene i gården er styret fornøyd. Du kan f.eks. sette søppelsekker 
+på gateplan i Harald Hårfagres gate. Der har de lov til å stå i opptil 24 timer - så 
+man er ment å fjerne dem daglig (dog viskes det at dette ikke er håndhevet). 
+Setter du sekkene på fortauet kan kommunen ilegge bøter, som havner på sameiet, som igjen 
+videresendes deg.
 
 ### Heisene
 Vi har heiser fra tredvetallet som fremdeles fungerer godt og vi vil beholde dem så lenge som mulig. Heisene har ofte fått skader under oppussing. Dette er den som pusser opp sitt ansvar, så [les deg godt opp](/oppussing/heis)
