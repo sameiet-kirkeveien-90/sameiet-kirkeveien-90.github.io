@@ -21,5 +21,5 @@ Avtrekket på peisene i bygget besørges av vifter på toppen av hver pipe. I ny
 
 Det er uansett interessant for styret å høre om ting som ikke fungerer, så om du opplever røyklukt eller dårlig trekk så [si fra til styreleder](/kontakt).
 
-[skisse]: https://drive.google.com/file/d/1AqLvJ_TvE7B3Qk4LFoyNWER_0oQ0nsd6/view?usp=sharing
+[skisse]: /assets/pdfs/Skisse luft inn og ut.pdf 
 [rundskriv]: https://docs.google.com/document/d/1Xo3nnNPeDXDlqzjdW0QVXaOgzPAuRvnE/edit?usp=sharing&ouid=110120435273733153222&rtpof=true&sd=true
