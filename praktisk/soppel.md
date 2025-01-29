@@ -60,14 +60,14 @@ Setter du sekkene på fortauet kan kommunen ilegge bøter, som havner på sameie
 videresendes deg.
 
 ### Heisene
-Vi har heiser fra tredvetallet som fremdeles fungerer godt og vi vil beholde dem så lenge som mulig. Heisene har ofte fått skader under oppussing. Dette er den som pusser opp sitt ansvar, så [les deg godt opp](/oppussing/heis)
+Vi har heiser fra tredvetallet som fremdeles fungerer godt og vi vil beholde dem så lenge som mulig. Heisene har ofte fått skader under oppussing. Dette er den som pusser opp sitt (økonomiske) ansvar, så [les deg godt opp](/oppussing/heis)
 
 ## Marienlyst mobile gjenvinningsstasjon
 Hver onsdag fra 16-19:30 er det en mobil gjenvinningsstasjon på parkeringen til NRK.  Her sender du alt du vanligvis ikke ville stappet i en vanlig søppelkasse:
 - knust glass (som ikke er emballasje), f.eks. vannglass, knuste ruter, speil, knust glass fra innrammede bilder, etc
 - store mengder papp og papir (f.eks. tømming av bokhyller)
-- masse isopor etter storkjøp på Elkjøp eller IKEA
-- den gamle stekepanna og bøyde spikere
+- isopor etter storkjøp på Elkjøp eller IKEA
+- metall: den gamle stekepanna, bøyde spikere, beslag og skinner til persienner, etc
 - trevirke fra oppussing (maks 1 meter)
 - etc
 
