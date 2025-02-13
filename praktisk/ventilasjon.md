@@ -9,9 +9,11 @@ redirect_from:
 # Ventilasjon
 K90 ventilasjon er basert på prinsipper for naturlig ventilasjon - uten noen form for mekanikk. 
 Den enkelte sameier kan derfor ikke montere vifte på sitt bad, fordi det kan medføre undertrykk i egen og andres
-leiligheter. Om man plages av mat- eller røyklukt skyldes det som oftest undertrykk i den enkelte leiligheten. Årsaken til dette kan være stengte lufteluker og/eller åpent spjeld i peisen som trekker mye luft ut fra leiligheten. 
+leiligheter. _Om man plages av mat- eller røyklukt skyldes det som oftest undertrykk i den enkelte leiligheten_. Slik skal det ikke være! Årsaken til dette kan være stengte lufteluker og/eller åpent spjeld i peisen som trekker mye luft ut fra leiligheten. 
 
-Se eget rundskriv om ventilasjon og [skisse over alle de _fem_ luftelukene][skisse] i hver leilighet. 
+Se eget rundskriv om ventilasjon og skisse over alle de _fem_ luftelukene i hver leilighet:
+![luftekanaler](/assets/images/luft-inn-ut.jpg)
+([Pdf for utskrift][skisse]) 
 
 ## Sjekk at du har fem luftekanaler!
 Mange som pusser opp har ødelagt ventilasjonen ved å endre romløsningene, uten å gi ventilasjonen noen tanke, eller har tettet igjen luftekanalene som opprinnelig er i bygget. Det har ført til dårlig inneklima og mugg. Snakk med styret før du gjør noe tilsvarende.
