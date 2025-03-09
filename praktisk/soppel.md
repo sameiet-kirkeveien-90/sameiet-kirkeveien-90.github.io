@@ -14,7 +14,7 @@ Denne siden dekker forhåpentligvis de fleste spørsmål om håndtering av søpp
 - papp- og papir rives i biter og komprimeres før de kastes i våre kasser i bakgården
 - maling og annet spesialavfall skal på gjenvinningsstasjonen
 - glass- og metallembalasje skal i konteinere [på andre siden av parken](https://sortere.no/kart/kommune/Oslo) (Wilhelm Færdens vei) 
-- Metallskrap, knuste drikkeglass, og annet deponimateriale kan leveres på gjenbruksstasjonen.
+- [Stekepanner, metallskrap, skruer](https://www.grontpunkt.no/aktuelt/nyheter/dette-skal-ikke-i-metallinnsamlingen), knuste drikkeglass, og annet deponimateriale kan leveres på gjenbruksstasjonen.
 - Batterier og små-elektro skal til gjenbruksstasjonen.
 
 ## Søppelsjakta mellom leilighetene
