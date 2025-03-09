@@ -63,7 +63,9 @@ videresendes deg.
 Vi har heiser fra tredvetallet som fremdeles fungerer godt og vi vil beholde dem så lenge som mulig. Heisene har ofte fått skader under oppussing. Dette er den som pusser opp sitt (økonomiske) ansvar, så [les deg godt opp](/oppussing/heis)
 
 ## Marienlyst mobile gjenvinningsstasjon
-Hver onsdag fra 16-19:30 er det en mobil gjenvinningsstasjon på parkeringen til NRK.  Her sender du alt du vanligvis ikke ville stappet i en vanlig søppelkasse:
+> Obs! Stasjonen står ikke lenger ved NRK, men er tilbake i Suhms gate 19.
+
+Hver onsdag fra 16-19:30 er det en mobil gjenvinningsstasjon i Suhms gate 19.  Her sender du alt du vanligvis ikke ville stappet i en vanlig søppelkasse:
 - knust glass (som ikke er emballasje), f.eks. vannglass, knuste ruter, speil, knust glass fra innrammede bilder, etc
 - store mengder papp og papir (f.eks. tømming av bokhyller)
 - isopor etter storkjøp på Elkjøp eller IKEA
