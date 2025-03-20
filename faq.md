@@ -20,15 +20,17 @@ På denne siden kan hyppige stilte spørsmål og svar legges inn
 ## For boligkjøpere og eiendomsmeglere
 Før man kjøper har man gjerne en del spørsmål om boligen og/eller sameiet. Her forsøker vi å svare på noen av de hyppige spørsmålene:
 
-### Er det planlagt noen store prosjekter i fremtiden?
-
-Per april 2025 er det ingen store prosjekter planlagt i umiddelbar framtid. Vi har et vedlikeholdsfond finansiert over husleien som øker med en god sum hvert eneste år. Det er hovedsakelig dette vi forsøker å ta store prosjekter gjennom. I 2023 gjennomførte vi rørfornying til seks millioner kroner og dette kunne vi gjennomføre uten å belaste sameierne med ytterligere engangsutgifter.
-
-Før eller siden må vi gjøre noe med tak og heis. Om det ikke skjer noe uforutsett er planen å ta det litt etter litt og forsøke å holde oss innenfor vedlikeholdsfondet.
-
 ### Er det planlagt økning i felleskostnader/fellesgjeld?
 
 Det er ikke planlagt økning med mindre offentlige kostnader øker drastisk.
+
+Vi har et _vedlikeholdsfond_ finansiert over husleien som øker med en god sum hvert eneste år. Det er hovedsakelig dette vi forsøker å ta store prosjekter gjennom. I 2023 gjennomførte vi rørfornying til seks millioner kroner og dette kunne vi gjennomføre uten å belaste sameierne med ytterligere engangsutgifter.
+
+
+
+### Er det planlagt noen store prosjekter i fremtiden?
+
+Per april 2025 er det ingen store prosjekter planlagt i umiddelbar framtid. Før eller siden må vi gjøre noe med tak og heis. Om det ikke skjer noe uforutsett er planen å ta det litt etter litt og forsøke å holde oss innenfor vedlikeholdsfondet.
 
 ### Har borettslaget sikringsfond og forkjøpsrett? 
 Dette gjelder kun borettslag, og siden dette er et sameiet følger det at det er irrelevant.
