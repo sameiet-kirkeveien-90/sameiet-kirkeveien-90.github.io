@@ -17,6 +17,37 @@ På denne siden kan hyppige stilte spørsmål og svar legges inn
 {:toc}
 </details>
 
+## For boligkjøpere og eiendomsmeglere
+Før man kjøper har man gjerne en del spørsmål om boligen og/eller sameiet. Her forsøker vi å svare på noen av de hyppige spørsmålene:
+
+### Er det planlagt noen store prosjekter i fremtiden?
+
+Per april 2025 er det ingen store prosjekter planlagt i umiddelbar framtid. Vi har et vedlikeholdsfond finansiert over husleien som øker med en god sum hvert eneste år. Det er hovedsakelig dette vi forsøker å ta store prosjekter gjennom. I 2023 gjennomførte vi rørfornying til seks millioner kroner og dette kunne vi gjennomføre uten å belaste sameierne med ytterligere engangsutgifter.
+
+Før eller siden må vi gjøre noe med tak og heis. Om det ikke skjer noe uforutsett er planen å ta det litt etter litt og forsøke å holde oss innenfor vedlikeholdsfondet.
+
+### Er det planlagt økning i felleskostnader/fellesgjeld?
+
+Det er ikke planlagt økning med mindre offentlige kostnader øker drastisk.
+
+### Har borettslaget sikringsfond og forkjøpsrett? 
+Dette gjelder kun borettslag, og siden dette er et sameiet følger det at det er irrelevant.
+
+### Er det tillatt med husdyr?
+Ja
+
+### Er det utført noen større vedlikeholdsprosjekt i gården de siste årene som er verdt å nevne?
+
+Vi gjennomførte fornying av avløpsrør i 2023
+
+### Er sameiet/borettslaget kjent med tilfeller av skjeggkre/sølvkre eller andre skadedyr?
+
+Nei. Vi holder til sentralt i Oslo, så en og annen rotte kan være å se i kjelleren om noen lar en dør stå på gløtt eller noen knuser et vindu, men vi plages ikke av dette til vanlig. Har hørt noen nevne sølvkre på badet, men det har vært lokalt. Skjeggkre ble en kjent plage i Norge på 2010-tallet, men etter Folkehelseinstituttet kom [offisielle råd om bekjempelse](https://www.fhi.no/sk/skadedyrhandboka/smadyr-andre/skjeggkre/?term=#bekjempelse) via forgiftet åte er dette problemet å anse som løst, ettersom man lett kan bli kvitt det i løpet av et par måneder. Vi har ikke hørt noen nevne skjeggkre, men man må anta at det spesielt ved oppussing kan forekomme smitte via spesielt pappkasser.
+
+### Når avholdes årsmøter?
+
+Årsmøtene pleier skje  på våren, vanligvis i april/mai.
+
 ## Oppussing
 
 ### Hvordan får jeg noe til å sitte i disse porøse veggene?

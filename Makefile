@@ -27,7 +27,11 @@ install-precommit:
 	chmod +x .git/hooks/pre-commit
 
 check-links:
-	bundle exec htmlproofer --assume-extension='.html' --ignore-status-codes="403" --no-enforce-https ./_site 
+	bundle exec htmlproofer --assume-extension='.html' \
+		 --no-check-external-hash      \
+		--ignore-urls=/github.com\/.*edit/ \
+		--ignore-status-codes="403" \
+		--no-enforce-https ./_site 
 
 # only for checking out the final build
 # # only for checking out the final build
