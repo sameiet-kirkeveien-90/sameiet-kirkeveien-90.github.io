@@ -15,7 +15,7 @@ Mange ønsker da å benytte en nøkkelboks og det kan være fristende å skru fa
 
 ## Praktisk løsning: Easypick
 
-[Easypick](https://www.easypick.app) er Styrets foretruke løsning for nøkkeldeling. Det er da minst 4 steder innen en radius på 600 meter der man kan levere inn nøkler og en annen person kan plukke dem opp. Bruker du håndværkere, som gjerne starter i syvtiden, er Deli De Luca ved T-banen på Majorstuen antagelig det beste alternativet, ettersom de åpner halv syv på morgenen (05:30 på torsdager).
+[Easypick](https://www.easypick.app) er Styrets foretruke løsning for nøkkeldeling. Det er da minst 4 steder innen en radius på 600 meter der man kan levere inn nøkler og en annen person kan plukke dem opp. St1-stasjonen (tidligere Shell Marienlyst) er soleklart mest attraktive - både nært og døgnåpent.
 
 Du må laste ned appen og legge inn kortdetaljer for å benytte tjenesten.
 <flex>
