@@ -13,6 +13,9 @@ Mange ønsker da å benytte en nøkkelboks og det kan være fristende å skru fa
 
 > Det er forbudt å oppbevare nøkler til sameiet i nøkkelbokser montert i gården
 
+Vi har tidligere opplevd at nøkkelbokser har 
+blitt stjålet og kommet på avveie.
+
 ## Praktisk løsning: Easypick
 
 [Easypick](https://www.easypick.app) er Styrets foretruke løsning for nøkkeldeling. Det er da minst 4 steder innen en radius på 600 meter der man kan levere inn nøkler og en annen person kan plukke dem opp. St1-stasjonen (tidligere Shell Marienlyst) er soleklart mest attraktive - både nært og døgnåpent.
