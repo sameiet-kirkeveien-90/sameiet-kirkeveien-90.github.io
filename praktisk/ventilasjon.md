@@ -6,14 +6,21 @@ redirect_from:
     - /ventilasjon
 ---
 
-# Ventilasjon
+Denne siden handler om hvordan du kan forebygge og avdekke problemer knyttet til ventilasjon, lukt og fyring i peising (som er sterkt relatert). 
+
+<details open markdown="block">
+
+  <summary>På denne siden finner du</summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+# Generelt om ventilasjonen
 Ventilasjonen i K90 er basert på prinsipper for naturlig ventilasjon - uten noen form for mekanikk. 
 _Om man plages av mat- eller røyklukt skyldes det som oftest undertrykk i leiligheten det gjelder_. 
 Slik skal det ikke være! I utgangspunktet skal det være god nok sirkulasjon til at lukt, røyk og damp
 blir trukket ut av leiligheten uten noe mer magi enn åpne luker.
-
-Denne siden handler om hvordan du kan forebygge og avdekke problemer knyttet til dette, samt
-fyring i peising (som er sterkt relatert). 
 
 ## Sørg for at oppussing ikke tar livet av sirkulasjonen
 Mange som pusser opp har ødelagt ventilasjonen ved å endre romløsningene, uten å gi ventilasjonen noen tanke, eller har tettet igjen luftekanalene som opprinnelig er i bygget. Det har ført til _dårlig inneklima og mugg_. Snakk med styret før du gjør noe tilsvarende - vi bør kunne gi litt veiledning. Du _kan_ tette igjen kanaler, men du bør typisk da sørge for at det kommer en annen tilførsel av luft for å erstatte denne. Mange har f.eks. satt inn ventiler i balkongdøren for å kompensere for å ha tettet igjen ventilen i stuen mot gården. Andre har satt inn ventiler over vinduene for ekstra tilførsel: dette kan være lurt å gjøre uansett, ettersom mange bruker leiligheten annerledes enn tiltenkt og har laget soverom der det ikke finnes ventilasjon.
@@ -42,7 +49,7 @@ Skisse over lufteluker i en typisk 100 kvm leilighet på venstre side i oppgange
 </figure>
 
 
-## Årsaker til problematisk undertrykk 
+## Årsaker til lukt og problematisk undertrykk 
 Årsakene som fører til undertrykk i leiligheten er nesten alltid stengte lufteluker (de som suger luft _inn_ 
 fra utsiden) og/eller at man har glemt å lukke spjeldet i peisen.
 
