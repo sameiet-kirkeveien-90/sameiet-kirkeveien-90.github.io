@@ -61,7 +61,7 @@ En annen årsak til lukt er at folk som pusser opp har montert vifter på kjøkk
 Grunnen er at luften da blir presset med så høy kraft inn i kanalen at de over og under kan få den inn i leilighetene
 sine. Det blir altså overtrykk i steden for undertrykk i utluftingskanalen
 
-# Piper
+# Peis og piper
 Avtrekket på peisene i bygget besørges av vifter på toppen av hver pipe. I nyere tid har styret gått over vedlikeholdet av pipene og funnet store mangler i vedlikeholdet fra personen dette har vært satt ut til fram til 2020. Noen vifter sang på siste verset, mens andre gikk for maksimalt turtall i steden for å justeres etter behov. Dette blir i 2024 gått over grundig og det forventes en betydelig forbedring vinteren 2025. Noe arbeidet vil gjøres i 2026 for å strekke kostnadene over vedlikeholdsbudsjettet over to år.
 
 Det er uansett interessant for styret å høre om ting som ikke fungerer, så om du opplever røyklukt eller dårlig trekk så [si fra til styreleder eller andre i styret](/kontakt).
