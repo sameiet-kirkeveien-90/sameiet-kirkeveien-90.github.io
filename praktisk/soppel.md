@@ -65,6 +65,8 @@ Vi har heiser fra tredvetallet som fremdeles fungerer godt og vi vil beholde dem
 ## Marienlyst mobile gjenvinningsstasjon
 > Obs! Stasjonen står ikke lenger ved NRK, men er tilbake i Suhms gate 19.
 
+![Suhms gate 19](/assets/images/suhmsgate19.jpg)
+
 Hver onsdag fra 16-19:30 er det en mobil gjenvinningsstasjon i Suhms gate 19.  Her sender du alt du vanligvis ikke ville stappet i en vanlig søppelkasse:
 - knust glass (som ikke er emballasje), f.eks. vannglass, knuste ruter, speil, knust glass fra innrammede bilder, etc
 - store mengder papp og papir (f.eks. tømming av bokhyller)
