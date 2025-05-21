@@ -1,8 +1,19 @@
 ---
-title: Nøkkeldeling
+title: Nøkler og nøkkeldeling
 layout: default
 parent: Praktisk
 ---
+
+# Generelt om nøkler i KV90
+En beboer i sameiet trenger typisk fem nøkler:
+
+1. Fysisk systemnøkkel. Denne kommer du inn ytterdøra med. Den gir også tilgang til kjellerarealene - inkludert sykkelkjeller, vaskerom og gangene der dine egne boder er.
+1. Elektronisk nøkkel til ytterdør. Man får typisk to elektroniske nøkler av sameiet. Disse har en chip som er kodet unikt til deg. Hvis du mister en slik chip må du umiddelbart si fra til din kontaktperson i styret så vi får sperret den.
+1. Nøkkel til leiligheten (den styrer du med selv)
+1. Nøkkel til bod 1 (typisk en vanlig dør)
+1. Nøkkel til bod 2 (typisk en enklere boddør sikret med hengelås)
+
+Mister du en systemnøkkel eller trenger nye nøkler (fysisk eller chip) melder du bare fra til en i styret.
 
 # Deling av nøkler
 
@@ -13,8 +24,7 @@ Mange ønsker da å benytte en nøkkelboks og det kan være fristende å skru fa
 
 > Det er forbudt å oppbevare nøkler til sameiet i nøkkelbokser montert i gården
 
-Vi har tidligere opplevd at nøkkelbokser har 
-blitt stjålet og kommet på avveie.
+Vi har tidligere opplevd at nøkkelbokser har blitt stjålet og kommet på avveie.
 
 ## Praktisk løsning: Easypick
 
