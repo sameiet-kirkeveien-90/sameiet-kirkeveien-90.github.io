@@ -1,6 +1,7 @@
 ---
 title: Duer på balkongen
 layout: default
+parent: Praktisk
 ---
 
 # Duedritt på balkongene

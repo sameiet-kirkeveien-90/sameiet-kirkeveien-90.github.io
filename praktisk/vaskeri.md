@@ -1,6 +1,7 @@
 ---
 title: Fellesvaskeri
 layout: default
+parent: Praktisk
 ---
 
 # Fellesvaskerier
