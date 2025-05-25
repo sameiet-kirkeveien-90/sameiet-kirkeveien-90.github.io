@@ -40,7 +40,9 @@ Ja
 
 ### Hvor kan jeg sette barnevogn?
 Den må dessverre tas med opp i leiligheten. 
-Det skal sies at selv tvillingvogn fra Buggaboo går fint inn i heisen (av erfaring). Fellesarealene er rømningsvei og må holdes fri for brennbart og hindringer. Sykkelboden er kun for sykkelrelatert.
+Det skal sies at selv tvillingvogn fra Buggaboo går fint inn i heisen (av erfaring). Fellesarealene er rømningsvei og må holdes fri for brennbart og hindringer. Sykkelboden er kun for sykkelrelatert. 
+
+Vi kan anbefale å kjøpe en gummimatte til gangen der slaps og regn kan stå og tørke.
 
 ### Er det utført noen større vedlikeholdsprosjekt i gården de siste årene som er verdt å nevne?
 
