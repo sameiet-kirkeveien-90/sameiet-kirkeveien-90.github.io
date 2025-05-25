@@ -25,6 +25,7 @@ Som ny i sameiet er det mye man kan lure på, så her er informasjonen de fleste
 - Postkassa er ditt ansvar å holde ren og med [riktig skilt](https://skilthandelen.no/products/postkasseskilt-stort?variant=47094946136353). 
 - Sykkel? [Sett den trygt](/praktisk/sykkel).
 - Duer kan være plagsomme og griser til. [Her er hva du kan gjøre](/praktisk/duer)
+- [Internett og TV](https://www.kirkeveien90.no/praktisk/internett.html) er inkludert i husleien 
 
 ## Info for du som eier boligen selv
 Mange som flytter inn har tanker om å pusse opp. Gjør deg kjent med det som står om det [her](/oppussing), søk om du ikke finner det du lurer på og spør gjerne oss i styret. 
