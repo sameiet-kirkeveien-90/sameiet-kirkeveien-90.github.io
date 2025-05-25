@@ -38,6 +38,10 @@ Dette gjelder kun borettslag, og siden dette er et sameiet følger det at det er
 ### Er det tillatt med husdyr?
 Ja
 
+### Hvor kan jeg sette barnevogn?
+Den må dessverre tas med opp i leiligheten. 
+Det skal sies at selv tvillingvogn fra Buggaboo går fint inn i heisen (av erfaring). Fellesarealene er rømningsvei og må holdes fri for brennbart og hindringer. Sykkelboden er kun for sykkelrelatert.
+
 ### Er det utført noen større vedlikeholdsprosjekt i gården de siste årene som er verdt å nevne?
 
 Vi gjennomførte fornying av avløpsrør i 2023
