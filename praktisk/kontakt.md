@@ -47,6 +47,11 @@ form.onsubmit = async (event) => {
 ## Forretningsadresse
 Sjekk gjerne [proff.no](https://www.proff.no/roller/sameiet-kirkeveien-90/oslo/l%C3%B8nnet-arbeid-i-private-husholdninger/IG70W9510PK)
 
-- Ullernfaret 14 C, 0281 Oslo
-- Org.nr: 979257929
+<pre>
+c/o advokat Dag Erlandsen
+Ullernfaret 14 C, 0281 Oslo
+</pre>
+
+## Annet
+Org.nr: 979257929
 
