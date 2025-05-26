@@ -20,12 +20,11 @@ Som ny i sameiet er det mye man kan lure på, så her er informasjonen de fleste
 - Når det kommer til søppel går det ofte galt når man er ny i gårde. Derfor har vi en [egen side](/praktisk/soppel) som dekker alt vi som dukker opp mtp  _hva, hvor og hvordan_.
 - Lurer du på noe om [nøkler](/praktisk/nøkler)? Mange vil f.eks. bestille flere chip-nøkler eller lurer på hvordan man ordner deling av nøkkel med håndverker. 
 - Familien har fått omgangssyke? Vi har [fellesvaskeri](/praktisk/vaskeri)!
-- Husreglene finner du i menyen. Her står det litt om hva som er praktisk lov.
 - Navn på ringeklokka oppdateres med jevne mellomrom. Si fra til styret hva du ønsker skal stå der.
-- Postkassa er ditt ansvar å holde ren og med [riktig skilt](https://skilthandelen.no/products/postkasseskilt-stort?variant=47094946136353). 
-- Sykkel? [Sett den trygt](/praktisk/sykkel).
-- Duer kan være plagsomme og griser til. [Her er hva du kan gjøre](/praktisk/duer)
+- Postkassa er ditt ansvar å holde ren og med [riktig skilt](https://skilthandelen.no/products/postkasseskilt-stort?variant=47094946136353).
 - [Internett og TV](https://www.kirkeveien90.no/praktisk/internett.html) er inkludert i husleien 
+- Sykkel? [Sett den trygt](/praktisk/sykkel) i boden.
+- Duer kan være plagsomme og griser til balkongene. [Her er hva du kan gjøre](/praktisk/duer) for å holde dem på avstand.
 
 ## Info for du som eier boligen selv
 Mange som flytter inn har tanker om å pusse opp. Gjør deg kjent med det som står om det [her](/oppussing), søk om du ikke finner det du lurer på og spør gjerne oss i styret. 
