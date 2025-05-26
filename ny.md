@@ -19,7 +19,7 @@ Som ny i sameiet er det mye man kan lure på, så her er informasjonen de fleste
 ## Info for alle nye beboere
 - Når det kommer til søppel går det ofte galt når man er ny i gårde. Derfor har vi en [egen side](/praktisk/soppel) som dekker alt vi som dukker opp mtp  _hva, hvor og hvordan_.
 - Lurer du på noe om [nøkler](/praktisk/nøkler)? Mange vil f.eks. bestille flere chip-nøkler eller lurer på hvordan man ordner deling av nøkkel med håndverker. 
-- Vi har [fellesvaskeri](/praktisk/vaskeri)!
+- Familien har fått omgangssyke? Vi har [fellesvaskeri](/praktisk/vaskeri)!
 - Husreglene finner du i menyen. Her står det litt om hva som er praktisk lov.
 - Navn på ringeklokka oppdateres med jevne mellomrom. Si fra til styret hva du ønsker skal stå der.
 - Postkassa er ditt ansvar å holde ren og med [riktig skilt](https://skilthandelen.no/products/postkasseskilt-stort?variant=47094946136353). 
