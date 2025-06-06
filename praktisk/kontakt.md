@@ -11,8 +11,8 @@ parent: Praktisk
 Trenger du å kontakte noen i styret finner du telefonnummerene oppført på tavla ved utgangsdøren i hver oppgang.
 Vi biter ikke :) 
 
-## Styremedlemmer 2025-26
-- Carl-Erik Kopseng (styreleder, oppgang D)
+## Styremedlemmer
+- Carl-Erik Kopseng (styreleder). Valgt til 2026. Bor i oppgang D
 - Marit Aal Hughes (oppgang A)
 - Øystein Revheim (oppgang E)
 
