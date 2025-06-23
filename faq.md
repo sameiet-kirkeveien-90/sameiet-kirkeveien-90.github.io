@@ -141,4 +141,4 @@ Dette er ikke en bindende uttalelse fra ingeniør, så konsulter en RIB før riv
 ## Diverse
 
 ### Hvor kan jeg kaste glass- og metallemballasje nå som Shell er borte?
-På andre siden av parken. Se ellers [søppelsiden](/soppel).
+Det er satt opp en returbeholder for glass og metallemballasje på stasjonen igjen, men nå i den andre enden, mot Marienlyst. Se ellers [søppelsiden](/soppel).
