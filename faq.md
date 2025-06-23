@@ -124,7 +124,14 @@ På tegningene kan du se at noen vegger er skravert (diagonalskravur) - dette er
 ##### En lekmannstolkning
 > med litt hjelp fra en sivilarkitekt
 
-Det ser ut som bæringen hovedsakelig ligger i ytterveggene, heisrommene, trapperommene, søylene som betongdragerne (du kan se disse i snitt av bygningen og på bildet under) ligger på (og dragerne) og skilleveggen mellom seksjonene. Ut i fra tegningene virker det som veggene innad i leiligheten ikke har bærende funksjon. Dette er ikke en bindende uttalelse fra ingeniør, så konsulter en før riving.
+Det ser ut som bæringen hovedsakelig ligger i ytterveggene, heisrommene, trapperommene, søylene som betongdragerne (du kan se disse i snitt av bygningen og på bildet under) ligger på (og dragerne) og skilleveggen mellom seksjonene. Ut i fra tegningene virker det som veggene innad i leiligheten ikke har bærende funksjon. 
+<figure>
+    <img src="/assets/images/søyler_og_dragere.jpg" alt="Bilde av bærende konstruksjon"/>
+    <figcaption>Eksempel på dragere som går gjennom leiligheten og hviler på søyler</figcaption>
+</figure>
+
+Dette er ikke en bindende uttalelse fra ingeniør, så konsulter en RIB før riving! Du har ansvaret.
+
 
 ## Diverse
 

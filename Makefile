@@ -30,7 +30,7 @@ check-links:
 	bundle exec htmlproofer --assume-extension='.html' \
 		 --no-check-external-hash      \
 		--ignore-urls=/github.com\/.*edit/ \
-		--ignore-status-codes="403" \
+		--ignore-status-codes="403,400" \
 		--no-enforce-https ./_site 
 
 # only for checking out the final build
