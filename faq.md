@@ -130,6 +130,11 @@ Det ser ut som bæringen hovedsakelig ligger i ytterveggene, heisrommene, trappe
     <figcaption>Eksempel på dragere som går gjennom leiligheten og hviler på søyler</figcaption>
 </figure>
 
+<figure>
+    <img src="/assets/images/utsnitt fra plan 2. etasje.png" alt="Utsnitt av plan"/>
+    <figcaption>Utsnitt av plan for 2. etasje med søyler indikert</figcaption>
+</figure>
+
 Dette er ikke en bindende uttalelse fra ingeniør, så konsulter en RIB før riving! Du har ansvaret.
 
 
