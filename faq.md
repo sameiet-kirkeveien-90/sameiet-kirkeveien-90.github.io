@@ -56,6 +56,8 @@ Nei. Vi holder til sentralt i Oslo, så en og annen rotte kan være å se i kjel
 
 Årsmøtene pleier skje  på våren, vanligvis i april/mai.
 
+
+
 ## Oppussing
 
 ### Hvordan får jeg noe til å sitte i disse porøse veggene?
@@ -80,6 +82,8 @@ Se egen side for [utvendig uttrykk](/oppussing/utvendig#fargekoder).
 
 Se [egen side](/praktisk/nøkler) for alt relatert til nøkkelboks og nøkkeldeling.
 
+
+
 ## Teknisk
 
 ### Er det gjort noen radonmålinger?
@@ -87,6 +91,40 @@ I ["Julebrev 2019"](https://www.dropbox.com/scl/fi/o5lezh1v4ch1mwysauv8d/Julebre
 > I henhold til byggeforskrifter skal radonkonsentrasjonen i bygninger som er oppført eller rehabilitert i henhold til Plan- og bygningsloven ikke overstige 200 Bq/m³.
 >
 > *Resultatet for Kirkeveien 90 ligger mellom 20 og 100 Bq/m³.*
+
+
+### Hvor er bæringen i konstruksjonen?
+Mange tenker på å gjøre endringer i leilighetene sine og lurer på hvilke deler av bygget som er bærende konstruksjoner. 
+
+#### Det korte svaret
+Ingen lekfolk bør begi seg utpå dette uten å konsultere en RIB (Rådgivende Ingeniør Bygg) ettersom ansvaret ligger helt og holdent på den som utfører tiltaket. Man risikerer massive erstatningssøksmål om man gjør noe som skader bærende konstruksjoner.
+
+#### Det lange svaret
+
+Sjekk tegningene og gjør noen lekmannsundersøkelser for å se om det er noen vits å starte prosessen
+
+1. Gå til [saksinnsyn i Plan og bygningsetaten](https://innsyn.pbe.oslo.kommune.no/saksinnsyn/) og søk på "Kirkeveien 90"
+1. Rull ned til [opprinnelig sak fra 1934][opprinnelig] (de første fire sifrene av saksnummeret er årstall): "Våningshus"
+1. Her er det 103 dokumenter
+1. Velg fanen "Tegninger" og logg inn med BankID
+1. Fordi de er gamle er det ingen indikasjon på hva de inneholder. Eneste måte: klikke en og en. P.S. Det er ikke _garantert_ at de er bygget nøyaktig slik de er tegnet.
+1. Tolk tegningene :)
+
+[opprinnelig]: https://innsyn.pbe.oslo.kommune.no/saksinnsyn/casedet.asp?caseno=193401482&wfl=T&Dateparam=06/19/2025
+
+##### Hvordan tolke tegningene
+På tegningene kan du se at noen vegger er skravert (diagonalskravur) - dette er antagelig bærevegger. Dette er standard tegnemåte i dag, men det er ikke sikkert man fulgte samme standard i 1934. **Generelt: tykke veger har bæring.** Det er normalt å legge bæring mellom enhetene. De tykke veggene. Fasadene er tykkere, samt rundt trapperom.
+
+- [Tegning 1/53][tegning-1-53] viser et bra eksempel på plan med bæring
+- Tegning 1/78 er en fundamentplan som viser hvor bæringen kommer ned
+- Bygget er uvanlig godt teknisk dokumentert for å være fra 1934. Dersom man får en RIB til å se på det er dette gunstig.
+
+[tegning-1-53]: https://innsyn.pbe.oslo.kommune.no/saksinnsyn/showfile.asp?jno=2014130470&fileid=5623487
+
+##### En lekmannstolkning
+> med litt hjelp fra en sivilarkitekt
+
+Det ser ut som bæringen hovedsakelig ligger i ytterveggene, heisrommene, trapperommene, søylene som betongdragerne (du kan se disse i snitt av bygningen og på bildet under) ligger på (og dragerne) og skilleveggen mellom seksjonene. Ut i fra tegningene virker det som veggene innad i leiligheten ikke har bærende funksjon. Dette er ikke en bindende uttalelse fra ingeniør, så konsulter en før riving.
 
 ## Diverse
 
