@@ -39,3 +39,5 @@ callouts:
   info:
     title: Info
     color: blue
+  highlight:
+    color: yellow

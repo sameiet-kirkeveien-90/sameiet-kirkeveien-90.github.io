@@ -67,7 +67,8 @@ videresendes deg.
 Vi har heiser fra tredvetallet som fremdeles fungerer godt og vi vil beholde dem så lenge som mulig. Heisene har ofte fått skader under oppussing. Dette er den som pusser opp sitt (økonomiske) ansvar, så [les deg godt opp](/oppussing/heis)
 
 ## Marienlyst mobile gjenvinningsstasjon
-> Obs! Stasjonen står ikke lenger ved NRK, men er tilbake i Suhms gate 19.
+Stasjonen står ikke lenger ved NRK, men er tilbake i Suhms gate 19.
+{: .highlight }
 
 ![Suhms gate 19](/assets/images/suhmsgate19.jpg)
 
