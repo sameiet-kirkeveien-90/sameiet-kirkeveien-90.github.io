@@ -151,4 +151,3 @@ På denne enheten kan man velge om man ønsker lyd, lys eller begge i kombinasjo
 Disse enhetene som et komplett sett med sender og mottaker koster ca. kr. 1800,- inkl mva pr stk, og vi kan konfigurere disse på forhånd slik at vi også kan sende disse pr. post. Da krever det kun at man er kyndig nok til å kunne sette inn en plugg på baksiden av dørtelefonen.
 > 
 > Alternativt kan vi også komme innom og sette de opp på stedet. Her har vi en fast oppmøtepris à kr. 3600,- inkl mva som inkluderer transport og arbeid inntil 1,5 time.
-
