@@ -140,5 +140,15 @@ Dette er ikke en bindende uttalelse fra ingeniør, så konsulter en RIB før riv
 
 ## Diverse
 
-### Hvor kan jeg kaste glass- og metallemballasje nå som Shell er borte?
+### Hvor kan jeg kaste glass- og metallemballasje?
 Det er satt opp en returbeholder for glass og metallemballasje på stasjonen igjen, men nå i den andre enden, mot Marienlyst. Se ellers [søppelsiden](/soppel).
+ 
+### Jeg hører ikke ringeklokka på kjøkkenet. Kan man få en ekstra høyttaler?
+Ta kontakt med [Assistentpartner](/praktisk/kontakt.html#n%C3%B8kkelbrikker-og-porttelefon) direkte. Fra e-post av 22. juni 2025:
+
+> Vi har en enhet som er for akkurat dette formålet. Den har en sender som må tilkobles bak på dørtelefonen, og som vil kunne sende et signal til en egen lydgiver som kan plasseres i ønsket stikkontakt i stue/kjøkken. (Den kan også flyttes rundt v/ behov)
+På denne enheten kan man velge om man ønsker lyd, lys eller begge i kombinasjon for varsling.
+Disse enhetene som et komplett sett med sender og mottaker koster ca. kr. 1800,- inkl mva pr stk, og vi kan konfigurere disse på forhånd slik at vi også kan sende disse pr. post. Da krever det kun at man er kyndig nok til å kunne sette inn en plugg på baksiden av dørtelefonen.
+> 
+> Alternativt kan vi også komme innom og sette de opp på stedet. Her har vi en fast oppmøtepris à kr. 3600,- inkl mva som inkluderer transport og arbeid inntil 1,5 time.
+
