@@ -15,4 +15,4 @@ De som bor her har prøvd det aller meste. Ting vi _vet funker_ for å unngå be
 - hold balkongen ryddig og ren. De liker å lage reir under kasser og presenninger.
 - åpne døra og skrem dem så fort du ser dem. Etterhvert gir de seg! 
 
-Ellers virker det å henge opp cd-plater effektivt, ettersom de blinker og beveger seg, men noen vil kanskje synes det er noe irriterende å se på fra innsiden ... Andre har laget stengsler for effektiv flygning, som å lage et slags spindelvev av snorer på kryss og tvers. Det fungerer også, men er litt arbeidsomt.
+Ellers virker det å henge opp cd-plater effektivt (kun på innsiden), ettersom de blinker og beveger seg, men noen vil kanskje synes det er noe irriterende å se på fra innsiden ... Andre har laget stengsler for effektiv flygning, som å lage et slags spindelvev av snorer på kryss og tvers. Det fungerer forsåvidt også, men er litt arbeidsomt og kan være til hinder for evakuering ved brann!

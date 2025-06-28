@@ -12,13 +12,19 @@ redirect_from:
 Denne siden dekker forhåpentligvis de fleste spørsmål om håndtering av søppel. Kort oppsummert:
 - normale mengder restavfall går i sjakta
 - papp- og papir rives i biter og komprimeres før de kastes i våre kasser i bakgården
+- glass- og metallemballasje skal i konteinere på St1-stasjonen (ved krysset mot Harald Hårfagresgate)
+- det meste annet kan samles og kastes i den [mobile gjenvinningsstasjonen](#marienlyst-mobile-gjenvinningsstasjon) hver onsdag mellom 16 og 19:30
 - maling og annet spesialavfall skal på gjenvinningsstasjonen
-- glass- og metallembalasje skal i konteinere [på andre siden av parken](https://sortere.no/kart/kommune/Oslo) (Wilhelm Færdens vei) 
 - [Stekepanner, metallskrap, skruer](https://www.grontpunkt.no/aktuelt/nyheter/dette-skal-ikke-i-metallinnsamlingen), knuste drikkeglass, og annet deponimateriale kan leveres på gjenbruksstasjonen.
 - Batterier og små-elektro skal til gjenbruksstasjonen.
+- store søppelmengder skal kjøres bort til gjenvinningsstasjonen på Smestad
 
 ## Søppelsjakta mellom leilighetene
 Vi er så heldige at vi er en av få bygårder med fungerende søppelsjakt! Dette er ment for vanlig mat- og restavfall. Denne ligger i bakkant av hver leilighet, der de nå ikke-fungerende heisene for tjenestefolket er, og deles mellom leilighetene på hver side av oppgangen. Alt som går i sjakta skal i pose - ting faller ut, og man kan tenke seg hvor hyggelig det er med bleier som ikke er i pose … Isopor skal kastes som vanlig restavfall, og må derfor også i vanlige handleposer. Større mengder - som når du bestiller et kjøleskap eller stor TV - må avleveres på en gjenbruksstasjon (se over).
+
+Det er et gjentagende problem at folk kaster søppel i konteinerne til den rosa nabogården (Åsaveien 17-19). Det skaper mye trøbbel, så forsøk å informere vaskepersonell, leietagere, med mer om at det ikke må forekomme!
+
+![nabogårdens søppel](/assets/images/nabosøppel.jpg)
 
 ## Papp og papir
 Vi har egne papp- og papirkonteinere stående mellom D- og E-oppgangene. 
@@ -28,11 +34,9 @@ Disse er kun for papp og papir; ikke gavepapir (plast), strips, isopor fra hvite
 - Pappesker må brettes sammen slik at de tar minst mulig plass - det gjelder selvsagt også drikkekartonger og lignende.
 - Store og lange esker må skjæres opp til mindre biter slik at det blir minst mulig luftrom.
 - Det skal ikke settes igjen søppel ved siden av søppelkassene. 
-- Lokket på kassene må kunne lukkes helt igjen. Dersom det ikke lar seg gjøre må du ta med deg papiret hjem igjen og vente til kassene er tømt eller bare ta det med på den mobile gjenvinningsstasjonen på Marienlyst.
+- Lokket på kassene må kunne lukkes helt igjen for at pappen ikke skal bli våt. 
 
-Det er et gjentagende problem at folk kaster søppel i konteinerne til den rosa nabogården (Åsaveien 17-19). Det skaper mye trøbbel, så forsøk å informere vaskepersonell, leietagere, med mer om at det ikke må forekomme!
-
-![nabogårdens søppel](/assets/images/nabosøppel.jpg)
+Dersom det er fullt må du ta med deg papiret hjem igjen og vente til kassene er tømt eller bare ta det med på den [mobile gjenvinningsstasjonen](#marienlyst-mobile-gjenvinningsstasjon) på Marienlyst.
 
 ## Mer enn normale mengder søppel
 Har du f.eks. kjøpt et kjøleskap, IKEA-møbler eller annet som genererer mye søppel kan du ikke kaste det i restavfallet eller papirdunkene. De er ment for små (normale) mengder søppel og masse isopor i restavfallet gjør at søpla i kjelleren flyter utover! Det mest nærliggende er å kjøre søpla til gjenvinningsstasjonen på Smestad, fem min fra Majorstua, men den mobile gjenbruksstasjonen tar både trevirke, isopor og store pappmengder. Se [egen side](/praktisk/bil) om du mangler bil. 
