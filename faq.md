@@ -56,7 +56,35 @@ Nei. Vi holder til sentralt i Oslo, så en og annen rotte kan være å se i kjel
 
 Årsmøtene pleier skje  på våren, vanligvis i april/mai.
 
+### Hva er seksjonsnummeret til leiligheten?
+Se [oversikten over alle seksjonene][oversikt seksjoner] hos Eiendomsregisteret til Kartverket.
+Her kan du f.eks. søke etter "90D-H0301" (3. etasje, venstre side) og får da typisk opp "0301-46/57/0/24".
+De to første tallene er gårds- og bruksnummer (46, 57). Det siste tallet her, "24", er seksjonsnummeret. Du kan i noen dokumenter se det nevnt som "2400".
 
+I oversikten kan du også se [grunnboksutskriften][grunnbok] som viser eierbrøkene som er til grunn for hva den enkelte
+skal betale i husleie.
+
+[oversikt seksjoner]: https://eiendomsregisteret.kartverket.no/eiendom/0301/46/57
+[grunnbok]: https://eiendomsregisteret.kartverket.no/eiendom/0301/46/57?kommunenummer=0301&gaardsnummer=46&bruksnummer=57&grunnboksutskrift=eiendom
+
+### Eier sameiet grunnen bygningen står på?
+Sameiet eier grunnen bygningen står på. Eiendomsregisteret har oversikt over tomter (ikke bygninger),
+og [der][oversikt seksjoner] kan man lese under "Mer eiendomsinformasjon -> Eiendom" at typen er 
+["grunneiendom"](https://snl.no/grunneiendom).
+
+### Er det noen heftelser?
+Per juli 2025 er det ingen heftelser registrert i [grunnboka][grunnbok].
+
+### Hvor går tomtegrensen?
+Se [Kartverkets SeEiendom.no](https://norgeskart.no/#!?project=seeiendom&zoom=17&lat=6651577.17&lon=261003.67&markerLat=6651573&markerLon=261010&panel=Seeiendom&showSelection=true&p=Seeiendom&layers=1001,1011,1012,1013&sok=Suhms%20gate). Der ser du at deler av bakgården vår faktisk er eid av den rosa naboeiendommen,
+blant annet delen ut mot tunnelen mot Harald Hårfagres gate, hagen og hele sykkelparkeringen. Vi har 
+dog fått lov til å benytte disse i vennskapelighet.
+
+### Hvor er bygget forsikret?
+Bygget er forsikret i If Forsikring, polisenummer SP408203.
+
+### Hva skjer ved salg? Hvem sier fra til hvem? Kartverk? Forretningsfører?
+Undersøkes (per 24. juli 2025)
 
 ## Oppussing
 
