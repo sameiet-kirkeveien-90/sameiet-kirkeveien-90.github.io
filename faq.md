@@ -81,7 +81,7 @@ blant annet delen ut mot tunnelen mot Harald Hårfagres gate, hagen og hele sykk
 dog fått lov til å benytte disse i vennskapelighet.
 
 ### Hvor er bygget forsikret?
-Bygget er forsikret i If Forsikring, polisenummer SP408203.
+Bygget er forsikret i If Forsikring, polisenummer SP408203. Bygningskroppen (og følger) er sameiets ansvar, det som er på innsiden må forsikres av den enkelte med innboforsikring. F.eks. vil typisk en vannskade som følge av feil eller skader på byggets egne rør dekkes av sameiets forsikring, mens vannskader som skjer som følger av forlengelser på rør til nytt kjøkken være seksjonseiers ansvar.
 
 ### Hva skjer ved salg? Hvem sier fra til hvem? Kartverk? Forretningsfører?
 Undersøkes (per 24. juli 2025)
