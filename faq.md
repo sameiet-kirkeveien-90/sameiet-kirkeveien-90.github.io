@@ -83,8 +83,22 @@ dog fått lov til å benytte disse i vennskapelighet.
 ### Hvor er bygget forsikret?
 Bygget er forsikret i If Forsikring, polisenummer SP408203. Bygningskroppen (og følger) er sameiets ansvar, det som er på innsiden må forsikres av den enkelte med innboforsikring. F.eks. vil typisk en vannskade som følge av feil eller skader på byggets egne rør dekkes av sameiets forsikring, mens vannskader som skjer som følger av forlengelser på rør til nytt kjøkken være seksjonseiers ansvar.
 
-### Hva skjer ved salg? Hvem sier fra til hvem? Kartverk? Forretningsfører?
-Undersøkes (per 24. juli 2025)
+### Hva skjer ved salg? Hvem sier fra til hvem?
+Svar fra vår forretningsfører , NOR Forvaltning (24. juli 2025)
+
+> få tilsendt salgsavtalen eller annen dokumentasjon på eierskifte som tinglysning el. slik at vi ser ar overføringen er reel og gjennomført.
+> 
+> Selger må selv sørge for tinglysning da det er eiendomsmegler som normalt gjør dette.
+> 
+> I tillegg må vi ha informasjon på ny eier så som personnr, tlf og epost samt dato for overtagelse.
+> 
+> I forbindelse med salget må også eventuelt restanser gjøres opp av selger før vi kan registrere eierskiftet.
+> 
+> Det betyr at vi må ha informasjon om salget i forkant av dato for eierskifte.
+>
+> Det tilkommer eierskiftegebyr fra oss på kr 6570,- inkl mva.
+>
+> Vi sender også informasjon om eierskifte til styret for eventuell godkjenning eller kommentarer.
 
 ## Oppussing
 
