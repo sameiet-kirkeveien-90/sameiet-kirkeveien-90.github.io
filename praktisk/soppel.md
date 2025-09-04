@@ -67,7 +67,10 @@ videresendes deg.
 Vi har heiser fra tredvetallet som fremdeles fungerer godt og vi vil beholde dem så lenge som mulig. Heisene har ofte fått skader under oppussing. Dette er den som pusser opp sitt (økonomiske) ansvar, så [les deg godt opp](/oppussing/heis)
 
 ## Marienlyst mobile gjenvinningsstasjon
-Stasjonen står ikke lenger ved NRK, men er tilbake i Suhms gate 19.
+Stengt!! Nærmeste er antagelig [Vestkanttorget](https://www.oslo.kommune.no/avfall-og-gjenvinning/alle-gjenvinningsstasjoner/vestkanttorvet-mobile-gjenvinningsstasjon/) som er åpen torsdager fra 16-19.
+
+> Marienlyst mobile gjenvinningsstasjon er stengt inntil videre
+> Tomten skal tilbakeføres som friområde og det gjør at stoppestedet vårt dessverre er stengt inntil videre. Vi jobber med å finne en løsning.
 {: .highlight }
 
 ![Suhms gate 19](/assets/images/suhmsgate19.jpg)
