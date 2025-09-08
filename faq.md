@@ -20,13 +20,13 @@ På denne siden kan hyppige stilte spørsmål og svar legges inn
 ## For boligkjøpere og eiendomsmeglere
 Før man kjøper har man gjerne en del spørsmål om boligen og/eller sameiet. Her forsøker vi å svare på noen av de hyppige spørsmålene:
 
-### Er det planlagt økning i felleskostnader/fellesgjeld?
+### Hva er inkludert i felleskostnadene?
+Varmtvann og vannbåren varme til radiatorer fra [Hafslund Celsio](https://no.wikipedia.org/wiki/Hafslund_Celsio), kabel-TV og bredbånd fra Telenor, trappevask, vedlikehold av sameiet og vaktmestertjenester er inkludert i felleskostnader per måned.
 
+### Er det planlagt økning i felleskostnader/fellesgjeld?
 Det er ikke planlagt økning med mindre offentlige kostnader øker drastisk.
 
 Vi har et _vedlikeholdsfond_ finansiert over husleien som øker med en god sum hvert eneste år. Det er hovedsakelig dette vi forsøker å ta store prosjekter gjennom. I 2023 gjennomførte vi rørfornying til seks millioner kroner og dette kunne vi gjennomføre uten å belaste sameierne med ytterligere engangsutgifter.
-
-
 
 ### Er det planlagt noen store prosjekter i fremtiden?
 
@@ -75,6 +75,9 @@ og [der][oversikt seksjoner] kan man lese under "Mer eiendomsinformasjon -> Eien
 ### Er det noen heftelser?
 Per juli 2025 er det ingen heftelser registrert i [grunnboka][grunnbok].
 
+### Har sameiet parkeringsplasser for leie
+Nei. Sameiet har knapt med plass, men mange beboere leier parkeringsplasser som ligger under Marienlystparken. I Gardeveien er det også et parkeringsanlegg som ofte har ledige plasser (litt over tusenlappen i måneden per 2023).
+
 ### Hvor går tomtegrensen?
 Se [Kartverkets SeEiendom.no](https://norgeskart.no/#!?project=seeiendom&zoom=17&lat=6651577.17&lon=261003.67&markerLat=6651573&markerLon=261010&panel=Seeiendom&showSelection=true&p=Seeiendom&layers=1001,1011,1012,1013&sok=Suhms%20gate). Der ser du at deler av bakgården vår faktisk er eid av den rosa naboeiendommen,
 blant annet delen ut mot tunnelen mot Harald Hårfagres gate, hagen og hele sykkelparkeringen. Vi har 
@@ -99,6 +102,11 @@ Svar fra vår forretningsfører , NOR Forvaltning (24. juli 2025)
 > Det tilkommer eierskiftegebyr fra oss på kr 6570,- inkl mva.
 >
 > Vi sender også informasjon om eierskifte til styret for eventuell godkjenning eller kommentarer.
+
+### Kjenner styret i sameiet til noen større prosjekter i nærområdet som kan påvirke bosituasjonen?
+Den pågående oppgraderingen av Majorstuen T-banestasjon påvirker det umiddelbare nærmiljøet høsten 2025, med tanke på gateparkering, stengte gater og økt trafikk i Suhmsgate på grunn av omdirigering. Ellers er det ingen umiddelbare prosjekter. 
+
+Den Store Stygge Ulven i horisonten er salget av NRK. Her skal Ferd bygge 5000 boliger og de forsøker å beslaglegge deler av friområdet til en flerbrukshall. Flere beboere vil naturlig nok føre til økt trafikkmengde i nabolaget, spesielt Suhmsgate og Blindernveien (på oversiden av NRK).
 
 ## Oppussing
 
