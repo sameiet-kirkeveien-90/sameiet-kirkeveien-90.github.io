@@ -201,3 +201,7 @@ På denne enheten kan man velge om man ønsker lyd, lys eller begge i kombinasjo
 Disse enhetene som et komplett sett med sender og mottaker koster ca. kr. 1800,- inkl mva pr stk, og vi kan konfigurere disse på forhånd slik at vi også kan sende disse pr. post. Da krever det kun at man er kyndig nok til å kunne sette inn en plugg på baksiden av dørtelefonen.
 > 
 > Alternativt kan vi også komme innom og sette de opp på stedet. Her har vi en fast oppmøtepris à kr. 3600,- inkl mva som inkluderer transport og arbeid inntil 1,5 time.
+
+### Hvordan lufter jeg radiatorene?
+Når fyringssesongen starter er det viktig at radiatorene luftes for å fjerne luft som kan blokkere varmtvannet fra å sirkulere ordentlig. Når noen glemmer dette kan det gjøre at noen lenger oppe ikke får varme! Heldigvis er dette veldig lett og går fort! Det første du trenger er en radiatornøkkel. Det får du [kjøpt overalt](https://www.google.com/search?q=radiatorn%C3%B8kkel), blant annet på Clas Ohlson i Bogstadveien. For selve luftingen anbefaler jeg å bare se på denne videoen:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eIzJCpJM7sc?si=00IqS_QG6__tsaw2&amp;start=11" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
