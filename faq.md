@@ -142,6 +142,8 @@ I ["Julebrev 2019"](https://www.dropbox.com/scl/fi/o5lezh1v4ch1mwysauv8d/Julebre
 >
 > *Resultatet for Kirkeveien 90 ligger mellom 20 og 100 Bq/m³.*
 
+Høsten 2025 gjøres nye målinger.
+
 
 ### Hvordan lufter jeg radiatorene?
 Når fyringssesongen starter er det viktig at radiatorene luftes for å fjerne luft som kan blokkere varmtvannet fra å sirkulere ordentlig. Når noen glemmer dette kan det gjøre at noen lenger oppe ikke får varme! Heldigvis er dette veldig lett og går fort! Det første du trenger er en radiatornøkkel. Det får du [kjøpt overalt](https://www.google.com/search?q=radiatorn%C3%B8kkel), blant annet på Clas Ohlson i Bogstadveien. For selve luftingen anbefaler jeg å bare se på denne videoen:
