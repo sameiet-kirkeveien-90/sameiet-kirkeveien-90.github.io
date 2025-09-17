@@ -26,11 +26,19 @@ Varmtvann og vannbåren varme til radiatorer fra [Hafslund Celsio](https://no.wi
 ### Er det planlagt økning i felleskostnader/fellesgjeld?
 Det er ikke planlagt økning med mindre offentlige kostnader øker drastisk.
 
-Vi har et _vedlikeholdsfond_ finansiert over husleien som øker med en god sum hvert eneste år. Det er hovedsakelig dette vi forsøker å ta store prosjekter gjennom. I 2023 gjennomførte vi rørfornying til seks millioner kroner og dette kunne vi gjennomføre uten å belaste sameierne med ytterligere engangsutgifter.
+Vi har et _vedlikeholdsfond_ finansiert over husleien som blir tilført rundt en million kroner i året. Det er hovedsakelig dette vi forsøker å ta store prosjekter gjennom. Some et eksempel på dette gjennomførte vi i 2023 rørfornying til seks millioner kroner og dette kunne vi gjennomføre uten å belaste sameierne med ytterligere engangsutgifter. 
+
+#### Hvorfor?
+Det ble bestemt på et sameiermøte i 2001 at et fond øremerket store vedlikeholdsprosjekter skulle opprettes. Det var for å slippe og belemre sameierne med lån med dårlige betingelser. Bruken av fondet krever et vedtak på årsmøtet eller ekstraordinert sameiermøte.
 
 ### Er det planlagt noen store prosjekter i fremtiden?
 
-Per april 2025 er det ingen store prosjekter planlagt i umiddelbar framtid. Før eller siden må vi gjøre noe med tak og heis. Om det ikke skjer noe uforutsett er planen å ta det litt etter litt og forsøke å holde oss innenfor vedlikeholdsfondet.
+Per september 2025 er det ingen store prosjekter planlagt i _umiddelbar_ framtid, men vi er i dialog med flere entrepenører om fornying av taket neste år. Tak er dyrt og vi tømte fondet i 2023, så dette kan innebære noe opptak av lån. Før eller siden må vi også gjøre noe med heis. Om det ikke skjer noe uforutsett er planen å ta heisene litt etter litt og forsøke å holde oss innenfor vedlikeholdsfondet.
+
+### Hva betyr det for meg om sameiet velger å ta opp lån?
+Vi prøver i størst mulig grad å unngå lån, men det kan være at vi ikke kommer unna dette om kostnadene går utover det som er i vedlikeholdsfondet. Mange har ikke mulighet til å hoste opp 60-100 tusen kroner på rappen, og sameiet _må_ gjøre det som er nødvendig for å holde sameiet vedlike. Da blir typisk lånet fordelt på hver seksjon ut i fra sameierbrøken.
+
+Renten et sameie kan oppnå er relativt dårlig sammenlignet med en privatperson siden sameiet ikke kan stille med noe pant. Derfor kan det lønne seg for den enkelte å innfri sin del av lånet ved å heller øke lånerammen på sitt eget boliglån som kan ha tildels mye gunstigere rente. Eksempelvis ligger en typisk rente for et sameie i 2025Q3 på 7,2%. Tilsvarende for en privatperson er ca 4,5%.
 
 ### Har borettslaget sikringsfond og forkjøpsrett? 
 Dette gjelder kun borettslag, og siden dette er et sameiet følger det at det er irrelevant.
