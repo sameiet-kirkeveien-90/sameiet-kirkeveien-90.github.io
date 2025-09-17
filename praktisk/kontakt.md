@@ -45,7 +45,7 @@ Assistentpartner AS har ansvaret for forvaltning av nøkkelbrikkene og porttelef
 ## Annet
 Org.nr: 979257929
 
-Sjekk gjerne [proff.no](https://www.proff.no/roller/sameiet-kirkeveien-90/oslo/l%C3%B8nnet-arbeid-i-private-husholdninger/IG70W9510PK)
+Sjekk gjerne [proff.no](https://www.proff.no/selskap/sameiet-kirkeveien-90/oslo/borettslag/IG70W9503T7)
 
 
 
