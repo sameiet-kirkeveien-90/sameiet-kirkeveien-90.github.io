@@ -36,7 +36,7 @@ Ellers anbefales filtknotter under stoler, matter under lekehjørner, å unngå 
 
 Vær en voksen – vis litt slack.  
 
-Barn bråker – de skriker på vei hjem fra barnehagen, våkner med mareritt og løper med sko inne. Men barn er absolutt velkomne i Kirkeveien 90, og vi vil gjerne ha flere familier her! Vi har valgt å bo sentralt i byen, og da er det noen ting som følger med – uten at man skal godta alt.  
+Barn bråker – de skriker på vei hjem fra barnehagen, våkner med mareritt og løper med sko inne. Men barn er absolutt velkomne i Kirkeveien 90, og vi vil gjerne ha flere familier her! Vi har valgt å bo sentralt i byen, og da er det noen ting som følger med – uten at man skal godta alt. Ser du naboen stå i gangen med hendene fulle og en skrikende unge i barnevogna, tilby deg heller å hjelpe i situasjonen enn å komme med sure toner. Alle tjener på det.
 
 ---
 
