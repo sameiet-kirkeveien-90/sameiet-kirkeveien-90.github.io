@@ -17,9 +17,10 @@ parent: Praktisk
 {:toc}
 </details>
 
-Hver sameierseksjon har én (de minste) eller to tinglyste boder. Det har hendt at folk har byttet seg imellom, brukt feil boder, etc. og det ble derfor i 2022 gjort et stort arbeide av daværende styreleder Anne Steen for å kartlegge og ordne opp i situasjonen. På dette tidspunktet ble alle bodene merket (med små, hvite lapper) hvilken leilighet tilhører: "E\|4V", "C\|1H", etc
+## Kort oppsummert 
+Hver sameierseksjon har én (de minste) eller to tinglyste boder. Det har hendt at folk har byttet seg imellom, brukt feil boder, etc. og det ble derfor i 2022 gjort et stort arbeide av daværende styreleder, Anne Steen, for å kartlegge og ordne opp i situasjonen. På dette tidspunktet ble alle bodene merket med små, hvite lapper hvilken leilighet tilhører: "E\|4V", "C\|1H", etc.
 
-Disse hvite lappene er fasiten og er basert på den opprinnelige seksjoneringsbegjæringen av 1974. Styret ønsker å bytte dem med [noe mer holdbart](https://www.foldal.no/sm%C3%A5-merkeskilt-i-plast) når tiden tillater det. Skulle boden mangle en lapp så kan man referere til kjellerplanen og seksjonstabellen på bunnen av siden.
+Disse hvite lappene er fasiten og er basert på den opprinnelige [seksjoneringsbegjæringen av 1974][begjæring-1974]. Styret ønsker å bytte dem med [noe mer holdbart](https://www.foldal.no/sm%C3%A5-merkeskilt-i-plast) når tiden tillater det. Skulle boden mangle en lapp så kan man referere til kjellerplanen og seksjonstabellen på bunnen av siden.
 
 Merk! Numrene på dørene har ingenting med dette å gjøre - vil du vite hvorfor kan du fortsette å lese.
 
@@ -42,7 +43,7 @@ fellesareal, og seksjonene har kun en bruksrett og ikke en eiendomsrett til bode
 ## Bilder
 
 ### Kjellerplan
-Planen viser hvilke boder som har hvilke nummer. Disse numrene har _ingenting_ med hvilke nummer som måtte stå på døra! Det er kjempeforvirrende. Noen dører har (tildels forskjellige) nummer både i rødt og blått. Bare glem det. Det er seksjoneringen av 1974 som bestemmer hvilke boder man har rett til å benytte.
+Planen viser hvilke boder som har hvilke nummer. Det er seksjoneringen av 1974 som bestemmer hvilke boder man har rett til å benytte.
 
 <figure>
 <a alt="kjellerplan" href="./plan-kjeller.jpg" >
