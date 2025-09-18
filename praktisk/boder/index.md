@@ -22,7 +22,10 @@ Hver sameierseksjon har én (de minste) eller to tinglyste boder. Det har hendt 
 
 Disse hvite lappene er fasiten og er basert på den opprinnelige [seksjoneringsbegjæringen av 1974][begjæring-1974]. Styret ønsker å bytte dem med [noe mer holdbart](https://www.foldal.no/sm%C3%A5-merkeskilt-i-plast) når tiden tillater det. Skulle boden mangle en lapp så kan man referere til kjellerplanen og seksjonstabellen på bunnen av siden.
 
-Merk! Numrene på dørene har ingenting med dette å gjøre - vil du vite hvorfor kan du fortsette å lese.
+### Noe galt?
+Selv om noen boder hadde blitt benyttet av feil eier opp til 40 år ble de fleste feilene rettet opp i 2022. Det er 3 (parvise) tilfeller av leiligheter som har feil bod. Det blir forhåpentligvis tatt når en av partene flytter i framtiden.
+
+Merk! Numrene på dørene har ingenting med numrene referert i seksjoneringen å gjøre - vil du vite hvorfor kan du fortsette å lese.
 
 ## Historie
 
