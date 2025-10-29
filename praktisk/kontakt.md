@@ -21,7 +21,9 @@ Vi biter ikke :)
 - Gisle Vada (oppgang E)
 
 ## Forretningsfører 
-Fra 1. juli 2025 ble forretningsføring overtatt av Nor Forvaltning AS etter over 20 år med advokat Dag Erlandsen.
+Fra 1. juli 2025 ble forretningsføring overtatt av Nor Forvaltning AS etter over 20 år med advokat Dag Erlandsen. 
+Dette er en midlertidig løsning fram til 1. januar 2025 da [Solibo](http://solibo.no/) vil ta over forretningsføringen og gi 
+oss nye verktøy i forvaltningen.
 
 ### Forretningsadresse
 <address>
