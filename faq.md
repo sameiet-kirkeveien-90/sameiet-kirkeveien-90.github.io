@@ -212,6 +212,27 @@ Det ser ut som bæringen hovedsakelig ligger i ytterveggene, heisrommene, trappe
 
 Dette er ikke en bindende uttalelse fra ingeniør, så konsulter en RIB før riving! Du har ansvaret.
 
+### Hva er tykkelsen på betongdekket?
+Noen har fundert på å legge varmekabler i rør i gulvet og da har entrepenører ofte spurt om hvor tykt etasjeskillet er. Her gjorde en beboer en jobb med å gå gjennom dokumentene fra Plan og Bygg:
+
+> Jeg har nå gått gjennom de fleste dokumentene og tegninger knyttet til bygget. Var ikke enkelt og er ikke 100% sikker på funnene. I dokument nr. 10 står det: 
+- 16 mm arkimatte
+- Spikerslag
+- 22 mm parkett
+>
+I tillegg fikk jeg litt hjelp av chatGPT til å prøve å tolke en tegning:
+- "Etasjeskiller: ca. 12 cm betongplate + 16 mm arkimatte + spikerslag + 1" bordgulv + 22 mm parkett.
+Dette stemmer også med tekstmaterialet du sendte tidligere (dok. 25–29).<br>
+➡️ Total tykkelse for etasjeskillet blir ca. 12 cm + 1,6 cm + 5 cm treverk/gulv = ca. 18,5–20 cm uten himling under.
+> 
+Fra tegningen ser jeg følgende (bekrefter alt tidligere):
+- Betongplata er 12 cm tykk.
+- Over dette: arkimatte (lyd/varme): 16 mm.
+- Så spikerslag og tredekke.
+- Parkett/overgulv: 22 mm.
+>
+> Det ser ut som hele bygget er prosjektert med 12 cm armert betong i alle etasjeskiller, derfor kan du regne dette som gulvtykkelsen i alle etasjene."
+
 
 ## Diverse
 
