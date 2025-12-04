@@ -31,6 +31,9 @@ nav_external_links:
   - title: Vedtekter
     url: https://www.dropbox.com/scl/fi/so8pw6avq44tmhu4pg8vi/VEDTEKTER-28.-april-2014.doc?rlkey=4zvgmblv4uue6kxyglsdwkkl6&st=31xyo3vi&dl=0
     opens_in_new_tab: true 
+  - title: Beboerportal
+    url: https://home.solibo.no/hp/kirkeveien90
+    opens_in_new_tab: true 
 
 # dette bestemmer farger for infobokser, etc
 # ref https://just-the-docs.com/docs/configuration/#callouts
