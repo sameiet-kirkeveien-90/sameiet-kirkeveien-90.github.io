@@ -11,7 +11,10 @@ parent: Praktisk
 Trenger du å kontakte noen i styret finner du telefonnummerene oppført på tavla ved utgangsdøren i hver oppgang.
 Vi biter ikke :) 
 
+Du kan også ta kontakt direkte via [dette skjemaet](https://home.solibo.no/hp/kirkeveien90/contact)
+
 ## Styremedlemmer
+Bruk [kontaktskjemaet](https://home.solibo.no/hp/kirkeveien90/contact) for henvendelser til styret.
 - Carl-Erik Kopseng (styreleder). <button class="btn btn-purple" data-epost="styreleder,kirkeveien90,no">Vis e-post</button>. Valgt til 2026. Bor i oppgang D
 - Marit Aal Hughes (oppgang A)
 - Øystein Revheim (oppgang E)
