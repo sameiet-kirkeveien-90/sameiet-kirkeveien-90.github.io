@@ -8,7 +8,7 @@ parent: Praktisk
 
 For å ta det åpenbare først: **Det er lytt mellom leilighetene i Kirkeveien 90**  
 
-Bygårder fra 1930-tallet ble gjerne bygget med tynne betongdekker uten særskilt lydisolering. Lyd og trinnlyd forplanter seg derfor lett mellom etasjene. Om man kun har bodd i moderne leilighetsbygg kan dette by på en liten utfordring, for man *må* faktisk ta litt mer hensyn til naboene sine her enn i Bjørvika!  
+Bygårder fra 1930-tallet ble gjerne bygget med [tynne betongdekker uten særskilt lydisolering](/faq#hva-er-tykkelsen-p%C3%A5-betongdekket). Lyd og trinnlyd forplanter seg derfor lett mellom etasjene. Om man kun har bodd i moderne leilighetsbygg kan dette by på en liten utfordring, for man *må* faktisk ta litt mer hensyn til naboene sine her enn i Bjørvika!  
 
 Hopper barn i 6. etasje på gulvet kan folk i 4. etasje faktisk høre det! Dunkelyder forplanter seg veldig godt i betongen – alle som har hatt hjemmekontor under korona mens naboer foretok oppussing kjenner alt for godt til dette …  
 
