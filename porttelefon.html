@@ -14,7 +14,7 @@
       /* BOKSER (kan justeres i UI) */
       --box-width: 64mm;
       --box-height: 82mm;
-      --box-gap-v: 16mm;   /* mellom topp- og bottombokser */
+      --box-gap-v: 16mm;   /* mellom topp og bunn på bokser */
       --column-gap: 14mm;  /* mellom venstre/høyre kolonne */
 
       /* Safe-band inne i boks (slissene fordeles mellom disse) */
@@ -258,13 +258,24 @@
 
     // Tekst-fit: 16pt -> 14pt -> scaleX, alltid sentrert
     function measureAndFit(span, maxWidthPx){
+      // try normal size
       span.style.fontSize = 'var(--font-max)';
       span.style.transform = 'translateX(-50%)';
       let w = span.getBoundingClientRect().width;
       if(w <= maxWidthPx) return;
+
+      // try alternative min font
       span.style.fontSize = 'var(--font-min)';
       w = span.getBoundingClientRect().width;
       if(w <= maxWidthPx) return;
+
+      // try splitting multi-names on first '/'
+      span.innerHTML = span.innerHTML.replace(/ \/ /g, '/').replace('/', '&nbsp;/ ')
+      span.style.textWrap = 'wrap'
+      w = span.getBoundingClientRect().width;
+      if(w <= maxWidthPx) return;
+
+      // LAST RESORT: scale (ugly)
       const scale = maxWidthPx / w;
       span.style.transform = `translateX(-50%) scaleX(${scale})`;
     }
@@ -395,10 +406,10 @@ A|H0701,NAVN VENSTRE 7
 A|H0702,NAVN HØYRE 7
 A|H0601,EKSEMPEL VENSTRE 6
 A|H0602,EKSEMPEL HØYRE 6
-A|H0501,ETTERNAVN/ETTERNAVN
+A|H0501,ETTERNAVN1/ETTERNAVN2
 A|H0502,HVIS DET
 A|H0401,STEIN
-A|H0402,LIE/MELHUUS
+A|H0402,ETTERNAVN1/ETTERNAVN2/ETTERNAVN3
 A|H0301,NEEVDAL
 A|H0302,TEST
 A|H0201,NOOORDBERG
