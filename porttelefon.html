@@ -148,11 +148,11 @@
       <label>Bredde <input type="number" id="boxW" step="1" value="66"> mm</label>
       <label>Høyde <input type="number" id="boxH" step="1" value="72"> mm</label>
       <label>Top-bånd <input type="number" id="innerTop" step="1" value="6"> mm</label>
-      <label>Bunn-bånd <input type="number" id="innerBottom" step="1" value="8"> mm</label>
+      <label>Bunn-bånd <input type="number" id="innerBottom" step="1" value="10"> mm</label>
       <label>Kolonne-gap <input type="number" id="colGap" step="1" value="14"> mm</label>
       <label>Boks-gap <input type="number" id="boxGap" step="1" value="16"> mm</label>
       <label>Side-marg <input type="number" id="pageMargin" step="1" value="12"> mm</label>
-      <label><input type="checkbox" id="debugChk"> Vis slisse-linjer (debug)</label>
+      <label><input type="checkbox" id="debugChk" checked> Vis slisse-linjer (debug)</label>
     </div>
     <textarea id="ta" rows="8"></textarea>
   </div>
@@ -272,6 +272,7 @@
       // try splitting multi-names on first '/'
       span.innerHTML = span.innerHTML.replace(/ \/ /g, '/').replace('/', '&nbsp;/ ')
       span.style.textWrap = 'wrap'
+      span.style.top = '-3mm';
       w = span.getBoundingClientRect().width;
       if(w <= maxWidthPx) return;
 
