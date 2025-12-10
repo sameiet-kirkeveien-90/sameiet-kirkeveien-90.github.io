@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="no">
   <head>
     <meta charset="utf-8" />
@@ -91,7 +91,8 @@
       }
       #ta {
         width: 100%;
-        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+        font-family:
+          ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
           "Liberation Mono", "Courier New", monospace;
       }
 
@@ -214,7 +215,7 @@
           page-break-after: always;
         }
         .debug .lines .dbg {
-            border: none;
+          border: none;
         }
       }
     </style>
@@ -286,259 +287,297 @@
     <div id="pages"></div>
 
     <script>
-          // ---- Helpers ----
-          const mm = v => `${v}mm`;
-          function setVars(cfg){
-            const r = document.documentElement;
-            r.style.setProperty('--box-width', mm(cfg.boxW));
-            r.style.setProperty('--box-height', mm(cfg.boxH));
-            r.style.setProperty('--inner-top', mm(cfg.innerTop));
-            r.style.setProperty('--inner-bottom', mm(cfg.innerBottom));
-            r.style.setProperty('--column-gap', mm(cfg.colGap));
-            r.style.setProperty('--box-gap-v', mm(cfg.boxGap));
-            r.style.setProperty('--page-margin', mm(cfg.pageMargin));
+      // ---- Helpers ----
+      const mm = (v) => `${v}mm`;
+      function setVars(cfg) {
+        const r = document.documentElement;
+        r.style.setProperty("--box-width", mm(cfg.boxW));
+        r.style.setProperty("--box-height", mm(cfg.boxH));
+        r.style.setProperty("--inner-top", mm(cfg.innerTop));
+        r.style.setProperty("--inner-bottom", mm(cfg.innerBottom));
+        r.style.setProperty("--column-gap", mm(cfg.colGap));
+        r.style.setProperty("--box-gap-v", mm(cfg.boxGap));
+        r.style.setProperty("--page-margin", mm(cfg.pageMargin));
+      }
+      function sniffDelimiter(head) {
+        const counts = { ";": 0, ",": 0, "\t": 0 };
+        for (const ch of head) {
+          if (ch in counts) counts[ch]++;
+        }
+        let best = ",",
+          max = -1;
+        for (const [ch, n] of Object.entries(counts)) {
+          if (n > max) {
+            max = n;
+            best = ch;
           }
-          function sniffDelimiter(head){
-            const counts = { ';':0, ',':0, '\t':0 };
-            for(const ch of head){ if(ch in counts) counts[ch]++; }
-            let best=',', max=-1; for(const [ch,n] of Object.entries(counts)){ if(n>max){ max=n; best=ch; } }
-            return max>0 ? (best==='\t' ? '\t' : best) : ',';
-          }
-          function parseCSV(text){
-            text = text.replace(/^\uFEFF/, '');
-            const lines = text.split(/\r?\n/).filter(l=>l.trim().length);
-            if(!lines.length) return [];
-            const head = lines.slice(0,5).join('\n');
-            const delim = sniffDelimiter(head);
-            const hdr = lines[0].split(delim).map(h=>h.trim().toLowerCase());
-            const rows = [];
-            for(let i=1;i<lines.length;i++){
-              const cols = lines[i].split(delim);
-              const rec = {}; hdr.forEach((h,idx)=>rec[h]=(cols[idx]||'').trim());
-              rows.push(rec);
-            }
-            return rows;
-          }
-          // Støtt både 'X|HNNMM' og 'X|NNMM'
-          function parseSeksjonsId(seksjonsid){
-            if(!seksjonsid) return null;
-            const parts = seksjonsid.split('|'); if(parts.length!==2) return null;
-            const oppgang = parts[0].trim().toUpperCase();
-            const right = parts[1].trim();
-            const m = right.match(/(\d{4})\s*$/); // siste 4 sifre
-            if(!m) return null;
-            const last4 = m[1];
-            const etasje = parseInt(last4.slice(0,2),10);
-            const unit = last4.slice(2);
-            const sideUnit = (unit==='01') ? 'L' : 'R';
-            // display default når navn er tomt: H + 4-sifrene (f.eks. "0402" -> "H0402")
-            const defaultDisplay = 'H' + last4;
-            return { oppgang, etasje, unit, sideUnit, defaultDisplay };
-          }
-          function groupByOppgang(records){
-            const by = new Map();
-            for(const r of records){
-              if(!by.has(r.oppgang)) by.set(r.oppgang, []);
-              by.get(r.oppgang).push(r);
-            }
-            return by;
-          }
-          // global slisser 0..7 topp->bunn
-          const baseSlot = {8:0,7:1,6:2,5:3,4:4,3:5,2:6,1:7};
+        }
+        return max > 0 ? (best === "\t" ? "\t" : best) : ",";
+      }
+      function parseCSV(text) {
+        text = text.replace(/^\uFEFF/, "");
+        const lines = text.split(/\r?\n/).filter((l) => l.trim().length);
+        if (!lines.length) return [];
+        const head = lines.slice(0, 5).join("\n");
+        const delim = sniffDelimiter(head);
+        const hdr = lines[0].split(delim).map((h) => h.trim().toLowerCase());
+        const rows = [];
+        for (let i = 1; i < lines.length; i++) {
+          const cols = lines[i].split(delim);
+          const rec = {};
+          hdr.forEach((h, idx) => (rec[h] = (cols[idx] || "").trim()));
+          rows.push(rec);
+        }
+        return rows;
+      }
+      // Støtt både 'X|HNNMM' og 'X|NNMM'
+      function parseSeksjonsId(seksjonsid) {
+        if (!seksjonsid) return null;
+        const parts = seksjonsid.split("|");
+        if (parts.length !== 2) return null;
+        const oppgang = parts[0].trim().toUpperCase();
+        const right = parts[1].trim();
+        const m = right.match(/(\d{4})\s*$/); // siste 4 sifre
+        if (!m) return null;
+        const last4 = m[1];
+        const etasje = parseInt(last4.slice(0, 2), 10);
+        const unit = last4.slice(2);
+        const sideUnit = unit === "01" ? "L" : "R";
+        // display default når navn er tomt: H + 4-sifrene (f.eks. "0402" -> "H0402")
+        const defaultDisplay = "H" + last4;
+        return { oppgang, etasje, unit, sideUnit, defaultDisplay };
+      }
+      function groupByOppgang(records) {
+        const by = new Map();
+        for (const r of records) {
+          if (!by.has(r.oppgang)) by.set(r.oppgang, []);
+          by.get(r.oppgang).push(r);
+        }
+        return by;
+      }
+      // global slisser 0..7 topp->bunn
+      const baseSlot = { 8: 0, 7: 1, 6: 2, 5: 3, 4: 4, 3: 5, 2: 6, 1: 7 };
 
-          function buildBoxesForOppgang(rowsForOppgang){
-            if(!rowsForOppgang.length) return [];
-            const present = new Set(rowsForOppgang.map(r=>r.etasje).filter(f=>f>=1 && f<=8));
-            let missingBottom = 0; [1,2,3,4].forEach(f=>{ if(!present.has(f)) missingBottom++; });
-            const offset = missingBottom;
+      function buildBoxesForOppgang(rowsForOppgang) {
+        if (!rowsForOppgang.length) return [];
+        const present = new Set(
+          rowsForOppgang.map((r) => r.etasje).filter((f) => f >= 1 && f <= 8),
+        );
+        let missingBottom = 0;
+        [1, 2, 3, 4].forEach((f) => {
+          if (!present.has(f)) missingBottom++;
+        });
+        const offset = missingBottom;
 
-            const single8 = rowsForOppgang.filter(r=>r.etasje===8).length === 1;
+        const single8 =
+          rowsForOppgang.filter((r) => r.etasje === 8).length === 1;
 
-            const lines = {
-              'L_TOP': new Array(4).fill(null),
-              'R_TOP': new Array(4).fill(null),
-              'L_BOT': new Array(4).fill(null),
-              'R_BOT': new Array(4).fill(null),
-            };
+        const lines = {
+          L_TOP: new Array(4).fill(null),
+          R_TOP: new Array(4).fill(null),
+          L_BOT: new Array(4).fill(null),
+          R_BOT: new Array(4).fill(null),
+        };
 
-            for(const r of rowsForOppgang){
-              const floor = r.etasje;
-              if(!(floor in baseSlot)) continue;
-              let side = r.sideUnit;
-              if(floor===8 && single8) side = 'R';
-              const idx = baseSlot[floor] + offset;  // 0..7
-              if(idx<0 || idx>7) continue;
-              const band = (idx<=3) ? 'TOP' : 'BOT';
-              const pos  = (idx<=3) ? idx : idx-4;
-              const key = `${side}_${band}`;
-              lines[key][pos] = r.display;
-            }
-            const boxes = [
-              {column:'L', order:1, lines:lines['L_TOP']},
-              {column:'R', order:1, lines:lines['R_TOP']},
-              {column:'L', order:2, lines:lines['L_BOT']},
-              {column:'R', order:2, lines:lines['R_BOT']},
-            ];
-            return boxes.filter(b=>b.lines.some(x=>x));
-          }
+        for (const r of rowsForOppgang) {
+          const floor = r.etasje;
+          if (!(floor in baseSlot)) continue;
+          let side = r.sideUnit;
+          if (floor === 8 && single8) side = "R";
+          const idx = baseSlot[floor] + offset; // 0..7
+          if (idx < 0 || idx > 7) continue;
+          const band = idx <= 3 ? "TOP" : "BOT";
+          const pos = idx <= 3 ? idx : idx - 4;
+          const key = `${side}_${band}`;
+          lines[key][pos] = r.display;
+        }
+        const boxes = [
+          { column: "L", order: 1, lines: lines["L_TOP"] },
+          { column: "R", order: 1, lines: lines["R_TOP"] },
+          { column: "L", order: 2, lines: lines["L_BOT"] },
+          { column: "R", order: 2, lines: lines["R_BOT"] },
+        ];
+        return boxes.filter((b) => b.lines.some((x) => x));
+      }
 
-          // Tekst-fit: 16pt -> 14pt -> scaleX, alltid sentrert
-          function measureAndFit(span, maxWidthPx){
+      // Tekst-fit: 16pt -> 14pt -> scaleX, alltid sentrert
+      function measureAndFit(span, maxWidthPx) {
+        function fontSizeInPx() {
+          const fontSize = span.computedStyleMap().get("font-size");
+          console.assert(fontSize.unit == "px", fontSize.unit);
+          return fontSize.value;
+        }
 
-            function fontSizeInPx(){
-                const fontSize = span.computedStyleMap().get('font-size'); 
-                console.assert(fontSize.unit == 'px', fontSize.unit)
-                return fontSize.value;
-            }
+        const normalFontSize = fontSizeInPx();
 
-            const normalFontSize = fontSizeInPx()
+        // try normal size
+        span.style.fontSize = "var(--font-max)";
+        //span.style.transform = 'translateX(-50%)';
+        let w = span.getBoundingClientRect().width;
+        if (w <= maxWidthPx) return;
 
-            // try normal size
-            span.style.fontSize = 'var(--font-max)';
-            //span.style.transform = 'translateX(-50%)';
-            let w = span.getBoundingClientRect().width;
-            if(w <= maxWidthPx) return;
+        // try alternative min font
+        span.style.fontSize = "var(--font-min)";
+        w = span.getBoundingClientRect().width;
+        if (w <= maxWidthPx) return;
 
-            // try alternative min font
-            span.style.fontSize = 'var(--font-min)';
-            w = span.getBoundingClientRect().width;
-            if(w <= maxWidthPx) return;
+        // wrap lines and try increasingly smaller
+        // first normalize multi-name values by having consistent whitespace
+        span.innerHTML = span.innerHTML
+          .replace(/ \/ /g, "/")
+          .replace(/\//g, " /&nbsp;");
+        span.classList.add("multi-line");
+        h = span.getBoundingClientRect().height;
 
-            // wrap lines and try increasingly smaller
-            // first normalize multi-name values by having consistent whitespace
-            span.innerHTML = span.innerHTML.replace(/ \/ /g, '/').replace(/\//g, ' /&nbsp;')
-            span.classList.add('multi-line');
-            h = span.getBoundingClientRect().height;
+        // no need to check width: line wrap ensures it stays within boundaries
+        while (h / fontSizeInPx() > 2) {
+          span.style.fontSize = `${Math.round((fontSizeInPx() * 72) / 96 - 2)}pt`; // deduct 2pt; 1pt = 1px * 72/96;
+          h = span.getBoundingClientRect().height;
+        }
+        span.style.top = `-${Math.round(h - normalFontSize) / 2}px`;
+      }
 
-            // no need to check width: line wrap ensures it stays within boundaries
-            while( h/fontSizeInPx() > 2) {
-                span.style.fontSize = `${Math.round(fontSizeInPx()*72/96 - 2)}pt` // deduct 2pt; 1pt = 1px * 72/96;
-                h = span.getBoundingClientRect().height;
-            }
-            span.style.top = `-${Math.round(h - normalFontSize)/2}px`;
-          }
+      function renderPages(records) {
+        const pages = document.getElementById("pages");
+        pages.innerHTML = "";
 
-          function renderPages(records){
-            const pages = document.getElementById('pages');
-            pages.innerHTML = '';
+        const debugOn = document.getElementById("debugChk").checked;
+        document.body.classList.toggle("debug", debugOn);
 
-            const debugOn = document.getElementById('debugChk').checked;
-            document.body.classList.toggle('debug', debugOn);
+        const byOppgang = groupByOppgang(records);
+        const oppganger = Array.from(byOppgang.keys()).sort();
 
-            const byOppgang = groupByOppgang(records);
-            const oppganger = Array.from(byOppgang.keys()).sort();
+        for (const oppgang of oppganger) {
+          const rows = byOppgang.get(oppgang);
 
-            for(const oppgang of oppganger){
-              const rows = byOppgang.get(oppgang);
+          const boxes = buildBoxesForOppgang(rows);
 
-              const boxes = buildBoxesForOppgang(rows);
+          const sheet = document.createElement("section");
+          sheet.className = "sheet";
+          const hdr = document.createElement("div");
+          hdr.className = "hdr";
+          hdr.textContent = `Oppgang ${oppgang}`;
+          const ftr = document.createElement("div");
+          ftr.className = "ftr";
+          ftr.textContent = `Oppgang ${oppgang}`;
+          const grid = document.createElement("div");
+          grid.className = "grid";
 
-              const sheet = document.createElement('section');
-              sheet.className = 'sheet';
-              const hdr = document.createElement('div'); hdr.className = 'hdr'; hdr.textContent = `Oppgang ${oppgang}`;
-              const ftr = document.createElement('div'); ftr.className = 'ftr'; ftr.textContent = `Oppgang ${oppgang}`;
-              const grid = document.createElement('div'); grid.className = 'grid';
+          const leftTop = boxes.find((b) => b.column === "L" && b.order === 1);
+          const rightTop = boxes.find((b) => b.column === "R" && b.order === 1);
+          const leftBot = boxes.find((b) => b.column === "L" && b.order === 2);
+          const rightBot = boxes.find((b) => b.column === "R" && b.order === 2);
 
-              const leftTop  = boxes.find(b=>b.column==='L' && b.order===1);
-              const rightTop = boxes.find(b=>b.column==='R' && b.order===1);
-              const leftBot  = boxes.find(b=>b.column==='L' && b.order===2);
-              const rightBot = boxes.find(b=>b.column==='R' && b.order===2);
+          function makeBox(box, cls) {
+            const div = document.createElement("div");
+            div.className = "panel-box " + cls;
+            const inner = document.createElement("div");
+            inner.className = "lines";
+            const lines = box ? box.lines : new Array(4).fill(null);
 
-              function makeBox(box, cls){
-                const div = document.createElement('div'); div.className = 'panel-box ' + cls;
-                const inner = document.createElement('div'); inner.className = 'lines';
-                const lines = box ? box.lines : new Array(4).fill(null);
+            // lag 4 slisser
+            for (let i = 0; i < 4; i++) {
+              const t = lines[i] || "";
+              const line = document.createElement("div");
+              line.className = "line";
+              const span = document.createElement("span");
+              span.textContent = t;
+              line.appendChild(span);
+              inner.appendChild(line);
 
-                // lag 4 slisser
-                for(let i=0;i<4;i++){
-                  const t = lines[i] || '';
-                  const line = document.createElement('div'); line.className = 'line';
-                  const span = document.createElement('span'); span.textContent = t;
-                  line.appendChild(span);
-                  inner.appendChild(line);
-
-                  if(debugOn){
-                    const dbg = document.createElement('div');
-                    dbg.className = 'dbg';
-                    // plasser hjelpelinje midt i slissen etter layout → gjøres etter mount
-                    line.appendChild(dbg);
-                  }
-                }
-                div.appendChild(inner);
-                return div;
-              }
-
-              grid.appendChild(makeBox(leftTop, 'lt'));
-              grid.appendChild(makeBox(rightTop, 'rt'));
-              grid.appendChild(makeBox(leftBot, 'lb'));
-              grid.appendChild(makeBox(rightBot, 'rb'));
-
-              sheet.appendChild(hdr);
-              sheet.appendChild(grid);
-              sheet.appendChild(ftr);
-              pages.appendChild(sheet);
-
-              // Etter at alt står i DOM: mål-fit alle spans + juster debug-linjer
-              const spans = sheet.querySelectorAll('.panel-box .line > span');
-              for(const span of spans){
-                const boxWidth = span.parentElement.getBoundingClientRect().width;
-                if(span.textContent.trim().length){
-                  measureAndFit(span, boxWidth);
-                }
-              }
-              if(debugOn){
-                // Plasser hjelpelinjer midt i hver slisse
-                const linesEls = sheet.querySelectorAll('.panel-box .line');
-                for(const el of linesEls){
-                  const r = el.getBoundingClientRect();
-                  const mid = r.height/2;
-                  const dbg = el.querySelector('.dbg');
-                  if(dbg){
-                    dbg.style.top = `${mid}px`;
-                  }
-                }
+              if (debugOn) {
+                const dbg = document.createElement("div");
+                dbg.className = "dbg";
+                // plasser hjelpelinje midt i slissen etter layout → gjøres etter mount
+                line.appendChild(dbg);
               }
             }
+            div.appendChild(inner);
+            return div;
           }
 
-          // ---- I/O ----
-          async function readFileAsText(file){
-            return new Promise((resolve, reject)=>{
-              const fr = new FileReader();
-              fr.onload = () => resolve(fr.result);
-              fr.onerror = reject;
-              fr.readAsText(file);
-            });
-          }
-          function toRecords(csvRows){
-            const out = [];
-            for(const rec of csvRows){
-              const seksjonsid = (rec['leilighetsnummer'] || rec['seksjonsid'] || rec['apt'] || '').trim();
-              const navn = (rec['navn'] || rec['name'] || '').trim();
-              if(!seksjonsid) continue;
-              const p = parseSeksjonsId(seksjonsid);
-              if(!p) continue;
-              const disp = (navn ? navn : p.defaultDisplay).toUpperCase();
-              out.push({ seksjonsid, oppgang: p.oppgang, etasje: p.etasje, unit: p.unit, sideUnit: p.sideUnit, display: disp });
+          grid.appendChild(makeBox(leftTop, "lt"));
+          grid.appendChild(makeBox(rightTop, "rt"));
+          grid.appendChild(makeBox(leftBot, "lb"));
+          grid.appendChild(makeBox(rightBot, "rb"));
+
+          sheet.appendChild(hdr);
+          sheet.appendChild(grid);
+          sheet.appendChild(ftr);
+          pages.appendChild(sheet);
+
+          // Etter at alt står i DOM: mål-fit alle spans + juster debug-linjer
+          const spans = sheet.querySelectorAll(".panel-box .line > span");
+          for (const span of spans) {
+            const boxWidth = span.parentElement.getBoundingClientRect().width;
+            if (span.textContent.trim().length) {
+              measureAndFit(span, boxWidth);
             }
-            return out;
           }
-          function gatherConfig(){
-            return {
-              boxW: +document.getElementById('boxW').value,
-              boxH: +document.getElementById('boxH').value,
-              innerTop: +document.getElementById('innerTop').value,
-              innerBottom: +document.getElementById('innerBottom').value,
-              colGap: +document.getElementById('colGap').value,
-              boxGap: +document.getElementById('boxGap').value,
-              pageMargin: +document.getElementById('pageMargin').value,
-            };
+          if (debugOn) {
+            // Plasser hjelpelinjer midt i hver slisse
+            const linesEls = sheet.querySelectorAll(".panel-box .line");
+            for (const el of linesEls) {
+              const r = el.getBoundingClientRect();
+              const mid = r.height / 2;
+              const dbg = el.querySelector(".dbg");
+              if (dbg) {
+                dbg.style.top = `${mid}px`;
+              }
+            }
           }
+        }
+      }
 
-          // ---- UI wiring ----
-          document.getElementById('btn-sample').addEventListener('click', ()=>{
-            const sample =
-      `leilighetsnummer,navn
+      // ---- I/O ----
+      async function readFileAsText(file) {
+        return new Promise((resolve, reject) => {
+          const fr = new FileReader();
+          fr.onload = () => resolve(fr.result);
+          fr.onerror = reject;
+          fr.readAsText(file);
+        });
+      }
+      function toRecords(csvRows) {
+        const out = [];
+        for (const rec of csvRows) {
+          const seksjonsid = (
+            rec["leilighetsnummer"] ||
+            rec["seksjonsid"] ||
+            rec["apt"] ||
+            ""
+          ).trim();
+          const navn = (rec["navn"] || rec["name"] || "").trim();
+          if (!seksjonsid) continue;
+          const p = parseSeksjonsId(seksjonsid);
+          if (!p) continue;
+          const disp = (navn ? navn : p.defaultDisplay).toUpperCase();
+          out.push({
+            seksjonsid,
+            oppgang: p.oppgang,
+            etasje: p.etasje,
+            unit: p.unit,
+            sideUnit: p.sideUnit,
+            display: disp,
+          });
+        }
+        return out;
+      }
+      function gatherConfig() {
+        return {
+          boxW: +document.getElementById("boxW").value,
+          boxH: +document.getElementById("boxH").value,
+          innerTop: +document.getElementById("innerTop").value,
+          innerBottom: +document.getElementById("innerBottom").value,
+          colGap: +document.getElementById("colGap").value,
+          boxGap: +document.getElementById("boxGap").value,
+          pageMargin: +document.getElementById("pageMargin").value,
+        };
+      }
+
+      // ---- UI wiring ----
+      document.getElementById("btn-sample").addEventListener("click", () => {
+        const sample = `leilighetsnummer,navn
       A|H0801,PENTHOUSE
       A|H0701,NAVN VENSTRE 7
       A|H0702,NAVN HØYRE 7
@@ -556,27 +595,30 @@
       B|H0802,EKSTRA 8 B
       B|H0101,
       B|0102,     `;
-            document.getElementById('ta').value = sample;
-          });
-          document.getElementById('file').addEventListener('change', async (e)=>{
-            const f = e.target.files[0]; if(!f) return;
-            const txt = await readFileAsText(f);
-            document.getElementById('ta').value = txt;
-          });
-          document.getElementById('btn-generate').addEventListener('click', ()=>{
-            setVars(gatherConfig());
-            const rows = parseCSV(document.getElementById('ta').value);
-            const records = toRecords(rows);
-            renderPages(records);
-          });
-          document.getElementById('btn-print').addEventListener('click', ()=> window.print());
-          document.getElementById('debugChk').addEventListener('change', ()=>{
-            // regenerer for å tegne/ta vekk linjene
-            setVars(gatherConfig());
-            const rows = parseCSV(document.getElementById('ta').value);
-            const records = toRecords(rows);
-            renderPages(records);
-          });
+        document.getElementById("ta").value = sample;
+      });
+      document.getElementById("file").addEventListener("change", async (e) => {
+        const f = e.target.files[0];
+        if (!f) return;
+        const txt = await readFileAsText(f);
+        document.getElementById("ta").value = txt;
+      });
+      document.getElementById("btn-generate").addEventListener("click", () => {
+        setVars(gatherConfig());
+        const rows = parseCSV(document.getElementById("ta").value);
+        const records = toRecords(rows);
+        renderPages(records);
+      });
+      document
+        .getElementById("btn-print")
+        .addEventListener("click", () => window.print());
+      document.getElementById("debugChk").addEventListener("change", () => {
+        // regenerer for å tegne/ta vekk linjene
+        setVars(gatherConfig());
+        const rows = parseCSV(document.getElementById("ta").value);
+        const records = toRecords(rows);
+        renderPages(records);
+      });
     </script>
   </body>
 </html>
