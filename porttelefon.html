@@ -6,6 +6,9 @@
     <title>Porttelefon-panel — Utskrift</title>
     <style>
       :root {
+
+        /* Many of these variables are updated via Javascript and kept in sync with the UI */
+
         /* A4 portrett */
         --page-width: 210mm;
         --page-height: 297mm;
@@ -230,8 +233,8 @@
   </head>
   <body>
     <div class="infobox">
-      Standard dimensjoner for firkanten med navneslisser er 66 mm x 72 mm. Du
-      må klippe av en diagonal på det øvre høyre hjørnet (ca 1,5 mm inn).
+      Standard dimensjoner for firkanten med navneslisser er 63 mm x 71 mm. Du
+      må klippe av en liten diagonal på det øvre høyre hjørnet (ca 1 mm inn).
       Regnearket du trenger eksportere som CSV ligger i Dropbox og er en fane i
       <a
         href="https://www.dropbox.com/scl/fi/ugjxr5ss1sn21wwivlxi6/Leilighetsoversikt.xlsx?dl=0&rlkey=u1oyrsckcov8ltn42i7tkoqv0"
@@ -267,11 +270,11 @@
         <fieldset>
           <label
             >Bredde
-            <input type="number" id="boxW" step="1" value="66" /> mm</label
+            <input type="number" id="boxW" step="1" value="63" /> mm</label
           >
           <label
             >Høyde
-            <input type="number" id="boxH" step="1" value="72" /> mm</label
+            <input type="number" id="boxH" step="1" value="71" /> mm</label
           >
         </fieldset>
 
@@ -306,6 +309,8 @@
           ><input type="checkbox" id="debugChk" checked /> Vis slisse-linjer
           (debug)</label
         >
+        Slisse-linjene er ikke synlig ved utskrift og bare ment som hjelp 
+        ved justering av linjer.
       </div>
       <textarea id="ta" rows="8"></textarea>
     </div>
@@ -315,7 +320,7 @@
     <script>
       // ---- Helpers ----
       const mm = (v) => `${v}mm`;
-      function setVars(cfg) {
+      function updateCssVars(cfg) {
         const r = document.documentElement;
         r.style.setProperty("--box-width", mm(cfg.boxW));
         r.style.setProperty("--box-height", mm(cfg.boxH));
@@ -630,7 +635,7 @@
         document.getElementById("ta").value = txt;
       });
       document.getElementById("btn-generate").addEventListener("click", () => {
-        setVars(gatherConfig());
+        updateCssVars(gatherConfig());
         const rows = parseCSV(document.getElementById("ta").value);
         const records = toRecords(rows);
         renderPages(records);
@@ -640,7 +645,7 @@
         .addEventListener("click", () => window.print());
       document.getElementById("debugChk").addEventListener("change", () => {
         // regenerer for å tegne/ta vekk linjene
-        setVars(gatherConfig());
+        updateCssVars(gatherConfig());
         const rows = parseCSV(document.getElementById("ta").value);
         const records = toRecords(rows);
         renderPages(records);
