@@ -201,6 +201,9 @@
         border-top: 0.5px dashed rgba(0, 0, 0, 0.25);
         pointer-events: none;
       }
+      .infobox {
+        margin: 80px 100px;
+      }
 
       @media print {
         body {
@@ -211,7 +214,7 @@
         body {
           margin: 0;
         }
-        .toolbar {
+        body > :not(#pages) {
           display: none;
         }
         .sheet {
@@ -226,17 +229,24 @@
     </style>
   </head>
   <body>
-    <p>
+    <div class="infobox">
       Standard dimensjoner for firkanten med navneslisser er 66 mm x 72 mm. Du
-      må klippe av en diagonal på det ene hjørnet. Regnearket du trenger
-      eksportere som CSV ligger i Dropbox og er en fane i
+      må klippe av en diagonal på det øvre høyre hjørnet (ca 1,5 mm inn).
+      Regnearket du trenger eksportere som CSV ligger i Dropbox og er en fane i
       <a
         href="https://www.dropbox.com/scl/fi/ugjxr5ss1sn21wwivlxi6/Leilighetsoversikt.xlsx?dl=0&rlkey=u1oyrsckcov8ltn42i7tkoqv0"
       >
         fila Leilighetsoversikt.xlsx</a
       >
       som heter "Porttelefoner".
-    </p>
+
+      <p>
+        Hele arket må skrives ut uten marger. Den stiplede linjen man ser under
+        skal ligge kant i kant med A4-arket etter utskrift. Husk å skru av
+        eventuelle normalmarger ved utskrift, om dette skjer. Egentlig skal det
+        ikke skje (stilsettregler er lagt inn for å forhindre det).
+      </p>
+    </div>
 
     <div class="toolbar">
       <div class="row">
@@ -254,29 +264,40 @@
         <label
           >CSV-fil <input type="file" id="file" accept=".csv,text/csv"
         /></label>
-        <label
-          >Bredde
-          <input type="number" id="boxW" step="1" value="66" /> mm</label
-        >
-        <label
-          >Høyde <input type="number" id="boxH" step="1" value="72" /> mm</label
-        >
-        <label
-          >Top-bånd
-          <input type="number" id="innerTop" step="1" value="6" /> mm</label
-        >
-        <label
-          >Bunn-bånd
-          <input type="number" id="innerBottom" step="1" value="10" /> mm</label
-        >
-        <label
-          >Kolonne-gap
-          <input type="number" id="colGap" step="1" value="14" /> mm</label
-        >
-        <label
-          >Boks-gap
-          <input type="number" id="boxGap" step="1" value="16" /> mm</label
-        >
+        <fieldset>
+          <label
+            >Bredde
+            <input type="number" id="boxW" step="1" value="66" /> mm</label
+          >
+          <label
+            >Høyde
+            <input type="number" id="boxH" step="1" value="72" /> mm</label
+          >
+        </fieldset>
+
+        <fieldset>
+          <label
+            >Top-bånd
+            <input type="number" id="innerTop" step="1" value="6" /> mm</label
+          >
+          <label
+            >Bunn-bånd
+            <input type="number" id="innerBottom" step="1" value="10" />
+            mm</label
+          >
+        </fieldset>
+
+        <fieldset>
+          <label
+            >Kolonne-gap
+            <input type="number" id="colGap" step="1" value="14" /> mm</label
+          >
+          <label
+            >Boks-gap
+            <input type="number" id="boxGap" step="1" value="16" /> mm</label
+          >
+        </fieldset>
+
         <label
           >Side-marg
           <input type="number" id="pageMargin" step="1" value="12" /> mm</label
