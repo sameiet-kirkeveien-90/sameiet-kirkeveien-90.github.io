@@ -19,11 +19,14 @@ deploy:
 livereload:
 	bundle exec jekyll serve --trace --livereload --host localhost
 
-pre-commit: fetch-latest-porttelefon check-links
+pre-commit: formatting check-links
 
 install-precommit:
 	echo 'make pre-commit' > .git/hooks/pre-commit
 	chmod +x .git/hooks/pre-commit
+
+formatting:
+	npx prettier --write .
 
 check-links:
 	bundle exec htmlproofer --assume-extension='.html' \
@@ -36,9 +39,6 @@ check-links:
 # # only for checking out the final build
 build:
 	bundle exec jekyll build
-
-fetch-latest-porttelefon:
-	curl -s https://raw.githubusercontent.com/sameiet-kirkeveien-90/skript/refs/heads/main/porttelefon-navnegenerator-web/index.html > porttelefon.html
 
 ### UTILS ###
 

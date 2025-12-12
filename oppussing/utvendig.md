@@ -6,9 +6,11 @@ parent: Oppussing
 ---
 
 # Utvendig uttrykk
+
 Sameiet forsøker holde et uniformt uttrykk på gården og det er viktig at man holder seg til det som er bestemt av farge, utforming, o.l. Se også vedtekter og husordensregler.
 
 ## Markiser
+
 Innkjøpte markiser må være en av de godkjente fargekombinasjonene:
 
 - Gule og hvite striper

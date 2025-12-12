@@ -7,6 +7,7 @@ Siden benytter en mal for Jekyll som heter [Just the Docs][Just the Docs] og man
 dokumentasjon på hvordan man benytter dette på hjemmesiden til malen.
 
 ## Kjekt å vite for lokal utvikling
+
 - `make` lister ut alle mulige "tasks"
 - `make install` installerer det du trenger
 - `make livereload` spinner opp en server med automatisk Live Reload
@@ -16,7 +17,7 @@ Under er den opprinnelige teksten som denne malen benytter for å informere.
 
 ---
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+This is a _bare-minimum_ template to create a [Jekyll] site that:
 
 - uses the [Just the Docs] theme;
 - can be built and published on [GitHub Pages];
@@ -51,7 +52,7 @@ Simply edit the relevant line(s) in the `Gemfile`.
 
 The Just the Docs theme automatically includes the [`jekyll-seo-tag`] plugin.
 
-To add an extra plugin, you need to add it in the `Gemfile` *and* in `_config.yml`. For example, to add [`jekyll-default-layout`]:
+To add an extra plugin, you need to add it in the `Gemfile` _and_ in `_config.yml`. For example, to add [`jekyll-default-layout`]:
 
 - Add the following to your site's `Gemfile`:
 
@@ -173,7 +174,7 @@ This repository is licensed under the [MIT License]. You are generally free to r
 
 The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party [starter workflows]. A copy of their MIT License is available in [actions/starter-workflows].
 
-----
+---
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 

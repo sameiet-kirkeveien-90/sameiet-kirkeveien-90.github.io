@@ -6,8 +6,8 @@ logo: assets/images/logo.png
 url: https://www.kirkeveien90.no
 
 #aux_links:
-  #Template Repository: https://github.com/just-the-docs/just-the-docs-template
-  #Kirkeveien: https://kirkeveien90.no
+#Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#Kirkeveien: https://kirkeveien90.no
 
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Rediger denne siden på GitHub."
@@ -15,7 +15,7 @@ gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_repository: https://github.com/sameiet-kirkeveien-90/sameiet-kirkeveien-90.github.io
 gh_edit_view_mode: "edit"
 
-plugins: 
+plugins:
   - jekyll-redirect-from
 
 whitelist:
@@ -24,16 +24,16 @@ whitelist:
 nav_external_links:
   - title: Facebookgruppe for Kirkeveien 90
     url: https://www.facebook.com/groups/kirkeveien90/
-    opens_in_new_tab: true 
+    opens_in_new_tab: true
   - title: Husordensregler
     url: https://www.dropbox.com/scl/fi/woqsyy767g218yk8906b5/20250507-Husordensregler.pdf?rlkey=h0n8ak7yevref8wz6fghpsz6y&st=wzuhd3b6&dl=0
-    opens_in_new_tab: true 
+    opens_in_new_tab: true
   - title: Vedtekter
     url: https://www.dropbox.com/scl/fi/so8pw6avq44tmhu4pg8vi/VEDTEKTER-28.-april-2014.doc?rlkey=4zvgmblv4uue6kxyglsdwkkl6&st=31xyo3vi&dl=0
-    opens_in_new_tab: true 
+    opens_in_new_tab: true
   - title: Beboerportal
     url: https://home.solibo.no/hp/kirkeveien90
-    opens_in_new_tab: true 
+    opens_in_new_tab: true
 
 # dette bestemmer farger for infobokser, etc
 # ref https://just-the-docs.com/docs/configuration/#callouts

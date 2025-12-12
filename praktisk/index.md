@@ -5,4 +5,4 @@ nav_order: 2
 has_children: true
 ---
 
-Denne seksjonen innholder de fleste praktiske forhold som beboere måtte lure på som nye til gården. 
+Denne seksjonen innholder de fleste praktiske forhold som beboere måtte lure på som nye til gården.

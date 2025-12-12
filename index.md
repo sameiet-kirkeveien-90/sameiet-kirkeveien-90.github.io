@@ -9,15 +9,17 @@ redirect_from:
 Denne hjemmesiden er ment å være til hjelp for beboere i Sameiet Kirkeveien 90.
 
 Forhåpentligvis kan den være et naturlig startpunkt for informasjonsbehov knyttet til eksempelvis
+
 - [nye beboere](/ny) som lurer på hvor alt i nærmiljøet befinner seg
 - folk som [pusser opp](oppussing) og lurer på søppelhåndtering og husordensregler knyttet til dette
-- nye leietakere 
+- nye leietakere
 
 {: .info-title }
+
 > Søk etter det du trenger!
 >
 > Du finner riktignok alt innholdet gjennom menyen, men vi har også en innebygget søkefunksjon.
-> Prøv selv og søk etter "fargekoder", for eksempel! 
+> Prøv selv og søk etter "fargekoder", for eksempel!
 >
 > På mobil finner du søket i menyen og på pc er søket øverst på siden.
 
