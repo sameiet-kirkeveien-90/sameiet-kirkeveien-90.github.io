@@ -10,8 +10,8 @@ De tar over etter [Nor Forvaltning AS](https://norforvaltning.no/om-oss/), som i
 ## Gårdens forretningsadresse fra 1. januar 2026
 
 <address>
-Sameiet Kirkeveien 90 c/o Solibo AS
-Dronning Eufemias Gate 16
+Sameiet Kirkeveien 90<br>c/o Solibo AS<br>
+Dronning Eufemias Gate 16<br>
 0191 Oslo
 </address>
 
