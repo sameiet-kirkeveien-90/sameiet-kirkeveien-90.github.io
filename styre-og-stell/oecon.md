@@ -35,14 +35,14 @@ Den eneste utgiften som ikke fordeles etter fordelingsnøkkelen basert på eierb
 
 ## Vedlikeholdsfond
 
-Vedtatt opprettet på sameiermøte 8. mai 2001 etter en dyr fasadeoppgradering, for å unngå tilsvarende store enkeltregninger i fremtiden.
+Vedtatt opprettet på sameiermøte 8. mai 2001 etter en dyr fasadeoppgradering, for å unngå tilsvarende store enkeltregninger i fremtiden. Det tilkommer ca 1 MNOK i året.
 
 Kjente kommende store utgifter
 
-- Takbelegg
+- Takbelegg og -sluk
 - Heiser
-- Avløpsrør (vannrør skiftet)
 - Pipefornying
+- Vannrør (avløpsrør skiftet 2023)
 
 ## Litt regnskap
 
