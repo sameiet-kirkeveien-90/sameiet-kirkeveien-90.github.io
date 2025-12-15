@@ -10,3 +10,8 @@ gem 'jekyll-redirect-from'
 
 # Makes it possible to prevent broken links
 gem "html-proofer", "~> 5.1.1"
+
+# Can be removed once https://github.com/just-the-docs/just-the-docs/issues/1607 is closed
+# and https://github.com/just-the-docs/just-the-docs/issues/1541 ?
+gem 'jekyll-sass-converter', '~> 3.1.0'
+

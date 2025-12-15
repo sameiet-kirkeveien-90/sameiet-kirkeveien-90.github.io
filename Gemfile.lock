@@ -156,6 +156,7 @@ DEPENDENCIES
   html-proofer (~> 5.1.1)
   jekyll (~> 4.4.1)
   jekyll-redirect-from
+  jekyll-sass-converter (~> 3.1.0)
   just-the-docs (= 0.10.1)
 
 BUNDLED WITH
