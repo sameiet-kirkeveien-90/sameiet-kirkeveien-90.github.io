@@ -22,3 +22,5 @@ Vi er så heldig stilt at både Hertz, [Bilkollektivet][bilkollektivet] og Hyre 
 ## Parkeringstillatelser for bakgården
 Vi forsøker å minimere bilkjøring i gården (se husordensregler), men det kan ikke unngås helt. Om det er behov for parkering utover det å kjapt losse inn/ut kan man snakke med en i styret som kan legge det inn i parkeringssystemet så man slipper bot. Styret har tilgang til [P-Service sitt online parkeringssystem](http://xn--grdeier-exa.pservice.no/) og legger inn registreringsnummer og periode det gjelder for.
 
+Husk at man ikke kan parkere hvor som helst i bakgården! Parker inntil veggen mellom inngangene til A-C. Utrykningskjøretøy må greie å komme forbi! Noen beboere har hatt såpass helseutfordringer at ambulansen har vært der flere ganger i uka. Da er det litt kjipt om de må rygge ut i Kirkeveien.
+
