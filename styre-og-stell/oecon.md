@@ -26,10 +26,12 @@ Den eneste utgiften som ikke fordeles etter fordelingsnøkkelen basert på eierb
 
 ## Varmeregnskap
 
-- Kullkjelene ble bygd om til oljefyring. Senere ble fyren fjernet.
+- Kullkjelene ble bygd om til oljefyring rett rundt årtusenskiftet. Senere ble fyren fjernet.
 - Nå kun fjernvarme.
-- Vanskelig å beregne fyringskostnadene. Betaler a konto. Avregning i april.
+- Vanskelig å beregne fyringskostnadene. Både forbruk (antall kWh) og strømpris varierer.
 - Fordeles per eierbrøk.
+- Betaler a konto. Avregning i april.
+- Bundet til Norgespris fra høsten 2025 og ut 2026 for forutsigbarhet.
 
 ## Vedlikeholdsfond
 
