@@ -51,12 +51,12 @@ Kjente kommende store utgifter
 - Inntekter - Utgifter = Resultat
 - Ikke nyttig
 
-### Balansen
+#### Balansen
 
 - Balanse = Øyeblikksbilde av regnskapet
 - Hvordan står det til?
 
-### Egenkapital
+#### Egenkapital
 
 Man trenger egenkapital for å kunne takle store enkeltregninger.
 
@@ -70,7 +70,7 @@ I januar forfaller to kjemperegninger, hvert år.
 Bør ha egenkapital på mellom ½ og 1x årlige fellesutgifter.
 Det vil si ca 3MNOK/2 = 1,5 MNOK
 
-Erlandsen regner fondet som egenkapital, men vi gjør ikke det, for det er ikke
+Forretningsfører Erlandsen regnet fondet som egenkapital, men vi gjør ikke det, for det er ikke
 del av handlingsrommet som Styret rår over.
 
 ## Budsjettkontroll
