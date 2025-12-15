@@ -25,5 +25,22 @@ Forhåpentligvis kan den være et naturlig startpunkt for informasjonsbehov knyt
 
 Lurer du på hvor du skal starte? Prøv med [det praktiske](/praktisk/) :)
 
+## Solibo Beboerportal
+
+<div>
+    <img src="/assets/images/solibo.webp" alt="Solibo" style="float:right;"/>
+    I 2026 starter vi å bruke <a href="https://beboer.kirkeveien90.no">Solibo som beboer- og styreportal</a>. 
+    Det muliggjør enkel toveis-kommunikasjon med samtlige beboere via nyhetsbrev, meldinger som knytter seg til seksjoner og en haug forbedringer for styrets håndtering av innkommende saker. Det vil også senke felleskostnadene med rundt en tusenlapp for hver seksjon.
+    <span style="clear: both;" />
+
+    <p>
+    Vi har ikke helt bestemt strategien for hvordan dagens (denne) hjemmeside og beboerportalen skal leve side
+    om side ennå, ettersom de ikke er helt overlappende i verken innhold eller tiltenkt funksjon.
+    Inntil videre vil du typisk kunne bruke portalen til å kontakte styret, lese nyhetsbrev (også i app),
+    og praktiske informasjonsartikler.
+    </p>
+
+</div>
+
 <!-- https://www.dropbox.com/scl/fi/ymg209dj53eoi1vcymcmw/Oppslag-om-hjemmeside.pdf?rlkey=k8d0c6gnpa79f0r4zyi1153g9&dl=0
 -->
