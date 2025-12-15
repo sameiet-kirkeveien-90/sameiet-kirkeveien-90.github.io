@@ -270,7 +270,7 @@ Det er satt opp en returbeholder for glass og metallemballasje på stasjonen igj
 
 ### Jeg hører ikke ringeklokka på kjøkkenet. Kan man få en ekstra høyttaler?
 
-Ta kontakt med [Assistentpartner](/praktisk/kontakt.html#n%C3%B8kkelbrikker-og-porttelefon) direkte. Fra e-post av 22. juni 2025:
+Ta kontakt med [Assistentpartner](/styre-og-stell/partnere#n%C3%B8kkelbrikker-og-porttelefon) direkte. Fra e-post av 22. juni 2025:
 
 > Vi har en enhet som er for akkurat dette formålet. Den har en sender som må tilkobles bak på dørtelefonen, og som vil kunne sende et signal til en egen lydgiver som kan plasseres i ønsket stikkontakt i stue/kjøkken. (Den kan også flyttes rundt v/ behov)
 > På denne enheten kan man velge om man ønsker lyd, lys eller begge i kombinasjon for varsling.

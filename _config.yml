@@ -22,7 +22,11 @@ whitelist:
   - jekyll-redirect-from
 
 nav_external_links:
-  - title: Facebookgruppe for Kirkeveien 90
+  - title: Solibo Beboerportal
+    #url: https://home.solibo.no/hp/kirkeveien90
+    url: https://beboer.kirkeveien90.no
+    opens_in_new_tab: true
+  - title: Facebookgruppe
     url: https://www.facebook.com/groups/kirkeveien90/
     opens_in_new_tab: true
   - title: Husordensregler
@@ -30,9 +34,6 @@ nav_external_links:
     opens_in_new_tab: true
   - title: Vedtekter
     url: https://www.dropbox.com/scl/fi/so8pw6avq44tmhu4pg8vi/VEDTEKTER-28.-april-2014.doc?rlkey=4zvgmblv4uue6kxyglsdwkkl6&st=31xyo3vi&dl=0
-    opens_in_new_tab: true
-  - title: Beboerportal
-    url: https://home.solibo.no/hp/kirkeveien90
     opens_in_new_tab: true
 
 # dette bestemmer farger for infobokser, etc

@@ -14,7 +14,7 @@ En beboer i sameiet trenger typisk fem nøkler:
 1. Nøkkel til bod 1 (typisk en vanlig dør)
 1. Nøkkel til bod 2 (typisk en enklere boddør sikret med hengelås)
 
-Mister du en systemnøkkel eller trenger nye nøkler (fysisk) melder du bare fra til en i styret. Trenger du en ny nøkkelbrikke kan du ta kontakt med [Assistentpartner direkte](/praktisk/kontakt.html#n%C3%B8kkelbrikker-og-porttelefon).
+Mister du en systemnøkkel eller trenger nye nøkler (fysisk) melder du bare fra til en i styret. Trenger du en ny nøkkelbrikke kan du ta kontakt med [Assistentpartner direkte](/styre-og-stell/partnere#n%C3%B8kkelbrikker-og-porttelefon).
 
 # Deling av nøkler
 
