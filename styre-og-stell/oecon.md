@@ -46,19 +46,17 @@ Kjente kommende store utgifter
 
 ## Litt regnskap
 
-### Om regnskapsbegrep
-
-#### Resultatregnskap
+### Resultatregnskap
 
 - Inntekter - Utgifter = Resultat
 - Ikke nyttig
 
-#### Balansen
+### Balansen
 
 - Balanse = Øyeblikksbilde av regnskapet
 - Hvordan står det til?
 
-#### Egenkapital
+### Egenkapital
 
 Man trenger egenkapital for å kunne takle store enkeltregninger.
 
@@ -67,7 +65,7 @@ I januar forfaller to kjemperegninger, hvert år.
 - Forsikring. Ca 600 000 kr 1. januar
 - Fyring for 3 måneder. Ca 500 000 kr.
 
-#### Sikkerhet
+### Sikkerhet
 
 Bør ha egenkapital på mellom ½ og 1x årlige fellesutgifter.
 Det vil si ca 3MNOK/2 = 1,5 MNOK
@@ -100,9 +98,9 @@ Vi fakturerer Joker selv.
 - m³ \* kr/m³ = kr
   Andre kostnader
 
-## Spesielt: Antenner på taket
+## Leieinntekter: Antenner på taket
 
-3 mobiloperatører
+3 mobiloperatører leier takplass av oss.
 
 - Telia
 - ICE
@@ -112,3 +110,9 @@ Gamle kontrakter
 
 - ikke fra 1.1-31.12
 - innebærer litt justeringer/periodiseringer
+
+Fiber til basestasjonene kommer inn i kjelleren (se f.eks. serverskapet i kjellertrapp i oppgang C).
+
+## Leieinntekter: GlobalConnect
+
+Tidligere leverte Lynet internett til enkelte i gården. De ble kjøpt opp av GlobalConnect. De leier plass for serverskap i kjelleren av oss.
