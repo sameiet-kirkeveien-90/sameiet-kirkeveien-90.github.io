@@ -36,7 +36,7 @@ Lurer du på hvor du skal starte? Prøv med [det praktiske](/praktisk/) :)
     <p>
     Vi har ikke helt bestemt strategien for hvordan dagens (denne) hjemmeside og beboerportalen skal leve side
     om side ennå, ettersom de ikke er helt overlappende i verken innhold eller tiltenkt funksjon.
-    Inntil videre vil du typisk kunne bruke portalen til å kontakte styret, lese nyhetsbrev (også i app),
+    Inntil videre vil du typisk kunne bruke portalen til å <a href="https://home.solibo.no/hp/kirkeveien90/contact">kontakte styret</a>, lese nyhetsbrev (også i app),
     og praktiske informasjonsartikler.
     </p>
 
