@@ -42,7 +42,7 @@ I 2026 starter vi fornying av taket. Tak er dyrt og vi tømte fondet i 2023, så
 
 ### Hva betyr det for meg om sameiet velger å ta opp lån?
 
-Vi prøver i størst mulig grad å unngå lån, men det kan være at vi ikke kommer unna dette om kostnadene går utover det som er i vedlikeholdsfondet. En del har ikke mulighet til å hoste opp 50-150 tusen kroner på rappen, og sameiet _må_ gjøre det som er nødvendig for å holde sameiet vedlike. Da blir typisk lånet fordelt på hver seksjon ut i fra sameierbrøken.
+Vi prøver i størst mulig grad å unngå lån, men det kan være at vi ikke kommer unna dette om kostnadene går utover det som er i vedlikeholdsfondet. En del har ikke mulighet til å hoste opp 200 tusen kroner på rappen, og sameiet _må_ gjøre det som er nødvendig for å holde sameiet vedlike. Da blir typisk lånet fordelt på hver seksjon ut i fra sameierbrøken. Fordelen med et felleslån over at den enkelte tar opp lån er at regnestykket for seksjonseiere som bare bor her et par år blir mye penere. For en seksjonseier med en 105 kvm leilighet vil f.eks. nye heiser koste rundt 200'000 kr. Det er hardt å svelge om man bare blir boende et par år.
 
 Renten et sameie kan oppnå er relativt dårlig sammenlignet med en privatperson siden sameiet ikke kan stille med noe pant. Derfor kan det lønne seg for den enkelte å innfri sin del av lånet ved å heller øke lånerammen på sitt eget boliglån som kan ha tildels mye gunstigere rente. Eksempelvis ligger en typisk rente for et sameie i 2025Q3 på 7,2%. Tilsvarende for en privatperson er ca 4,5%. Innfriing av lånet gir selvsagt bare mening om man tenker å bo her i mange år.
 
