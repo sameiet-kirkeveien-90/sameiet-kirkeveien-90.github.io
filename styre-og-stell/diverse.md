@@ -33,5 +33,4 @@ A|H0302;Ole, Dole og Doffen
 
 Seksjonsid er bare en sammensetning av oppgang + leilighetsnummer som gjør at skriptet kan bruke spesialregler som avhenger av både etasje og oppgang. F.eks. er tavla annerledes i A-oppgangen, gjennom at det ikke bor noen i første etasje, og alle etasjene er derfor forrykket fysisk (knapper) en etasje sammenlignet med normalen. Åttende etasje er også spesielt behandlet, ved at 0801 er lagt på høyre kolonne.
 
-
 [vibekoding]: https://www.kode24.no/artikkel/vibe-coding-splitter-utviklerne-jeg-blir-kvalm/230925

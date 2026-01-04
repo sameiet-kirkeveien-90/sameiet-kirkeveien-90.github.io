@@ -10,8 +10,8 @@ dokumentasjon på hvordan man benytter dette på hjemmesiden til malen.
 
 - `make` lister ut alle mulige "tasks"
 - `make install` installerer det du trenger
-- `make livereload` spinner opp en server med automatisk Live Reload
-- `make check-links` sjekker om du har råtne lenker
+- `make livereload` spinner opp hjemmesiden på http://localhost:4004
+- `make check-links` sjekker om du har råtne lenker. Dette skjer også når man kjører `git commit` lokalt.
 
 Under er den opprinnelige teksten som denne malen benytter for å informere.
 

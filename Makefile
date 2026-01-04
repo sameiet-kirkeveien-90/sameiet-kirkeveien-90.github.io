@@ -17,7 +17,7 @@ deploy:
 	git push
 
 livereload:
-	bundle exec jekyll serve --trace --livereload --host localhost
+	bundle exec jekyll serve --trace --livereload --host localhost --port 4004  --livereload-port 35284
 
 pre-commit: formatting check-links
 
