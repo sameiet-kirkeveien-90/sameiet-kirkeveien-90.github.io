@@ -4,6 +4,7 @@ layout: default
 ---
 
 # Ny i sameiet?
+
 {: .no_toc }
 
 <details open markdown="block">
@@ -15,6 +16,7 @@ layout: default
 </details>
 
 ## Sjekkliste ved innflytting
+
 - ✅ [Ring på og hils på naboene](/praktisk/lytt#snakk-med-naboen)
 - ✅ Nytt postkasseskilt er bestilt
 - ✅ Du har alle nøkler og nøkkelbrikker du trenger (flere kan bestilles)

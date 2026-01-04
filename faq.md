@@ -30,21 +30,21 @@ Varmtvann og vannbåren varme til radiatorer fra [Hafslund Celsio](https://no.wi
 
 Det er ikke planlagt økning med mindre offentlige kostnader øker drastisk.
 
-Vi har et _vedlikeholdsfond_ finansiert over husleien som blir tilført rundt en million kroner i året. Det er hovedsakelig dette vi forsøker å ta store prosjekter gjennom. Some et eksempel på dette gjennomførte vi i 2023 rørfornying til seks millioner kroner og dette kunne vi gjennomføre uten å belaste sameierne med ytterligere engangsutgifter.
+Vi har et _vedlikeholdsfond_ finansiert over husleien som blir _tilført rundt en million kroner i året_. Det er hovedsakelig dette vi forsøker å ta store prosjekter gjennom. Some et eksempel på dette gjennomførte vi i 2023 rørfornying til seks millioner kroner og dette kunne vi gjennomføre uten å belaste sameierne med ytterligere engangsutgifter.
 
-#### Hvorfor?
+#### Hvorfor har vi et vedlikeholdsfond?
 
-Det ble bestemt på et sameiermøte i 2001 at et fond øremerket store vedlikeholdsprosjekter skulle opprettes. Det var for å slippe og belemre sameierne med lån med dårlige betingelser. Bruken av fondet krever et vedtak på årsmøtet eller ekstraordinert sameiermøte.
+Det ble bestemt på et sameiermøte i 2001 at et fond øremerket store vedlikeholdsprosjekter skulle opprettes. Det var for å slippe og belemre sameierne med lån med dårlige betingelser. Bruken av fondet krever et vedtak på årsmøtet eller ekstraordinert sameiermøte. Mindre prosjekter bør tas over det vanlige vedlikeholdsbudsjettet (ca 750' for 2026, heiser inkl.) - eventuelt over flere år. Man kan også be om engangsinnbetalinger for sameierne.
 
 ### Er det planlagt noen store prosjekter i fremtiden?
 
-Per september 2025 er det ingen store prosjekter planlagt i _umiddelbar_ framtid, men vi er i dialog med flere entrepenører om fornying av taket neste år. Tak er dyrt og vi tømte fondet i 2023, så dette kan innebære noe opptak av lån. Før eller siden må vi også gjøre noe med heis. Om det ikke skjer noe uforutsett er planen å ta heisene litt etter litt og forsøke å holde oss innenfor vedlikeholdsfondet.
+I 2026 starter vi fornying av taket. Tak er dyrt og vi tømte fondet i 2023, så dette må vi antagelig ta over flere år. Før eller siden må vi også gjøre noe med heisene, som er kjempedyrt (størrelsesorden 10 MNOK). Heiskontrollen i 2025 anbefalte oss å se på utskifting innen 2027, men dette må man ta med en klype salt, så vi innhenter ekspertise i første kvartal 2026 for å vurdere planer for dette. Blir vi tvunget til å fornye heisene må vi antagelig ta opp et lån.
 
 ### Hva betyr det for meg om sameiet velger å ta opp lån?
 
-Vi prøver i størst mulig grad å unngå lån, men det kan være at vi ikke kommer unna dette om kostnadene går utover det som er i vedlikeholdsfondet. Mange har ikke mulighet til å hoste opp 60-100 tusen kroner på rappen, og sameiet _må_ gjøre det som er nødvendig for å holde sameiet vedlike. Da blir typisk lånet fordelt på hver seksjon ut i fra sameierbrøken.
+Vi prøver i størst mulig grad å unngå lån, men det kan være at vi ikke kommer unna dette om kostnadene går utover det som er i vedlikeholdsfondet. En del har ikke mulighet til å hoste opp 50-150 tusen kroner på rappen, og sameiet _må_ gjøre det som er nødvendig for å holde sameiet vedlike. Da blir typisk lånet fordelt på hver seksjon ut i fra sameierbrøken.
 
-Renten et sameie kan oppnå er relativt dårlig sammenlignet med en privatperson siden sameiet ikke kan stille med noe pant. Derfor kan det lønne seg for den enkelte å innfri sin del av lånet ved å heller øke lånerammen på sitt eget boliglån som kan ha tildels mye gunstigere rente. Eksempelvis ligger en typisk rente for et sameie i 2025Q3 på 7,2%. Tilsvarende for en privatperson er ca 4,5%.
+Renten et sameie kan oppnå er relativt dårlig sammenlignet med en privatperson siden sameiet ikke kan stille med noe pant. Derfor kan det lønne seg for den enkelte å innfri sin del av lånet ved å heller øke lånerammen på sitt eget boliglån som kan ha tildels mye gunstigere rente. Eksempelvis ligger en typisk rente for et sameie i 2025Q3 på 7,2%. Tilsvarende for en privatperson er ca 4,5%. Innfriing av lånet gir selvsagt bare mening om man tenker å bo her i mange år.
 
 ### Har borettslaget sikringsfond og forkjøpsrett?
 
