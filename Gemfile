@@ -9,7 +9,7 @@ gem "just-the-docs", "0.10.1" # pinned to the current release
 gem 'jekyll-redirect-from'
 
 # Makes it possible to prevent broken links
-gem "html-proofer", "~> 5.1.1"
+gem "html-proofer", "~> 5.2.0"
 
 # Can be removed once https://github.com/just-the-docs/just-the-docs/issues/1607 is closed
 # and https://github.com/just-the-docs/just-the-docs/issues/1541 ?
