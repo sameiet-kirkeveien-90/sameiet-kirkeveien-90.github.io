@@ -40,6 +40,14 @@ Det ble bestemt på et sameiermøte i 2001 at et fond øremerket store vedlikeho
 
 I 2026 starter vi fornying av taket. Tak er dyrt og vi tømte fondet i 2023, så dette må vi antagelig ta over flere år. Før eller siden må vi også gjøre noe med heisene, som er kjempedyrt (størrelsesorden 10 MNOK). Heiskontrollen i 2025 anbefalte oss å se på utskifting innen 2027, men dette må man ta med en klype salt, så vi innhenter ekspertise i første kvartal 2026 for å vurdere planer for dette. Blir vi tvunget til å fornye heisene må vi antagelig ta opp et lån.
 
+### Er sameiet involvert i noen rettstvister eller fått noen pålegg?
+
+Per januar 2026 er det ingen ting slikt under opptakt, og de har heller ikke vært det på mange år (om noen gang).
+
+### Er det observert noen skadedyr?
+
+Vi har serviceavtale med Anticimex og har generelt ingen problemer med skadedyr. Det har i tidligere blitt observert spor av rotter, men hver gang følges det umiddelbart ved at Anticimex legger ut åte og følger opp for å finne eventuell inngang. De har ikke funnet noe det siste halvannet året (per januar 2026). Vi har også hatt et tilfelle med møll for fem år siden, men ikke lenger.
+
 ### Hva betyr det for meg om sameiet velger å ta opp lån?
 
 Vi prøver i størst mulig grad å unngå lån, men det kan være at vi ikke kommer unna dette om kostnadene går utover det som er i vedlikeholdsfondet. En del har ikke mulighet til å hoste opp 200 tusen kroner på rappen, og sameiet _må_ gjøre det som er nødvendig for å holde sameiet vedlike. Da blir typisk lånet fordelt på hver seksjon ut i fra sameierbrøken. Fordelen med et felleslån over at den enkelte tar opp lån er at regnestykket for seksjonseiere som bare bor her et par år blir mye penere. For en seksjonseier med en 105 kvm leilighet vil f.eks. nye heiser koste rundt 200'000 kr. Det er hardt å svelge om man bare blir boende et par år.
