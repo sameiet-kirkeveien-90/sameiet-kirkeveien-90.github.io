@@ -14,19 +14,6 @@ Sameiet Kirkeveien 90<br>c/o Solibo AS<br>
 Dronning Eufemias Gate 16<br>
 0191 Oslo
 </address>
-
-## Gårdens forretningsadresse fram til 31. desember 2025
-
-<address>
-Sameiet Kirkeveien 90 AS <br>
-c/o <a href="https://www.forvaltning.no">Nor Forvaltning AS</a> <br>
-Alnaparkveien 11<br>
-1081 Oslo
-</address>
-
-<a href="tel:+4722164530">22 16 45 30</a>
-<a href="mailto:post@forvaltning.no">post@forvaltning.no</a>
-
 # Organisasjonsnummeret
 
 Organisasjonsnummeret er [979257929](https://www.proff.no/selskap/sameiet-kirkeveien-90/oslo/borettslag/IG70W9503T7).
