@@ -5,7 +5,7 @@ parent: Styre og stell
 ---
 
 Fra 1. januar 2026 tar [Solibo](http://solibo.no/) over forretningsføringen og gir oss nye verktøy i forvaltningen.
-De tar over etter [Nor Forvaltning AS](https://norforvaltning.no/om-oss/), som i juli 2025 kjøpte forretningen etter advokat Dag Erlandsen, som igjen tok over forretningen fra Helle Forvaltning ca 2009.
+De tar over etter [Nor Forvaltning AS](https://norforvaltning.no), som i juli 2025 kjøpte forretningen etter advokat Dag Erlandsen, som igjen tok over forretningen fra Helle Forvaltning ca 2009.
 
 ## Gårdens forretningsadresse fra 1. januar 2026
 
