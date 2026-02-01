@@ -7,12 +7,18 @@ layout: default
 
 # Utskifting av vinduer og dører
 
-Vi er på Byantikvarens Gule Liste. Det betyr at alle _utvendige_ endringer
+Vi er på Byantikvarens Gule Liste. Det betyr at alle endringer på fasaden
 krever uttalelse fra Byantikvaren før man gjør noe. Bytter du
 vinduer eller dører uten å konsultere Byantikvaren blir du fort
 pålagt tilbakeføring. Det er en kostbar lærepenge!
 
+I essensen
+
+> “Vi bryr oss mindre om U-verdi enn om hvordan vinduene ser ut fra gata.”
+
 Se skriv fra [Byantikvaren](../assets/pdfs/Vinduer - momentliste for gode vinduskopier byantikavren.pdf).
+
+Å stå på “Gul liste” betyr at bygget ditt er vurdert som bevaringsverdig – men ikke fredet. Det gir deg handlingsrom, men ikke frikort, særlig når det gjelder vinduer.
 
 Det er styret som er ansvarlige for bygget utvendig, mens den
 enkelte seksjonseier er ansvarlig for nødvendig vedlikehold av
@@ -22,6 +28,23 @@ Det betyr da også at vi bør konsulteres på forhånd, så det ikke skjer noe d
 Per februar 2026 har vi ikke eksplisitt innført i husreglene noe eksplisitt
 om dette, men det antas at det vil bli et forslag om dette på det kommende årsmøtet.
 Det underliggende juridiske er uansett fast.
+
+## Typisk korrekt løp
+
+Dette er vanligvis forløpet kommunen ønsker
+
+1. Forhåndsdialog.
+   - Send forespørsel til PBE
+2. Byantikvaruttalelse.
+   - Ofte parallelt eller via PBE
+3. Søknad etter PBL
+   - Legg ved:
+     - byantikvarens uttalelse
+     - vindusleverandørens tegninger/snitter
+     - foto av eksisterende fasade
+4. Vedtak
+
+- Nesten alltid ja hvis vinduene følger uttalelsen
 
 ## Tekniske krav
 
@@ -35,4 +58,4 @@ Vi ligger nærme en trafikkert vei så en _anbefaling_ er å gå for lyddempende
 
 ## Tips
 
-Hør om andre er i samme båt! Ofte er det flere som ønsker å skifte vinduer samtidig, så man kan oppnå bedre priser om man sammen går inn for å bytte vinduer, både på innkjøp, transport og montering. 
+Hør om andre er i samme båt! Ofte er det flere som ønsker å skifte vinduer samtidig, så man kan oppnå bedre priser om man sammen går inn for å bytte vinduer, både på innkjøp, transport og montering.
