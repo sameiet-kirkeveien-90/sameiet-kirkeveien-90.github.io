@@ -15,8 +15,8 @@ pålagt tilbakeføring. Det er en kostbar lærepenge!
 Se skriv fra [Byantikvaren](../assets/pdfs/Vinduer - momentliste for gode vinduskopier byantikavren.pdf).
 
 Det er styret som er ansvarlige for bygget utvendig, mens den
-enkelte seksjonseier er ansvarlig for nødvendig vedlikehold av bygget
-i sin seksjon. Det vil si du må sørge for maling, oljing, tetting av sprekker, etc.
+enkelte seksjonseier er ansvarlig for nødvendig vedlikehold av
+sin seksjon. Det vil si du må sørge for maling, oljing, tetting av sprekker, etc.
 Det betyr da også at vi bør konsulteres på forhånd, så det ikke skjer noe dumt.
 
 Per februar 2026 har vi ikke eksplisitt innført i husreglene noe eksplisitt
@@ -35,4 +35,4 @@ Vi ligger nærme en trafikkert vei så en _anbefaling_ er å gå for lyddempende
 
 ## Tips
 
-Gå sammen om innkjøp! Ofte er det flere som ønsker å skifte vinduer samtidig, så man kan
+Hør om andre er i samme båt! Ofte er det flere som ønsker å skifte vinduer samtidig, så man kan oppnå bedre priser om man sammen går inn for å bytte vinduer, både på innkjøp, transport og montering. 
