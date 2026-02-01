@@ -56,6 +56,10 @@ Hvilken vei vindu slår må også forbli likt som før.
 
 Vi ligger nærme en trafikkert vei så en _anbefaling_ er å gå for lyddempende vinduer med trelags isolerglass. Trafikkmengde i veier og gater måles i årsdøgntrafikk (ÅDT) som er gjennomsnittlig antall kjøretøy per døgn i løpet av et helt år. Vi har en ÅDT på 2100. Dette kan opplyses til vindusleverandøren som vil hjelpe med å finne riktig vindu.
 
+Vinduer som blir laget i dag er veldig bra, så hvis det blir bestilt vinduer fra norske produsenter som Natre eller Nordan eksempelvis så har de strenge minstekrav. De er som oftest CE-merket som er minstekrav.
+
+Vi vil legge til en anbefaling om antall desibel man bør hensynta når vi har fått den fra vår samarbeidspartner.
+
 ## Tips
 
 Hør om andre er i samme båt! Ofte er det flere som ønsker å skifte vinduer samtidig, så man kan oppnå bedre priser om man sammen går inn for å bytte vinduer, både på innkjøp, transport og montering.
