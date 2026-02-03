@@ -19,13 +19,12 @@ layout: default
 
 Vi er på Byantikvarens Gule Liste ([infoark fra Byantikvaren](/assets/pdfs/Gul-liste-Byantikvarens-informasjonsark.pdf)). Det betyr at alle endringer på fasaden krever uttalelse fra Byantikvaren før man gjør noe. Bytter du vinduer eller dører uten å konsultere Byantikvaren blir du fort pålagt tilbakeføring. Det er en kostbar lærepenge!
 
-I essensen
+
+Byantikvaren har skrevet en [momentliste for gode vinduskopier](../assets/pdfs/Vinduer - momentliste for gode vinduskopier byantikavren.pdf) som det kan være greit å ha sett på, men i essensen er holdningen
 
 > “Vi bryr oss mindre om U-verdi enn om hvordan vinduene ser ut fra gata.”
 
-Se skriv fra [Byantikvaren](../assets/pdfs/Vinduer - momentliste for gode vinduskopier byantikavren.pdf).
-
-Å stå på “Gul liste” betyr at bygget ditt er vurdert som bevaringsverdig – men ikke fredet. Det gir deg handlingsrom, men ikke frikort, særlig når det gjelder vinduer.
+Å stå på “Gul liste” betyr at bygget ditt er vurdert som bevaringsverdig – men ikke fredet. Det gir deg handlingsrom, men ikke frikort, særlig når det gjelder vinduer. Heldigvis er vi en funkisgård og har færre begrensninger enn en 1800-talls bygård med blyglassvinduer 😅
 
 Det er styret som er ansvarlige for bygget utvendig, mens den
 enkelte seksjonseier er ansvarlig for nødvendig vedlikehold av
