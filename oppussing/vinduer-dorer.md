@@ -15,12 +15,9 @@ layout: default
 {:toc}
 </details>
 
-## Generelt
+## Gul Liste
 
-Vi er på Byantikvarens Gule Liste [infoark](/assets/pdfs/Gul-liste-Byantikvarens-informasjonsark.pdf). Det betyr at alle endringer på fasaden
-krever uttalelse fra Byantikvaren før man gjør noe. Bytter du
-vinduer eller dører uten å konsultere Byantikvaren blir du fort
-pålagt tilbakeføring. Det er en kostbar lærepenge!
+Vi er på Byantikvarens Gule Liste ([infoark fra Byantikvaren](/assets/pdfs/Gul-liste-Byantikvarens-informasjonsark.pdf)). Det betyr at alle endringer på fasaden krever uttalelse fra Byantikvaren før man gjør noe. Bytter du vinduer eller dører uten å konsultere Byantikvaren blir du fort pålagt tilbakeføring. Det er en kostbar lærepenge!
 
 I essensen
 
