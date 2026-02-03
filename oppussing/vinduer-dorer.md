@@ -7,6 +7,16 @@ layout: default
 
 # Utskifting av vinduer og dører
 
+<details open markdown="block">
+
+  <summary>På denne siden finner du</summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+## Generelt
+
 Vi er på Byantikvarens Gule Liste [infoark](/assets/pdfs/Gul-liste-Byantikvarens-informasjonsark.pdf). Det betyr at alle endringer på fasaden
 krever uttalelse fra Byantikvaren før man gjør noe. Bytter du
 vinduer eller dører uten å konsultere Byantikvaren blir du fort
