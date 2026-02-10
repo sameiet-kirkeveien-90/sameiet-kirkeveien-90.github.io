@@ -7,7 +7,7 @@ nav_order: 3
 
 # Tenker du å pusse opp?
 
-Det er lurt å ta kontakt med styret før oppussing. Vi har retningslinjer du må følge og kan f.eks. anbefale rørleggere som kjenner gården godt. Vi kan også svare på (noen) ansvars- og forsikringsspørsmål ut i fra historikken til gården.
+Det er lurt å ta kontakt med styret før oppussing. Vi har retningslinjer du må følge og kan f.eks. anbefale rørleggere som kjenner gården godt. Vi kan også svare på (noen) ansvars- og forsikringsspørsmål ut i fra historikken til gården. [Rører du fasaden (vinduer, dører)](/oppussing/vinduer-dorer) bør du ta kontakt med styret på forhånd.
 
 ## Parkeringstillatelser
 
