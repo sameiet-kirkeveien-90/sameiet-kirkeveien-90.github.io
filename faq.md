@@ -277,7 +277,7 @@ Noen har fundert på å legge varmekabler i rør i gulvet og da har entrepenøre
 De fleste i sameiet har den opprinnelige peisen. Den er veldig hyggelig å fyre i en åpen peis, men om man har fyrt vil det ose røyklukt 24 timer etter du har sluttet å fyre, fordi glør har en tendens til å leve _lenge_. I steden for å måtte lufte ut via spjelet og miste masse varme er det lurere å bare slukke glørene.
 
 <img alt="askebøtte fra clas ohlson" src="/assets/images/askebotte.jpg" style="float: right; width: 100px;"/>
-Du kjøper en [askebøtte](https://www.clasohlson.com/no/Askebotte-med-hank,-10-liter/p/40-8563) og en liten skuffe. Når du er ferdig med å fyre i peisen og skal legge deg for kvelden er det bare å skrape sammen asken, ta den i bøtte og helle på 5 liter vann så alle glør slukker. Etterpå kan du kaste asken i restavfallet. Du _må ikke ha en askebøtte_ - du kan også slukke glørne i peisen direkte ved å  helle masse vann på, men det blir litt mer gris og du kan ikke kaste det direkte i søpla like elegant.
+Du kjøper en [askebøtte](https://www.clasohlson.com/no/Askebotte-med-hank,-10-liter/p/40-8563) og en liten skuffe. Når du er ferdig med å fyre i peisen og skal legge deg for kvelden er det bare å skrape sammen asken, ta den i bøtte og helle på 5 liter vann så alle glør slukker. Etterpå kan du kaste asken i restavfallet. Om du ikke har en askebøtte og slukker glørne i peisen direkte ved å  helle masse vann på risikerer du at steinene sprekker!
 <span style="clear: both;">
 
 ### Hvor kan jeg kaste glass- og metallemballasje?
