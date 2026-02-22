@@ -24,6 +24,7 @@ layout: default
 - ✅ Du mottar informasjon fra Styret via Solibo (se under)
 
 ### Sørg for at info ikke havner i søppelfilteret!
+
 Enten last ned Solibo Home-appen eller legg oss til i kontaktene på e-post. Sjekk også spam/søppelpost-mappa om info havner der og merk oss som trygge!
 
 ![epost som sendes ut](/assets/images/eposter.png)

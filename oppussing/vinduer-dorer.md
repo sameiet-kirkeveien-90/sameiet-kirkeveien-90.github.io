@@ -19,7 +19,6 @@ layout: default
 
 Vi er på Byantikvarens Gule Liste ([infoark fra Byantikvaren](/assets/pdfs/Gul-liste-Byantikvarens-informasjonsark.pdf)). Det betyr at alle endringer på fasaden krever uttalelse fra Byantikvaren før man gjør noe. Bytter du vinduer eller dører uten å konsultere Byantikvaren blir du fort pålagt tilbakeføring. Det er en kostbar lærepenge!
 
-
 Byantikvaren har skrevet en [momentliste for gode vinduskopier](../assets/pdfs/Vinduer - momentliste for gode vinduskopier byantikavren.pdf) som det kan være greit å ha sett på, men i essensen er holdningen
 
 > “Vi bryr oss mindre om U-verdi enn om hvordan vinduene ser ut fra gata.”
