@@ -17,10 +17,15 @@ layout: default
 
 ## Sjekkliste ved innflytting
 
-- ✅ [Ring på og hils på naboene](/praktisk/lytt#snakk-med-naboen)
+- ✅ Du har [ringt på og hilst på naboene](/praktisk/lytt#snakk-med-naboen)
 - ✅ Nytt postkasseskilt er bestilt
 - ✅ Du har alle nøkler og nøkkelbrikker du trenger (flere kan bestilles)
 - ✅ Du har tilgang til [bodene i kjelleren](/praktisk/boder/) og vet hvor de er
+- ✅ Du mottar informasjon fra Styret via Solibo (se under)
+
+### Sørg for at info ikke havner i søppelfilteret!
+Enten last ned Solibo Home-appen eller legg oss til i kontaktene på e-post. Sjekk også spam/søppelpost-mappa om info havner der og merk oss som trygge!
+
 
 ## Info for alle nye beboere
 
