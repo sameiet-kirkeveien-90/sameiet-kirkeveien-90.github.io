@@ -33,11 +33,10 @@ Det vil si at når det gjelder vinduer må du ikke bare sørge for maling, oljin
 ansvarlig for utskifting av vinduer og er ansvarlig om manglende utskiftning og vedlikehold fører til personskader.
 På 2000-tallet var det tre vinduer som spontant falt ut. Eventuelle personskader ville vært sameiers ansvar!
 
-{: .note-title }
-
+{: .highlight }
 > I januar 2026 ble det opplyst at styret var ansvarlig for alt på fasaden, inkludert vinduer. Etter nærmere granskning av
 > vedtektene og Eierseksjonsloven (spesifikt paragraf 33) viste det seg altså å ikke være riktig pga punktene i vedtektene
-> fra 2014 (vedlegg 1).
+> fra 2017 (se paragraf 5 og vedlegg 1)
 
 Selv for de tingene som er sameiers ansvar kan det være lurt å konsultere styret uansett 😉
 
