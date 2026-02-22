@@ -25,17 +25,24 @@ Byantikvaren har skrevet en [momentliste for gode vinduskopier](../assets/pdfs/V
 
 Å stå på “Gul liste” betyr at bygget ditt er vurdert som bevaringsverdig – men ikke fredet. Det gir deg handlingsrom, men ikke frikort, særlig når det gjelder vinduer. Heldigvis er vi en funkisgård og har færre begrensninger enn en 1800-talls bygård med blyglassvinduer 😅
 
-Det er styret som er ansvarlige for bygget utvendig, mens den
+Det er _generelt_ styret som er ansvarlige for bygget utvendig, mens den
 enkelte seksjonseier er ansvarlig for nødvendig vedlikehold av
-sin seksjon. Det vil si du må sørge for maling, oljing, tetting av sprekker, etc.
-Det betyr da også at vi bør konsulteres på forhånd, så det ikke skjer noe dumt.
+sin seksjon, men vedtektene inneholder noen unntak: blant annet for vinduer!
 
-Per februar 2026 har vi ikke eksplisitt innført i husreglene noe eksplisitt
-om at man _må_ forhøre seg, men det antas at det vil bli et forslag om dette på det kommende årsmøtet.
+Det vil si at når det gjelder vinduer må du ikke bare sørge for maling, oljing, tetting av sprekker, etc., men du er også
+ansvarlig for utskifting av vinduer og er ansvarlig om manglende utskiftning og vedlikehold fører til personskader.
+På 2000-tallet var det tre vinduer som spontant falt ut. Eventuelle personskader ville vært sameiers ansvar!
+
+{: .note-title }
+
+> I januar 2026 ble det opplyst at styret var ansvarlig for alt på fasaden, inkludert vinduer. Etter nærmere granskning av
+> vedtektene og Eierseksjonsloven (spesifikt paragraf 33) viste det seg altså å ikke være riktig pga punktene i vedtektene
+> fra 2014 (vedlegg 1).
+
+Selv for de tingene som er sameiers ansvar kan det være lurt å konsultere styret uansett 😉
+
 Det underliggende juridiske er uansett fast: gjør du ting med fasaden
-må det være i samsvar med retningslinjene fra Byantikvaren.
-Så vidt vi kan se er det også søknadspliktig ; vi sjekker dette nå i feb 2025
-så vi ikke sier noe som ikke stemmer.
+må det være i samsvar med retningslinjene fra Byantikvaren og _tiltaket er søknadsplktig hos PBE_ (bekreftet februar 2026).
 
 ## Typisk korrekt løp
 

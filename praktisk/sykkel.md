@@ -25,12 +25,15 @@ Hver vår, typisk i midten av mai, har gården en dugnad på fellesarealene. En 
 Noen av oss har store, elektriske lastesykler av typen Riese & Müller, Tern, Moustache, etc for å erstatte bilkjøring i det daglige. Dessverre er slike sykler for lange og store til å komme ned i sykkelkjelleren vår. Likevel har noen av oss hatt slike sykler stående i det åpne området med sykkelstativene, som den rosa gården eier, uten at sykkelen har blitt stjålet (men det er blitt forsøkt!). Her er våre tips for å unngå og miste en sykkel som er like dyr som en småbil 🙈
 
 ### Ta motet fra tyven - bruk "vinkelslipersikre" låser!
+
 Ingen låser er tyverisikre, men noen nye typer er langt sikrere! Før 2023 var det omtrent bare å satse på at kjettinglåsen var så tykk at å kutte den ville tiltrekke seg nok oppmerksomhet til at folk ikke gadd. Denne tankegangen holdt i 4 år før en sykkeltyv prøvde seg på syklene våre som stod ute i bakgården. Markedets tykkeste kjettinglås ble kuttet på et par minutter, men heldigvis ble eier varslet og tyven sendt på dør. Hva skal man da gjøre? Viser seg at markedet nå har helt nye typer låser som tar 20x lenger tid å kutte gjennom enn vanlige bøylelåser!
 
-Modellene du ser etter er [Hiplock D1000](https://birk.no/no/articles/1.491.133584/hiplok-boylelas-d1000-u-lock), [ONGUARD Ulock Rocksolid](https://www.bikester.no/no/articles/1.2697.357461/boylelas-onguard-ulock-rocksolid-u-lock-90x175mm) og [Kryptonite New York Diamond Anti-Angle grinder]([url](https://birk.no/no/articles/1.491.361760/boylelas-kryptonite-new-york-diamond-anti-angle-grinder)). Har du en sykkel som koster like mye som en småbil kan det være verdt å bruke 3000 kr på en lås.
+Modellene du ser etter er [Hiplock D1000](https://birk.no/no/articles/1.491.133584/hiplok-boylelas-d1000-u-lock), [ONGUARD Ulock Rocksolid](https://www.bikester.no/no/articles/1.2697.357461/boylelas-onguard-ulock-rocksolid-u-lock-90x175mm) og [Kryptonite New York Diamond Anti-Angle grinder](https://birk.no/no/articles/1.491.361760/boylelas-kryptonite-new-york-diamond-anti-angle-grinder). Har du en sykkel som koster like mye som en småbil kan det være verdt å bruke 3000 kr på en lås.
 
 ### Gjør den uattraktiv - fjern batteriet
+
 Da tyven som er nevnt over ikke fikk stjålet sykkelen kom han tilbake med brekkjern samme natt og forsøkte å brekke lås batteriet. Det fikk han ikke til, men skadene på sykkelen kostet like fullt mangfoldige tusen kroner å utbedre. Batterier er attraktive og lett omsettelige, så demonter dem daglig og ta dem med inn. En tung sykkel uten batteri er veldig uattraktiv.
 
 ### Lås den fast til tykt jern
+
 Vi har noen tynne aluminiumsstativer i bakgården, men vi har også en gammel og tung variant med tykke jernrør. Denne tar det lang tid å kutte seg gjennom. Fest låsen heller i denne.
