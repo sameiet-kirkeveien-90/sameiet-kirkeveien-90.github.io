@@ -37,3 +37,6 @@ Da tyven som er nevnt over ikke fikk stjålet sykkelen kom han tilbake med brekk
 ### Lås den fast til tykt jern
 
 Vi har noen tynne aluminiumsstativer i bakgården, men vi har også en gammel og tung variant med tykke jernrør. Denne tar det lang tid å kutte seg gjennom. Fest låsen heller i denne.
+
+### Sørg for sporing
+Airtags kan skjules i setet, du kan ha Bike Finder i styret, ++. Bare sørg for at du greier å finne den igjen om den blir stjålet. Vær obs på at BikeFinder har vært veldig gode med markedsføring, så tyvene kjenner også til at de kan være der ...
