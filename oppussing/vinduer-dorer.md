@@ -34,6 +34,7 @@ ansvarlig for utskifting av vinduer og er ansvarlig om manglende utskiftning og 
 På 2000-tallet var det tre vinduer som spontant falt ut. Eventuelle personskader ville vært sameiers ansvar!
 
 {: .highlight }
+
 > I januar 2026 ble det opplyst at styret var ansvarlig for alt på fasaden, inkludert vinduer. Etter nærmere granskning av
 > vedtektene og Eierseksjonsloven (spesifikt paragraf 33) viste det seg altså å ikke være riktig pga punktene i vedtektene
 > fra 2017 (se paragraf 5 og vedlegg 1)
