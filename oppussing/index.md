@@ -32,4 +32,4 @@ Mange har endt opp med veldig dårlig inneklima og fuktproblemer etter oppussing
 
 ## Miljøriktig oppussing
 
-SINTEF har en veileder for miljøriktig oppusing som blant annet tar for seg avfallshåndtering og opprydding. Det kan være verdt å ta en titt på sidene 41 og utover ([pdf](https://www.sintef.no/globalassets/upload/byggforsk/forbrukerveileder_miljoriktig_oppussing.pdf)).
+SINTEF har en veileder for miljøriktig oppusing som blant annet tar for seg avfallshåndtering og opprydding. Det kan være verdt å ta en titt på sidene 41 og utover ([pdf](/assets/pdfs/2007-forbrukerveileder_miljoriktig_oppussing.pdf)).
