@@ -6,6 +6,13 @@ redirect_from:
   - /kirkeveien90/
 ---
 
+<picture>
+  <source srcset="./assets/images/2026-kirkeveien90-hage-trær.avif" type="image/avif" />
+  <img
+    src="./assets/images/2026-kirkeveien90-hage-trær.jpeg"
+    alt="Hage og trær ved Kirkeveien 90"
+  />
+</picture>
 Denne hjemmesiden er ment å være til hjelp for beboere i Sameiet Kirkeveien 90.
 
 Forhåpentligvis kan den være et naturlig startpunkt for informasjonsbehov knyttet til eksempelvis
