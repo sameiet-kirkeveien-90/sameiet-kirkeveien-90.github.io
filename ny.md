@@ -17,11 +17,12 @@ layout: default
 
 ## Sjekkliste ved innflytting
 
-- ✅ Du har [ringt på og hilst på naboene](/praktisk/lytt#snakk-med-naboen)
-- ✅ Nytt postkasseskilt er bestilt
+- ✅ Du har sagt fra hvilket navn som skal stå på ringeklokketavla
+- ✅ Nytt postkasseskilt er bestilt (se under for detaljer)
 - ✅ Du har alle nøkler og nøkkelbrikker du trenger (flere kan bestilles)
 - ✅ Du har tilgang til [bodene i kjelleren](/praktisk/boder/) og vet hvor de er
 - ✅ Du mottar informasjon fra Styret via Solibo (se under)
+- ✅ Du har [ringt på og hilst på naboene](/praktisk/lytt#snakk-med-naboen)
 
 ### Sørg for at info ikke havner i søppelfilteret!
 
