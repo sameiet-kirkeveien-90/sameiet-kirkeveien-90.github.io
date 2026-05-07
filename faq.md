@@ -295,3 +295,15 @@ Ta kontakt med [Assistentpartner](/styre-og-stell/partnere#n%C3%B8kkelbrikker-og
 > Alternativt kan vi også komme innom og sette de opp på stedet. Her har vi en fast oppmøtepris à kr. 3600,- inkl mva som inkluderer transport og arbeid inntil 1,5 time.
 
 ![porttelefon-høyttaler.jpg](assets/images/porttelefon.jpg)
+
+### Hva skjer med syklene som ikke er merket innen dugnaden?
+
+Vi har en sykkelbod som til tider har vært stappfull av sykler. Hvert år rydder vi derfor sykkelboden for sykler og utstyr som ikke er i bruk. Måten det gjøres på er at vi varsler i Solibo, samt at vi en uke eller to før dugnaden henger opp lapper med påminnelse om at man må merke sykkelen sin med navn og årstall (eks. "Hansen 2026"). De som da har ansvar for å rydde sykkelboden under dugnaden vil da bruke dette for å bestemme hvilke sykler som er kandidater for fjerning fra boden.
+
+#### Kaster man bare syklene? Kan jeg f.eks. overta en av dem?
+
+Tja og tja. Vi forsøker å informere så godt vi kan, samt spore opp eiere om mulig ([merking med telefonnummer hjelper](https://lappeliten.no/navnelapper)!), men det hender noen år at nåværende eiere ikke får merket sykkelen sin. Derfor sier vi at _jo, det gir selvsagt mye mer mening at noen i sameiet får overta sykler, fremfor å kaste dem på dynga, men man må også være beredt på at den opprinnelige eieren kan komme tilbake og be om sykkelen sin_. Det har skjedd en gang (da eier var på jordomseiling under dugnaden). Så sjansen er liten, men så lenge man er inneforstått med at man kan være nødt til å oppgi sykkelen, så må man gjerne overta sykler som blir "overflødige".
+
+Vi gjør dog noen skjønnsmessige vurderinger: ser vi en umerket sykkel som ser helt ny ut, så har det hendt vi tar den til siden og setter den i en bok styret disponerer, i påvente av at den riktige eier melder seg. Vi forsøker å unngå kasting av en sykkel til 25.000 kr uten videre, men ansvaret for riktig merking ligger ubønnhørlig hos den som ikke har forholdt seg til utsendt informasjon!
+
+Uansett, siden vi gjør dette _hvert_ år så er det ingen sykler som har støvet ned i åresvis, og vi pleier derfor bare å kaste 1-2 sykler hver dugnad. Noen har vi også bare satt på sykkelparkeringen utendørs vi får benytte av naboeiendommen.
