@@ -298,7 +298,7 @@ Ta kontakt med [Assistentpartner](/styre-og-stell/partnere#n%C3%B8kkelbrikker-og
 
 ### Hva skjer med syklene som ikke er merket innen dugnaden?
 
-Vi har en sykkelbod som til tider har vært stappfull av sykler. Hvert år rydder vi derfor sykkelboden for sykler og utstyr som ikke er i bruk. Måten det gjøres på er at vi varsler i Solibo, samt at vi en uke eller to før dugnaden henger opp lapper med påminnelse om at man må merke sykkelen sin med navn og årstall (eks. "Hansen 2026"). De som da har ansvar for å rydde sykkelboden under dugnaden vil da bruke dette for å bestemme hvilke sykler som er kandidater for fjerning fra boden.
+Vi har en sykkelbod som til tider har vært stappfull av sykler. Hvert år rydder vi derfor sykkelboden for sykler og utstyr som ikke er i bruk. Måten det gjøres på er at vi varsler med [oppslag i beboerportalen til Solibo](https://home.solibo.no/companies/kirkeveien90/news/61366), samt at vi en uke eller to før dugnaden henger opp lapper med påminnelse om at man må merke sykkelen sin med navn og årstall (eks. "Hansen 2026"). De som da har ansvar for å rydde sykkelboden under dugnaden vil da bruke dette for å bestemme hvilke sykler som er kandidater for fjerning fra boden.
 
 #### Kaster man bare syklene? Kan jeg f.eks. overta en av dem?
 
