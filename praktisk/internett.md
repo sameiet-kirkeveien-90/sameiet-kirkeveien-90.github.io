@@ -9,7 +9,7 @@ parent: Praktisk
 # Internett og TV-tilbud
 
 [mesh]: https://www.tek.no/samletest/i/15VdOM/billig-mesh-nettverk-2023
-[frihet-m]: https://crm-kampanje.telenor.no/wp-content/uploads/sites/8/dok/Frihet_M_sept_2022.pdf
+[frihet-m]: /assets/pdfs/Frihet-M_mars_2023.pdf
 
 Sameiet har internett og TV bakt inn i husleien. [Frihet M][frihet-m] heter pakken og benytter koaksialkablene alle leilighetene i utgangspunktet er utstyrt med. I tilbudet følger følgende med:
 
