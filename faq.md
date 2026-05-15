@@ -30,7 +30,7 @@ Varmtvann og vannbåren varme til radiatorer fra [Hafslund Celsio](https://no.wi
 
 Det er ikke planlagt økning med mindre offentlige kostnader øker drastisk.
 
-Vi har et _vedlikeholdsfond_ finansiert over husleien som blir _tilført rundt en million kroner i året_. Det er hovedsakelig dette vi forsøker å ta store prosjekter gjennom. Some et eksempel på dette gjennomførte vi i 2023 rørfornying til seks millioner kroner og dette kunne vi gjennomføre uten å belaste sameierne med ytterligere engangsutgifter.
+Vi har et _vedlikeholdsfond_ finansiert over husleien som blir _tilført rundt en million kroner i året_. Det er hovedsakelig dette vi forsøker å ta store prosjekter gjennom. Som et eksempel på dette gjennomførte vi i 2023 rørfornying til seks millioner kroner og dette kunne vi gjennomføre uten å belaste sameierne med ytterligere engangsutgifter.
 
 #### Hvorfor har vi et vedlikeholdsfond?
 
@@ -38,7 +38,7 @@ Det ble bestemt på et sameiermøte i 2001 at et fond øremerket store vedlikeho
 
 ### Er det planlagt noen store prosjekter i fremtiden?
 
-I 2026 starter vi fornying av taket. Tak er dyrt og vi tømte fondet i 2023, så dette må vi antagelig ta over flere år. Før eller siden må vi også gjøre noe med heisene, som er kjempedyrt (størrelsesorden 10 MNOK). Heiskontrollen i 2025 anbefalte oss å se på utskifting innen 2027, men dette må man ta med en klype salt, så vi innhenter ekspertise i første kvartal 2026 for å vurdere planer for dette. Blir vi tvunget til å fornye heisene må vi antagelig ta opp et lån.
+I 2026 starter vi fornying av taket. Tak er dyrt og vi tømte fondet i 2023, så dette må vi antagelig ta over flere år. Før eller siden må vi også gjøre noe med heisene. Etter grundig evaluering i 2025 og 2026 er vi ikke veldig bekymret for kostnadsnivået her, ettersom vi kan fornye heisene en etter en, for en mye lavere kostnader enn å kjøpe nye, med bedre resultat. 
 
 ### Er sameiet involvert i noen rettstvister eller fått noen pålegg?
 
