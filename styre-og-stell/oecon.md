@@ -22,7 +22,9 @@ Styret har et regneark som sier hvor mye den enkelte skal betale ut i fra 3 tall
 - fyring
 - vedlikeholdsfond
 
-Den eneste utgiften som ikke fordeles etter fordelingsnøkkelen basert på eierbrøk er TV og internett (399 kr per seksjon per 2025). Ettersom lineær-tv blir stadig mindre aktuelt kan det være mulig å spare en god del her ved neste korsvei (avtalen med Telenor utgår i 2027) ved å kun ha internett innbakt i husleien.
+Den eneste utgiften som ikke fordeles etter fordelingsnøkkelen basert på eierbrøk (*) er TV og internett (399 kr per seksjon per 2025). Ettersom lineær-tv blir stadig mindre aktuelt kan det være mulig å spare en god del her ved neste korsvei (avtalen med Telenor utgår i 2027) ved å kun ha internett innbakt i husleien.
+
+(*) Det formelle vedtaket for dette kommer på årsmøtet i juni 2026.
 
 ## Varmeregnskap
 
