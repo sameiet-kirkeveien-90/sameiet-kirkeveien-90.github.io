@@ -19,7 +19,7 @@ layout: default
 
 - ✅ Du har sagt fra hvilket navn som skal stå på ringeklokketavla
 - ✅ Nytt postkasseskilt er bestilt (se under for detaljer)
-- ✅ Du har alle nøkler og nøkkelbrikker du trenger (flere kan bestilles)
+- ✅ Du har bestilt alle nøkler og nøkkelbrikker du trenger av styret (utover de som du har fått)
 - ✅ Du har tilgang til [bodene i kjelleren](/praktisk/boder/) og vet hvor de er
 - ✅ Du mottar informasjon fra Styret via Solibo (se under)
 - ✅ Du har [ringt på og hilst på naboene](/praktisk/lytt#snakk-med-naboen)
