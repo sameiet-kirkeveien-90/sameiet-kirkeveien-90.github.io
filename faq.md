@@ -119,20 +119,17 @@ Bygget er forsikret i If Forsikring, polisenummer SP408203. Bygningskroppen (og 
 
 ### Hva skjer ved salg? Hvem sier fra til hvem?
 
-Svar fra vår forretningsfører , NOR Forvaltning (24. juli 2025)
+Svar fra vår [forretningsfører](/styre-og-stell/forretningsf%C3%B8rer) (24. juli 2025)
 
-> få tilsendt salgsavtalen eller annen dokumentasjon på eierskifte som tinglysning el. slik at vi ser ar overføringen er reel og gjennomført.
+> få tilsendt salgsavtalen eller annen dokumentasjon på eierskifte som tinglysning el. slik at vi ser ar overføringen er reell og gjennomført.
 >
 > Selger må selv sørge for tinglysning da det er eiendomsmegler som normalt gjør dette.
->
 > I tillegg må vi ha informasjon på ny eier så som personnr, tlf og epost samt dato for overtagelse.
 >
 > I forbindelse med salget må også eventuelt restanser gjøres opp av selger før vi kan registrere eierskiftet.
->
 > Det betyr at vi må ha informasjon om salget i forkant av dato for eierskifte.
 >
 > Det tilkommer eierskiftegebyr fra oss på kr 6570,- inkl mva.
->
 > Vi sender også informasjon om eierskifte til styret for eventuell godkjenning eller kommentarer.
 
 ### Kjenner styret i sameiet til noen større prosjekter i nærområdet som kan påvirke bosituasjonen?
