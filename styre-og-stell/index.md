@@ -16,9 +16,9 @@ Du finner også telefonnummerene oppført på tavla ved utgangsdøren i hver opp
 
 # Styret
 
-Gårdens styre består per desember 2025 av
+Gårdens styre består per juli 2026 av
 
-- Carl-Erik Kopseng (styreleder). Valgt til 2026.
+- Carl-Erik Kopseng (styreleder). Forlenget til 2027.
 - Marit Aal Hughes
 - Anton Forssten
 - varamedlem Stein Hødnebø
