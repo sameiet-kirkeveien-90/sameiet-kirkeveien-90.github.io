@@ -20,6 +20,6 @@ Gårdens styre består per desember 2025 av
 
 - Carl-Erik Kopseng (styreleder). Valgt til 2026.
 - Marit Aal Hughes
-- Øystein Revheim
+- Anton Forssten
 - varamedlem Stein Hødnebø
 - varamedlem Gisle Vada
