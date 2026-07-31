@@ -40,13 +40,17 @@ Det ble bestemt på et sameiermøte i 2001 at et fond øremerket store vedlikeho
 
 I 2026 starter vi fornying av taket. Tak er dyrt og vi tømte fondet i 2023, så dette må vi antagelig ta over flere år. Før eller siden må vi også gjøre noe med heisene. Etter grundig evaluering i 2025 og 2026 er vi ikke veldig bekymret for kostnadsnivået her, ettersom vi kan fornye heisene en etter en, for en mye lavere kostnader enn å kjøpe nye, med bedre resultat. 
 
+### Er det utført noen større vedlikeholdsprosjekt i gården de siste årene som er verdt å nevne?
+
+Vi gjennomførte fornying av avløpsrør i 2023 og i 2026 oppgradering av beslag på "hylla" i åttende (verandaen for 8. etasje mot gården og nødadkomst mot Suhmsgate).
+
 ### Er sameiet involvert i noen rettstvister eller fått noen pålegg?
 
 Per januar 2026 er det ingen ting slikt under opptakt, og de har heller ikke vært det på mange år (om noen gang).
 
 ### Er det observert noen skadedyr?
 
-Vi har serviceavtale med Anticimex og har generelt ingen problemer med skadedyr. Det har i tidligere blitt observert spor av rotter, men hver gang følges det umiddelbart ved at Anticimex legger ut åte og følger opp for å finne eventuell inngang. De har ikke funnet noe det siste halvannet året (per januar 2026). Vi har også hatt et tilfelle med møll for fem år siden, men ikke lenger.
+Vi har fram til 2026 hatt en serviceavtale med Anticimex og har generelt ikke hatt problemer med skadedyr. Det har i tidligere blitt observert spor av rotter, men hver gang følges det umiddelbart ved at Anticimex legger ut åte og følger opp for å finne eventuell inngang. I mai 2026 ble det igjen observert rotter og vi engasjerte da spesialistene i Sentrum Skadedyrkontroll etter Anticimex ikke fikk has på dem. Nye innganger ble funnet og lukket og rottene er nå bekreftet borte (infrarød video og UV-pulver). Vi har også hatt et tilfelle med møll i kjelleren i 2020, men ikke lenger.
 
 ### Hva betyr det for meg om sameiet velger å ta opp lån?
 
@@ -68,10 +72,6 @@ Den må dessverre tas med opp i leiligheten.
 Det skal sies at selv tvillingvogn fra Buggaboo går fint inn i heisen (av erfaring). Fellesarealene er rømningsvei og må holdes fri for brennbart og hindringer. Sykkelboden er kun for sykkelrelatert.
 
 Vi kan anbefale å kjøpe en gummimatte til gangen der slaps og regn kan stå og tørke.
-
-### Er det utført noen større vedlikeholdsprosjekt i gården de siste årene som er verdt å nevne?
-
-Vi gjennomførte fornying av avløpsrør i 2023
 
 ### Er sameiet/borettslaget kjent med tilfeller av skjeggkre/sølvkre eller andre skadedyr?
 
