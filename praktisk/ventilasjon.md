@@ -37,10 +37,10 @@ Da bygget var nytt ble de fleste leilighetene bygget med fem (\*) lufteluker - t
 - Inntaksluken på det opprinnelige kjøkkenet er inne i det lille kottet. Det var opprinnelig et matskap som holdt maten kald. For at
   luften skulle kunne sirkulere i leiligheten var det derfor flere hull i toppen av skapdøren. Disse må derfor ikke stenges.
 
-> De mindre leilighetene i A og E avviker noe her og har kanskje bare to av tre utluftingsluker.
+> De mindre leilighetene avviker noe og har typisk bare to av tre utluftingsluker, men to luker for inntaksluft.
 
 Det har tidligere blitt sendt ut et eget rundskriv om ventilasjon, med følgende skisse
-<a href="/assets/pdfs/Skisse luft inn og ut.pdf">(PDF)</a> over alle de _fem_ luftelukene i hver leilighet som
+<a href="/assets/pdfs/Skisse luft inn og ut.pdf">(PDF)</a> over alle luftelukene i hver leilighet som
 skal være åpne. Sjekk at de ikke har blitt dekket til i din leilighet! At disse er tettet igjen er en
 gjentagende årsak til dårlig trekk i peisen og røykplager. Ventilene har nummer fra 1-5.
 
@@ -60,8 +60,9 @@ Undertrykket fra peisen er pga vifter på taket så sterkt at det kan trekke mye
 faktisk så mye at luftstrømmen som vanligvis går _ut_ av kanalene på kjøkken og bad kan _reverseres_
 slik at man trekker luft _inn_ fra utluftingskanalene. Det er opphav til de fleste luktproblemer som oppleves.
 
-En annen årsak til lukt er at folk som pusser opp har montert vifter på kjøkken og/eller bad. Det er ikke tillatt.
-Grunnen er at luften da blir presset med så høy kraft inn i kanalen at de over og under kan få den inn i leilighetene
+En annen årsak til lukt er at folk som pusser opp har montert vifter på kjøkken og/eller bad som dytter luft
+direkte inn i kanalene. Det er ikke tillatt.
+Grunnen er at luften da blir presset med så høy kraft inn i kanalen at de over og under får den inn i leilighetene
 sine. Det blir altså overtrykk i steden for undertrykk i utluftingskanalen
 
 # Peis og piper
