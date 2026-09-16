@@ -44,61 +44,278 @@
       }
       body {
         margin: 0;
-        /*font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji"; */
-        font-family: "Times New Roman", Times, Georgia, serif;
-        background: #f6f7f8;
-        color: #111;
+        font-family:
+          system-ui,
+          -apple-system,
+          BlinkMacSystemFont,
+          "Segoe UI",
+          sans-serif;
+        background: #f4f7fb;
+        color: #172033;
       }
 
-      .toolbar {
-        position: sticky;
-        top: 0;
-        z-index: 20;
-        display: grid;
-        gap: 0.75rem;
-        grid-template-columns: 1fr auto;
-        align-items: end;
-        padding: 1rem;
-        background: white;
-        border-bottom: 1px solid #e5e7eb;
+      .workspace {
+        width: min(100% - 2rem, 62rem);
+        margin: 0 auto;
+        padding: 3rem 0 2rem;
       }
-      .toolbar .row {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 0.75rem;
-        align-items: center;
+      .workspace-header {
+        max-width: 43rem;
+        margin-bottom: 2rem;
       }
-      .toolbar label {
-        font-size: 0.9rem;
-        color: #374151;
+      .eyebrow {
+        margin: 0 0 0.5rem;
+        color: #42668e;
+        font-size: 0.8rem;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
       }
-      .toolbar input[type="number"] {
-        width: 6rem;
+      h1,
+      h2,
+      h3 {
+        color: #172033;
       }
-      .toolbar button {
-        padding: 0.5rem 0.9rem;
-        border-radius: 0.5rem;
-        border: 1px solid #cbd5e1;
+      h1 {
+        margin: 0;
+        font-size: clamp(2rem, 5vw, 3rem);
+        line-height: 1.08;
+        letter-spacing: -0.035em;
+      }
+      .intro {
+        margin: 1rem 0 0;
+        color: #536176;
+        font-size: 1.05rem;
+        line-height: 1.6;
+      }
+      .workspace-card {
+        margin-top: 1rem;
+        padding: clamp(1.25rem, 3vw, 2rem);
+        border: 1px solid #dbe4ef;
+        border-radius: 1rem;
         background: #fff;
-        cursor: pointer;
+        box-shadow: 0 0.5rem 1.5rem rgba(32, 55, 85, 0.06);
       }
-      .toolbar button.primary {
-        background: #111827;
-        color: #fff;
-        border-color: #111827;
+      .workspace-card h2 {
+        margin: 0;
+        font-size: 1.2rem;
       }
-      .hint {
+      .workspace-card > p {
+        margin: 0.5rem 0 1.25rem;
+        color: #607087;
+        line-height: 1.5;
+      }
+      .workflow {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 1rem;
+        margin: 1rem 0 0;
+        padding: 0;
+        list-style: none;
+      }
+      .workflow li {
+        min-height: 8rem;
+        padding: 1rem;
+        border-radius: 0.75rem;
+        background: #f5f8fc;
+      }
+      .workflow span {
+        display: inline-grid;
+        width: 1.75rem;
+        height: 1.75rem;
+        place-items: center;
+        border-radius: 50%;
+        background: #dce9f7;
+        color: #315e8d;
+        font-size: 0.85rem;
+        font-weight: 700;
+      }
+      .workflow h3 {
+        margin: 0.85rem 0 0.35rem;
+        font-size: 1rem;
+      }
+      .workflow p {
+        margin: 0;
+        color: #607087;
         font-size: 0.9rem;
-        color: #555;
+        line-height: 1.45;
       }
-      #ta {
+      .field-grid {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+        gap: 1rem;
+      }
+      .field {
+        display: grid;
+        gap: 0.45rem;
+        color: #2f3e55;
+        font-size: 0.95rem;
+        font-weight: 650;
+      }
+      input,
+      textarea,
+      button {
+        font: inherit;
+      }
+      input[type="file"],
+      input[type="number"],
+      textarea {
+        border: 1px solid #b8c8d9;
+        border-radius: 0.55rem;
+        background: #fff;
+        color: #172033;
+      }
+      input[type="file"] {
         width: 100%;
+        padding: 0.55rem;
+        font-size: 0.9rem;
+        font-weight: 400;
+      }
+      input[type="number"] {
+        width: 100%;
+        padding: 0.55rem 0.65rem;
+        font-weight: 400;
+      }
+      textarea {
+        width: 100%;
+        min-height: 12rem;
+        padding: 0.75rem;
+        resize: vertical;
         font-family:
           ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
           "Liberation Mono", "Courier New", monospace;
+        font-size: 0.9rem;
+        font-weight: 400;
+        line-height: 1.45;
+      }
+      input:focus-visible,
+      textarea:focus-visible,
+      button:focus-visible,
+      summary:focus-visible {
+        outline: 3px solid #315e8d;
+        outline-offset: 3px;
+      }
+      .file-status {
+        min-height: 1.5rem;
+        margin: 0.5rem 0 0;
+        color: #65758b;
+        font-size: 0.9rem;
+      }
+      .generation-feedback {
+        margin: 1.25rem 0 0;
+        padding: 0.9rem 1rem;
+        border-left: 0.3rem solid #7d9fc1;
+        border-radius: 0.5rem;
+        background: #f5f8fc;
+      }
+      .generation-feedback[data-kind="error"] {
+        border-left-color: #a85656;
+        background: #fff6f6;
+      }
+      .generation-feedback[data-kind="success"] {
+        border-left-color: #4b7f66;
+        background: #f3faf6;
+      }
+      .generation-status,
+      .generation-summary {
+        margin: 0;
+        color: #405168;
+        font-size: 0.92rem;
+        line-height: 1.5;
+      }
+      .generation-summary {
+        margin-top: 0.35rem;
+      }
+      .workflow li.is-active {
+        background: #e8f1fb;
+        box-shadow: inset 0 0 0 1px #9bb9d8;
+      }
+      .workflow li.is-complete span,
+      .workflow li.is-active span {
+        background: #4b7fb2;
+        color: #fff;
+      }
+      .input-help,
+      .details-help {
+        color: #607087;
+        font-size: 0.9rem;
+        line-height: 1.5;
+      }
+      .input-help {
+        margin: 0.5rem 0 0;
+      }
+      details {
+        margin-top: 1.5rem;
+        border-top: 1px solid #e0e8f0;
+        padding-top: 1rem;
+      }
+      summary {
+        width: fit-content;
+        cursor: pointer;
+        color: #315e8d;
+        font-weight: 700;
+      }
+      .details-help {
+        margin: 0.75rem 0 1rem;
+      }
+      .settings-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 1rem;
+      }
+      .checkbox-field {
+        display: flex;
+        align-items: center;
+        gap: 0.6rem;
+        font-weight: 600;
+      }
+      .checkbox-field input {
+        width: 1rem;
+        height: 1rem;
+      }
+      .actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.75rem;
+        margin-top: 1.5rem;
+      }
+      button {
+        min-height: 2.75rem;
+        padding: 0.65rem 1rem;
+        border: 1px solid #aac0d7;
+        border-radius: 0.6rem;
+        background: #fff;
+        color: #294d72;
+        cursor: pointer;
+        font-weight: 700;
+      }
+      button:hover {
+        background: #f3f8fd;
+      }
+      button.primary {
+        border-color: #4b7fb2;
+        background: #4b7fb2;
+        color: #fff;
+      }
+      button.primary:hover {
+        background: #3c6f9f;
+      }
+      button:disabled {
+        cursor: not-allowed;
+        opacity: 0.55;
+      }
+      .print-note {
+        margin: 1rem 0 0;
+        color: #607087;
+        font-size: 0.9rem;
+        line-height: 1.5;
+      }
+      #ta {
+        display: block;
       }
 
       .sheet {
+        font-family: "Times New Roman", Times, Georgia, serif;
         width: var(--page-width);
         min-height: var(--page-height);
         margin: 12mm auto;
@@ -122,7 +339,9 @@
         grid-template-columns: var(--box-width) var(--column-gap) var(
             --box-width
           );
-        grid-template-rows: var(--box-height) var(--box-gap-v) var(--box-height);
+        grid-template-rows: var(--box-height) var(--box-gap-v) var(
+            --box-height
+          );
         justify-content: center;
         align-content: start;
         position: relative;
@@ -203,8 +422,27 @@
         border-top: 0.5px dashed rgba(0, 0, 0, 0.25);
         pointer-events: none;
       }
-      .infobox {
-        margin: 80px 100px;
+      @media (max-width: 42rem) {
+        .workspace {
+          width: min(100% - 1.25rem, 62rem);
+          padding-top: 1.5rem;
+        }
+        .workflow,
+        .field-grid,
+        .settings-grid {
+          grid-template-columns: 1fr;
+        }
+        .workflow li {
+          min-height: 0;
+        }
+        .actions button {
+          width: 100%;
+        }
+      }
+
+      @page {
+        size: A4 portrait;
+        margin: 0;
       }
 
       @media print {
@@ -219,6 +457,9 @@
         body > :not(#pages) {
           display: none;
         }
+        #pages > :not(.sheet) {
+          display: none;
+        }
         .sheet {
           margin: 0;
           box-shadow: none;
@@ -231,88 +472,142 @@
     </style>
   </head>
   <body>
-    <div class="infobox">
-      Standard dimensjoner for firkanten med navneslisser er 63 mm x 71 mm. Du
-      må klippe av en liten diagonal på det øvre høyre hjørnet (ca 1 mm inn).
-      Regnearket du trenger eksportere som CSV ligger i Dropbox og er en fane i
-      <a
-        href="https://www.dropbox.com/scl/fi/ugjxr5ss1sn21wwivlxi6/Leilighetsoversikt.xlsx?dl=0&rlkey=u1oyrsckcov8ltn42i7tkoqv0"
-      >
-        fila Leilighetsoversikt.xlsx</a
-      >
-      som heter "Porttelefoner".
+    <main class="workspace">
+      <header class="workspace-header">
+        <p class="eyebrow">Porttelefon-panel</p>
+        <h1>Lag tydelige navneskilt</h1>
+        <p class="intro">
+          Last opp leilighetsoversikten, se gjennom innholdet og skriv ut et
+          målt A4-ark klart for montering.
+        </p>
+      </header>
 
-      <p>
-        Hele arket må skrives ut uten marger. Den stiplede linjen man ser under
-        skal ligge kant i kant med A4-arket etter utskrift. Husk å skru av
-        eventuelle normalmarger ved utskrift, om dette skjer. Egentlig skal det
-        ikke skje (stilsettregler er lagt inn for å forhindre det).
-      </p>
-    </div>
+      <section class="workspace-card" aria-labelledby="workflow-title">
+        <h2 id="workflow-title">Slik gjør du det</h2>
+        <ol class="workflow">
+          <li id="workflow-upload" class="is-active" aria-current="step">
+            <span>1</span>
+            <h3>Last opp</h3>
+            <p>Velg CSV-filen fra leilighetsoversikten.</p>
+          </li>
+          <li id="workflow-review">
+            <span>2</span>
+            <h3>Se gjennom</h3>
+            <p>Kontroller CSV-innholdet før sidene genereres.</p>
+          </li>
+          <li id="workflow-print">
+            <span>3</span>
+            <h3>Skriv ut</h3>
+            <p>Generer sider og skriv dem ut eller lagre dem som PDF.</p>
+          </li>
+        </ol>
+      </section>
 
-    <div class="toolbar">
-      <div class="row">
-        <div class="hint">
-          CSV med kolonnene <code>leilighetsnummer,navn</code>. Eksempel på
-          leilighetsnummer: <code>E|H0201</code> eller <code>E|0201</code>.
+      <section class="workspace-card" aria-labelledby="input-title">
+        <h2 id="input-title">1. Velg eller lim inn CSV</h2>
+        <p>
+          CSV-filen skal ha kolonnene
+          <code>leilighetsnummer,navn</code>. Eksempel:
+          <code>E|H0201</code> eller <code>E|0201</code>.
+        </p>
+        <div class="field-grid">
+          <div>
+            <label class="field" for="file">CSV-fil</label>
+            <input type="file" id="file" accept=".csv,text/csv" />
+            <p
+              class="file-status"
+              id="file-status"
+              role="status"
+              aria-live="polite"
+            >
+              Ingen CSV-fil valgt.
+            </p>
+          </div>
+          <div>
+            <button id="btn-sample" type="button">Last inn eksempel</button>
+            <p class="input-help">Bruk eksempelet hvis du vil se formatet.</p>
+          </div>
         </div>
-        <div>
-          <button id="btn-sample">Last inn eksempel</button>
-          <button id="btn-generate" class="primary">Generer sider</button>
-          <button id="btn-print">Skriv ut / Lagre som PDF</button>
+
+        <label class="field" for="ta">CSV-innhold</label>
+        <textarea id="ta" rows="8"></textarea>
+
+        <details>
+          <summary>Avanserte innstillinger</summary>
+          <p class="details-help">
+            Endre bare disse dersom utskriften skal tilpasses.
+            Debug-hjelpelinjer vises aldri på utskrift.
+          </p>
+          <div class="settings-grid">
+            <label class="field" for="boxW"
+              >Bredde (mm)
+              <input type="number" id="boxW" step="1" value="63" />
+            </label>
+            <label class="field" for="boxH"
+              >Høyde (mm)
+              <input type="number" id="boxH" step="1" value="71" />
+            </label>
+            <label class="field" for="innerTop"
+              >Topp-bånd (mm)
+              <input type="number" id="innerTop" step="1" value="6" />
+            </label>
+            <label class="field" for="innerBottom"
+              >Bunn-bånd (mm)
+              <input type="number" id="innerBottom" step="1" value="10" />
+            </label>
+            <label class="field" for="colGap"
+              >Kolonne-gap (mm)
+              <input type="number" id="colGap" step="1" value="14" />
+            </label>
+            <label class="field" for="boxGap"
+              >Boks-gap (mm)
+              <input type="number" id="boxGap" step="1" value="16" />
+            </label>
+            <label class="field" for="pageMargin"
+              >Side-marg (mm)
+              <input type="number" id="pageMargin" step="1" value="12" />
+            </label>
+            <label class="checkbox-field" for="debugChk"
+              ><input type="checkbox" id="debugChk" checked /> Vis
+              debug-hjelpelinjer
+            </label>
+          </div>
+        </details>
+
+        <div class="actions">
+          <button id="btn-generate" class="primary" type="button">
+            2. Generer sider
+          </button>
+          <button id="btn-print" type="button" disabled>
+            3. Skriv ut / lagre som PDF
+          </button>
         </div>
-      </div>
-      <div class="row">
-        <label
-          >CSV-fil <input type="file" id="file" accept=".csv,text/csv"
-        /></label>
-        <fieldset>
-          <label
-            >Bredde
-            <input type="number" id="boxW" step="1" value="63" /> mm</label
-          >
-          <label
-            >Høyde
-            <input type="number" id="boxH" step="1" value="71" /> mm</label
-          >
-        </fieldset>
-
-        <fieldset>
-          <label
-            >Top-bånd
-            <input type="number" id="innerTop" step="1" value="6" /> mm</label
-          >
-          <label
-            >Bunn-bånd
-            <input type="number" id="innerBottom" step="1" value="10" />
-            mm</label
-          >
-        </fieldset>
-
-        <fieldset>
-          <label
-            >Kolonne-gap
-            <input type="number" id="colGap" step="1" value="14" /> mm</label
-          >
-          <label
-            >Boks-gap
-            <input type="number" id="boxGap" step="1" value="16" /> mm</label
-          >
-        </fieldset>
-
-        <label
-          >Side-marg
-          <input type="number" id="pageMargin" step="1" value="12" /> mm</label
+        <div
+          class="generation-feedback"
+          id="generation-feedback"
+          data-kind="info"
         >
-        <label
-          ><input type="checkbox" id="debugChk" checked /> Vis slisse-linjer
-          (debug)</label
-        >
-        Slisse-linjene er ikke synlig ved utskrift og bare ment som hjelp ved
-        justering av linjer.
-      </div>
-      <textarea id="ta" rows="8"></textarea>
-    </div>
+          <p
+            id="generation-status"
+            class="generation-status"
+            role="status"
+            aria-live="polite"
+          >
+            Last opp eller lim inn en CSV-fil for å se gjennom innholdet.
+          </p>
+          <p
+            id="generation-summary"
+            class="generation-summary"
+            aria-live="polite"
+          ></p>
+        </div>
+        <p class="print-note">
+          Skriv ut med null marger. Skriver- eller nettleserdialogen kan
+          overstyre CSS, så velg null marger der også. Den stiplede kanten skal
+          ligge kant i kant med A4-arket.
+        </p>
+      </section>
+    </main>
 
     <div id="pages"></div>
 
@@ -330,30 +625,120 @@
         r.style.setProperty("--page-margin", mm(cfg.pageMargin));
       }
       function sniffDelimiter(head) {
-        const counts = { ";": 0, ",": 0, "\t": 0 };
-        for (const ch of head) {
-          if (ch in counts) counts[ch]++;
-        }
-        let best = ",",
-          max = -1;
-        for (const [ch, n] of Object.entries(counts)) {
-          if (n > max) {
-            max = n;
-            best = ch;
+        const candidates = [";", ",", "\t"];
+        let best = ",";
+        let bestScore = -1;
+
+        for (const delim of candidates) {
+          const columnCounts = [];
+          let columns = 1;
+          let inQuotes = false;
+          let rowHasContent = false;
+
+          for (let i = 0; i < head.length; i++) {
+            const ch = head[i];
+            if (inQuotes) {
+              if (ch === '"') {
+                if (head[i + 1] === '"') {
+                  i++;
+                } else {
+                  inQuotes = false;
+                }
+              }
+            } else if (ch === '"') {
+              inQuotes = true;
+              rowHasContent = true;
+            } else if (ch === delim) {
+              columns++;
+              rowHasContent = true;
+            } else if (ch === "\n" || ch === "\r") {
+              if (ch === "\r" && head[i + 1] === "\n") i++;
+              if (rowHasContent) columnCounts.push(columns);
+              columns = 1;
+              rowHasContent = false;
+            } else if (!/\s/.test(ch)) {
+              rowHasContent = true;
+            }
+          }
+          if (rowHasContent) columnCounts.push(columns);
+
+          const headerColumns = columnCounts[0] || 1;
+          const dataColumns = columnCounts.slice(1);
+          const matchingRows = dataColumns.filter(
+            (count) => count === headerColumns,
+          ).length;
+          const isConsistent =
+            headerColumns > 1 && matchingRows === dataColumns.length;
+          const score =
+            (headerColumns > 1 ? 1000 : 0) +
+            (isConsistent ? 100 : 0) +
+            matchingRows * 10 +
+            headerColumns;
+          if (score > bestScore) {
+            bestScore = score;
+            best = delim;
           }
         }
-        return max > 0 ? (best === "\t" ? "\t" : best) : ",";
+        return best;
       }
       function parseCSV(text) {
         text = text.replace(/^\uFEFF/, "");
-        const lines = text.split(/\r?\n/).filter((l) => l.trim().length);
-        if (!lines.length) return [];
-        const head = lines.slice(0, 5).join("\n");
-        const delim = sniffDelimiter(head);
-        const hdr = lines[0].split(delim).map((h) => h.trim().toLowerCase());
+        const sample = text
+          .split(/\r?\n/)
+          .filter((line) => line.trim().length)
+          .slice(0, 5)
+          .join("\n");
+        if (!sample) return [];
+        const delim = sniffDelimiter(sample);
+        const parsedRows = [];
+        let row = [];
+        let field = "";
+        let inQuotes = false;
+        let rowHasContent = false;
+
+        const finishRow = () => {
+          row.push(field);
+          if (rowHasContent) parsedRows.push(row);
+          row = [];
+          field = "";
+          rowHasContent = false;
+        };
+
+        for (let i = 0; i < text.length; i++) {
+          const ch = text[i];
+          if (inQuotes) {
+            if (ch === '"') {
+              if (text[i + 1] === '"') {
+                field += '"';
+                i++;
+              } else {
+                inQuotes = false;
+              }
+            } else {
+              field += ch;
+            }
+          } else if (ch === '"') {
+            inQuotes = true;
+            rowHasContent = true;
+          } else if (ch === delim) {
+            row.push(field);
+            field = "";
+            rowHasContent = true;
+          } else if (ch === "\n" || ch === "\r") {
+            if (ch === "\r" && text[i + 1] === "\n") i++;
+            finishRow();
+          } else {
+            field += ch;
+            if (!/\s/.test(ch)) rowHasContent = true;
+          }
+        }
+        if (rowHasContent || field || row.length) finishRow();
+        if (!parsedRows.length) return [];
+
+        const hdr = parsedRows[0].map((h) => h.trim().toLowerCase());
         const rows = [];
-        for (let i = 1; i < lines.length; i++) {
-          const cols = lines[i].split(delim);
+        for (let i = 1; i < parsedRows.length; i++) {
+          const cols = parsedRows[i];
           const rec = {};
           hdr.forEach((h, idx) => (rec[h] = (cols[idx] || "").trim()));
           rows.push(rec);
@@ -388,19 +773,33 @@
       // global slisser 0..7 topp->bunn
       const baseSlot = { 8: 0, 7: 1, 6: 2, 5: 3, 4: 4, 3: 5, 2: 6, 1: 7 };
 
+      function getOppgangSlotLayout(rowsForOppgang) {
+        const present = new Set(rowsForOppgang.map((r) => r.etasje));
+        const requestedOffset = [1, 2, 3, 4].filter(
+          (floor) => !present.has(floor),
+        ).length;
+        // Keep the existing compacting behavior, but never shift a lower floor
+        // outside the eight physical slots.
+        const maxSafeOffset = Math.min(
+          ...rowsForOppgang.map((r) => 7 - baseSlot[r.etasje]),
+        );
+        return {
+          offset: Math.min(requestedOffset, maxSafeOffset),
+          single8: rowsForOppgang.filter((r) => r.etasje === 8).length === 1,
+        };
+      }
+      function getSlotPlacement(record, layout) {
+        const idx = baseSlot[record.etasje] + layout.offset;
+        if (idx < 0 || idx > 7) return null;
+        return {
+          side: record.etasje === 8 && layout.single8 ? "R" : record.sideUnit,
+          band: idx <= 3 ? "TOP" : "BOT",
+          pos: idx <= 3 ? idx : idx - 4,
+        };
+      }
       function buildBoxesForOppgang(rowsForOppgang) {
         if (!rowsForOppgang.length) return [];
-        const present = new Set(
-          rowsForOppgang.map((r) => r.etasje).filter((f) => f >= 1 && f <= 8),
-        );
-        let missingBottom = 0;
-        [1, 2, 3, 4].forEach((f) => {
-          if (!present.has(f)) missingBottom++;
-        });
-        const offset = missingBottom;
-
-        const single8 =
-          rowsForOppgang.filter((r) => r.etasje === 8).length === 1;
+        const layout = getOppgangSlotLayout(rowsForOppgang);
 
         const lines = {
           L_TOP: new Array(4).fill(null),
@@ -410,16 +809,15 @@
         };
 
         for (const r of rowsForOppgang) {
-          const floor = r.etasje;
-          if (!(floor in baseSlot)) continue;
-          let side = r.sideUnit;
-          if (floor === 8 && single8) side = "R";
-          const idx = baseSlot[floor] + offset; // 0..7
-          if (idx < 0 || idx > 7) continue;
-          const band = idx <= 3 ? "TOP" : "BOT";
-          const pos = idx <= 3 ? idx : idx - 4;
-          const key = `${side}_${band}`;
-          lines[key][pos] = r.display;
+          if (r.placement) {
+            lines[`${r.placement.side}_${r.placement.band}`][r.placement.pos] =
+              r.display;
+            continue;
+          }
+          const placement = getSlotPlacement(r, layout);
+          if (!placement) continue;
+          lines[`${placement.side}_${placement.band}`][placement.pos] =
+            r.display;
         }
         const boxes = [
           { column: "L", order: 1, lines: lines["L_TOP"] },
@@ -568,19 +966,47 @@
           fr.readAsText(file);
         });
       }
-      function toRecords(csvRows) {
+      const supportedSectionColumns = ["leilighetsnummer", "seksjonsid", "apt"];
+
+      function getFirstCsvRow(text) {
+        let inQuotes = false;
+        for (let i = 0; i < text.length; i++) {
+          const ch = text[i];
+          if (ch === '"') {
+            if (inQuotes && text[i + 1] === '"') {
+              i++;
+            } else {
+              inQuotes = !inQuotes;
+            }
+          } else if (!inQuotes && (ch === "\n" || ch === "\r")) {
+            return text.slice(0, i);
+          }
+        }
+        return text;
+      }
+      function getSupportedSectionColumn(csvRows, text) {
+        const rowKeys = Object.keys(csvRows[0] || {});
+        const firstRow = getFirstCsvRow(text.replace(/^\uFEFF/, ""));
+        const headerKeys = Object.keys(parseCSV(`${firstRow}\nvalue`)[0] || {});
+        return supportedSectionColumns.find(
+          (column) => rowKeys.includes(column) || headerKeys.includes(column),
+        );
+      }
+      function inspectRecords(csvRows, sectionColumn) {
         const out = [];
+        let rejectedRows = 0;
         for (const rec of csvRows) {
-          const seksjonsid = (
-            rec["leilighetsnummer"] ||
-            rec["seksjonsid"] ||
-            rec["apt"] ||
-            ""
-          ).trim();
+          const seksjonsid = (rec[sectionColumn] || "").trim();
           const navn = (rec["navn"] || rec["name"] || "").trim();
-          if (!seksjonsid) continue;
+          if (!seksjonsid) {
+            rejectedRows++;
+            continue;
+          }
           const p = parseSeksjonsId(seksjonsid);
-          if (!p) continue;
+          if (!p || p.etasje < 1 || p.etasje > 8) {
+            rejectedRows++;
+            continue;
+          }
           const disp = (navn ? navn : p.defaultDisplay).toUpperCase();
           out.push({
             seksjonsid,
@@ -591,7 +1017,34 @@
             display: disp,
           });
         }
-        return out;
+        return { records: out, rejectedRows };
+      }
+      function resolveSlotCollisions(records) {
+        const byOppgang = groupByOppgang(records);
+        const winners = new Map();
+        let collisions = 0;
+
+        for (const [oppgang, rowsForOppgang] of byOppgang) {
+          // Resolve repeated source rows before choosing the single-floor-8
+          // side: two copies of H0801 still describe one physical unit.
+          const sourceWinners = new Map();
+          for (const r of rowsForOppgang) {
+            const sourceSlot = `${r.etasje}|${r.sideUnit}`;
+            if (sourceWinners.has(sourceSlot)) collisions++;
+            sourceWinners.set(sourceSlot, r);
+          }
+          const winningRows = Array.from(sourceWinners.values());
+          const layout = getOppgangSlotLayout(winningRows);
+
+          for (const r of winningRows) {
+            const placement = getSlotPlacement(r, layout);
+            if (!placement) continue;
+            const slotKey = `${oppgang}|${placement.side}|${placement.band}|${placement.pos}`;
+            if (winners.has(slotKey)) collisions++;
+            winners.set(slotKey, { ...r, placement });
+          }
+        }
+        return { records: Array.from(winners.values()), collisions };
       }
       function gatherConfig() {
         return {
@@ -605,49 +1058,241 @@
         };
       }
 
+      // ---- Validation and workflow ----
+      let previewIsCurrent = false;
+      let fileReadPending = false;
+      let fileSelectionVersion = 0;
+      function setWorkflowState(step) {
+        const steps = ["upload", "review", "print"];
+        for (const [index, name] of steps.entries()) {
+          const el = document.getElementById(`workflow-${name}`);
+          const isActive = name === step;
+          el.classList.toggle("is-active", isActive);
+          el.classList.toggle("is-complete", index < steps.indexOf(step));
+          if (isActive) el.setAttribute("aria-current", "step");
+          else el.removeAttribute("aria-current");
+        }
+      }
+      function setGenerationFeedback(message, kind = "info") {
+        document.getElementById("generation-status").textContent = message;
+        document.getElementById("generation-feedback").dataset.kind = kind;
+      }
+      function setGenerationSummary({
+        receivedRows = 0,
+        rejectedRows = 0,
+        printableRows = 0,
+        entrances = 0,
+        collisions = 0,
+      }) {
+        document.getElementById("generation-summary").textContent =
+          `Mottatte rader: ${receivedRows}. Avviste rader: ${rejectedRows}. ` +
+          `Utskrivbare rader: ${printableRows}. Oppganger med utskrivbare rader: ${entrances}. ` +
+          `Kollisjoner: ${collisions}.`;
+      }
+      function disablePrinting() {
+        previewIsCurrent = false;
+        document.getElementById("btn-print").disabled = true;
+      }
+      function setFileReadPending(isPending) {
+        fileReadPending = isPending;
+        document.getElementById("btn-generate").disabled = isPending;
+      }
+      function setReviewState(
+        message = "CSV-innholdet er endret. Generer sider når du er klar.",
+      ) {
+        disablePrinting();
+        if (!fileReadPending)
+          document.getElementById("btn-generate").disabled = false;
+        setWorkflowState("review");
+        setGenerationFeedback(message);
+      }
+      function generatePreview() {
+        if (fileReadPending) {
+          disablePrinting();
+          setWorkflowState("upload");
+          setGenerationFeedback(
+            "Vent til CSV-filen er ferdig lest før du genererer sider.",
+            "error",
+          );
+          return false;
+        }
+        updateCssVars(gatherConfig());
+        const text = document.getElementById("ta").value;
+        if (!text.trim()) {
+          setGenerationSummary({});
+          disablePrinting();
+          setWorkflowState("review");
+          setGenerationFeedback(
+            "Lim inn eller last opp CSV-innhold før du genererer sider.",
+            "error",
+          );
+          return false;
+        }
+
+        const rows = parseCSV(text);
+        const sectionColumn = getSupportedSectionColumn(rows, text);
+        if (!sectionColumn) {
+          setGenerationSummary({
+            receivedRows: rows.length,
+            rejectedRows: rows.length,
+          });
+          disablePrinting();
+          setWorkflowState("review");
+          setGenerationFeedback(
+            "Fant ingen seksjonskolonne. Bruk leilighetsnummer, seksjonsid eller apt.",
+            "error",
+          );
+          return false;
+        }
+
+        const inspection = inspectRecords(rows, sectionColumn);
+        if (!inspection.records.length) {
+          setGenerationSummary({
+            receivedRows: rows.length,
+            rejectedRows: inspection.rejectedRows,
+          });
+          disablePrinting();
+          setWorkflowState("review");
+          setGenerationFeedback(
+            "Ingen utskrivbare rader. Kontroller seksjons-ID og at etasjen er fra 1 til 8.",
+            "error",
+          );
+          return false;
+        }
+
+        const resolved = resolveSlotCollisions(inspection.records);
+        if (!resolved.records.length) {
+          setGenerationSummary({
+            receivedRows: rows.length,
+            rejectedRows: inspection.rejectedRows + inspection.records.length,
+          });
+          disablePrinting();
+          setWorkflowState("review");
+          setGenerationFeedback(
+            "Ingen rader kunne plasseres i panelet. Kontroller seksjons-ID-ene.",
+            "error",
+          );
+          return false;
+        }
+        const entrances = new Set(resolved.records.map((r) => r.oppgang)).size;
+        setGenerationSummary({
+          receivedRows: rows.length,
+          rejectedRows: inspection.rejectedRows,
+          printableRows: resolved.records.length,
+          entrances,
+          collisions: resolved.collisions,
+        });
+        renderPages(resolved.records);
+        previewIsCurrent = true;
+        document.getElementById("btn-print").disabled = false;
+        setWorkflowState("print");
+        setGenerationFeedback(
+          resolved.collisions
+            ? `Sidene er klare. ${resolved.collisions} kollisjon(er) ble funnet; siste rad for hver plassering vises.`
+            : "Sidene er klare for utskrift eller lagring som PDF.",
+          "success",
+        );
+        return true;
+      }
+
       // ---- UI wiring ----
       document.getElementById("btn-sample").addEventListener("click", () => {
         const sample = `leilighetsnummer,navn
-      A|H0801,PENTHOUSE
-      A|H0701,NAVN VENSTRE 7
-      A|H0702,NAVN HØYRE 7
-      A|H0601,EKSEMPEL VENSTRE 6
-      A|H0602,EKSEMPEL HØYRE 6
-      A|H0501,ETTERNAVN1/ETTERNAVN2
-      A|H0502,HVIS DET
-      A|H0401,STEIN
-      A|H0402,ETTERNAVN1/ETTERNAVN2/ETTERNAVN3
-      A|H0301,NEEVDAL
-      A|H0302,TEST
-      A|H0201,NOOORDBERG
-      A|H0202,OLAVSEN / TAIHET
-      B|H0801,PENTHOUSE B
-      B|H0802,EKSTRA 8 B
-      B|H0101,
-      B|0102,     `;
+A|H0801,PENTHOUSE
+A|H0701,NAVN VENSTRE 7
+A|H0702,NAVN HØYRE 7
+A|H0601,EKSEMPEL VENSTRE 6
+A|H0602,EKSEMPEL HØYRE 6
+A|H0501,ETTERNAVN1/ETTERNAVN2
+A|H0502,HVIS DET
+A|H0401,STEIN
+A|H0402,ETTERNAVN1/ETTERNAVN2/ETTERNAVN3
+A|H0301,NEEVDAL
+A|H0302,TEST
+A|H0201,NOOORDBERG
+A|H0202,OLAVSEN / TAIHET
+B|H0801,PENTHOUSE B
+B|H0802,EKSTRA 8 B
+B|H0101,
+B|0102,`;
+        fileSelectionVersion++;
+        setFileReadPending(false);
         document.getElementById("ta").value = sample;
+        setReviewState();
       });
       document.getElementById("file").addEventListener("change", async (e) => {
+        const selectionVersion = ++fileSelectionVersion;
         const f = e.target.files[0];
-        if (!f) return;
-        const txt = await readFileAsText(f);
-        document.getElementById("ta").value = txt;
+        const fileStatus = document.getElementById("file-status");
+        if (!f) {
+          fileStatus.textContent = "Ingen CSV-fil valgt.";
+          setFileReadPending(false);
+          disablePrinting();
+          setWorkflowState("upload");
+          setGenerationFeedback(
+            "Velg en CSV-fil eller lim inn innholdet for å fortsette.",
+          );
+          return;
+        }
+        fileStatus.textContent = `Leser fil: ${f.name}`;
+        setFileReadPending(true);
+        disablePrinting();
+        setWorkflowState("upload");
+        setGenerationFeedback(
+          "Leser CSV-filen. Forhåndsvisningen beholdes til du genererer på nytt.",
+        );
+        try {
+          const txt = await readFileAsText(f);
+          if (selectionVersion !== fileSelectionVersion) return;
+          document.getElementById("ta").value = txt;
+          fileStatus.textContent = `Valgt fil: ${f.name}`;
+          setFileReadPending(false);
+          setReviewState(
+            "CSV-filen er klar for gjennomgang. Generer sider når du er klar.",
+          );
+        } catch {
+          if (selectionVersion !== fileSelectionVersion) return;
+          fileStatus.textContent = `Kunne ikke lese filen ${f.name}.`;
+          setFileReadPending(false);
+          setGenerationSummary({});
+          disablePrinting();
+          setWorkflowState("upload");
+          setGenerationFeedback(
+            "Filen kunne ikke leses. Velg en annen CSV-fil eller lim inn innholdet.",
+            "error",
+          );
+        }
       });
+      document.getElementById("ta").addEventListener("input", () => {
+        fileSelectionVersion++;
+        setFileReadPending(false);
+        setReviewState();
+      });
+      for (const settingId of [
+        "boxW",
+        "boxH",
+        "innerTop",
+        "innerBottom",
+        "colGap",
+        "boxGap",
+        "pageMargin",
+      ]) {
+        const setting = document.getElementById(settingId);
+        const invalidatePreview = () =>
+          setReviewState(
+            "Målene er endret. Generer sider på nytt før utskrift.",
+          );
+        setting.addEventListener("input", invalidatePreview);
+        setting.addEventListener("change", invalidatePreview);
+      }
       document.getElementById("btn-generate").addEventListener("click", () => {
-        updateCssVars(gatherConfig());
-        const rows = parseCSV(document.getElementById("ta").value);
-        const records = toRecords(rows);
-        renderPages(records);
+        generatePreview();
       });
-      document
-        .getElementById("btn-print")
-        .addEventListener("click", () => window.print());
+      document.getElementById("btn-print").addEventListener("click", () => {
+        if (previewIsCurrent) window.print();
+      });
       document.getElementById("debugChk").addEventListener("change", () => {
-        // regenerer for å tegne/ta vekk linjene
-        updateCssVars(gatherConfig());
-        const rows = parseCSV(document.getElementById("ta").value);
-        const records = toRecords(rows);
-        renderPages(records);
+        generatePreview();
       });
     </script>
   </body>
