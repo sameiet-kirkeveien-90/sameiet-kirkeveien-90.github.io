@@ -208,7 +208,16 @@ Ingen lekfolk bør begi seg utpå dette uten å konsultere en RIB (Rådgivende I
 
 #### Det lange svaret
 
-Sjekk tegningene og gjør noen lekmannsundersøkelser for å se om det er noen vits å starte prosessen
+Sjekk tegningene og gjør noen lekmannsundersøkelser for å se om det er noen vits å starte prosessen.
+
+##### Alternativ 1: hent ned alle tegningene samlet
+> nytt per 16. september 2026
+
+Vi har samlet samtlige tegninger fra saksinnsynet på 1934-saken (se under) og samlet det i en zip-fil. Det gjør det enkelt og raskt og f.eks. be en KI-agent lete gjennom dem på jakt etter f.eks. "planer over kjelleren som viser bodarealene nær oppgang B". Last ned [filen med de 103-dokumentene][tegninger1934].
+
+[tegninger1934]: https://github.com/sameiet-kirkeveien-90/sameiet-kirkeveien-90.github.io/releases/download/pbe-dokument-release/oslo-pbe-sak-193401482-pdf.zip
+
+##### Alternativ 2: manuelt hente ned de individuelle pdf-ene fra PBE
 
 1. Gå til [saksinnsyn i Plan og bygningsetaten](https://innsyn.pbe.oslo.kommune.no/saksinnsyn/) og søk på "Kirkeveien 90"
 1. Rull ned til [opprinnelig sak fra 1934][opprinnelig] (de første fire sifrene av saksnummeret er årstall): "Våningshus"
