@@ -87,7 +87,7 @@ Totalverdi av sameiet er flere hundre millioner. Må tas vare på!
 
 - se på tallene i november
 - bruke tallene for januar - oktober
-- justerer tallene fra fjoråret basert på disse og forventet prisstigning (eller 5%?)
+- justerer tallene fra fjoråret basert på disse og forventet prisstigning (innbetalinger til vedlikeholdsfondet skal årlig økes med 5% - ordinært sameiermøte 29. april 2015, sak 6 c,)
 - vanntette skott mellom de 3 kategoriene fyring, drift og vedlikeholdsfond.
 - Blandes ikke ved under- eller overdekning i de enkelte kategoriene.
 
