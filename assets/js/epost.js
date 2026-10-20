@@ -1,7 +1,9 @@
 (() => {
   if (document.getElementById("guess-game")) return;
 
-  document.body.insertAdjacentHTML("beforeend", `
+  document.body.insertAdjacentHTML(
+    "beforeend",
+    `
     <dialog id="guess-game" aria-label="Vis e-postadresse">
       <button type="button" class="btn btn-green" id="close-button">Lukk</button>
       <p>For å beskytte oss mot spam må du først besvare et enkelt spørsmål før du får se e-postadressen.</p>
@@ -11,7 +13,8 @@
         <button type="submit" class="btn btn-purple">Svar</button>
       </form>
     </dialog>
-  `);
+  `,
+  );
 
   const dialog = document.getElementById("guess-game");
   const form = dialog.querySelector("form");

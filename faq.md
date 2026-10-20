@@ -38,7 +38,7 @@ Det ble bestemt på et sameiermøte i 2001 at et fond øremerket store vedlikeho
 
 ### Er det planlagt noen store prosjekter i fremtiden?
 
-I 2026 starter vi fornying av taket. Tak er dyrt og vi tømte fondet i 2023, så dette må vi antagelig ta over flere år. Før eller siden må vi også gjøre noe med heisene. Etter grundig evaluering i 2025 og 2026 er vi ikke veldig bekymret for kostnadsnivået her, ettersom vi kan fornye heisene en etter en, for en mye lavere kostnader enn å kjøpe nye, med bedre resultat. 
+I 2026 starter vi fornying av taket. Tak er dyrt og vi tømte fondet i 2023, så dette må vi antagelig ta over flere år. Før eller siden må vi også gjøre noe med heisene. Etter grundig evaluering i 2025 og 2026 er vi ikke veldig bekymret for kostnadsnivået her, ettersom vi kan fornye heisene en etter en, for en mye lavere kostnader enn å kjøpe nye, med bedre resultat.
 
 ### Er det utført noen større vedlikeholdsprosjekt i gården de siste årene som er verdt å nevne?
 
@@ -211,6 +211,7 @@ Ingen lekfolk bør begi seg utpå dette uten å konsultere en RIB (Rådgivende I
 Sjekk tegningene og gjør noen lekmannsundersøkelser for å se om det er noen vits å starte prosessen.
 
 ##### Alternativ 1: hent ned alle tegningene samlet
+
 > nytt per 16. september 2026
 
 Vi har samlet samtlige tegninger fra saksinnsynet på 1934-saken (se under) og samlet det i en zip-fil. Det gjør det enkelt og raskt og f.eks. be en KI-agent lete gjennom dem på jakt etter f.eks. "planer over kjelleren som viser bodarealene nær oppgang B". Last ned [filen med de 103-dokumentene][tegninger1934].

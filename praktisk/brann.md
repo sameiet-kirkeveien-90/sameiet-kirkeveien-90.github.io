@@ -28,11 +28,11 @@ Oversikten nedenfor beskriver det historiske dokumentasjonsgrunnlaget. Den er ik
 en ferdig rømningsplan for hver seksjon: Vi har ikke en bekreftet oversikt over
 hvilke alternative veier som kan brukes fra hver enkelt leilighet og etasje.
 
-| Oppgang | Hva dokumentene beskriver |
-| --- | --- |
-| **A** | Egen trapp er hovedveien ut. Firesafes generelle beskrivelse av alternativ redning med stigebil gjelder også her. I dokumentene vi har gjennomgått, er det ikke beskrevet en egen alternativ trapp eller en bekreftet forbindelse fra A til B. |
-| **B, C og D** | Egen trapp er hovedveien ut, med stigebil som alternativ i Firesafes beskrivelse. Sameiets rutiner fra desember 2013 og desember 2022 omtaler også brannbalkonger mot Suhms gate til naboleilighet/nabooppgang, men angir ikke nøyaktig hvilke seksjoner og etasjer dette gjelder. |
-| **E** | I tillegg til hovedtrappa beskriver Firesafe en rømningstrapp langs verandaene ved inngang E (side 10 og 14). Sameiets rutiner omtaler denne som «stige oppgang E til venstre». Hvilke leiligheter som har tilgang, må avklares for den enkelte seksjon. Dørene er senere byttet, se prosjektoversikten nedenfor. |
+| Oppgang       | Hva dokumentene beskriver                                                                                                                                                                                                                                                                                         |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **A**         | Egen trapp er hovedveien ut. Firesafes generelle beskrivelse av alternativ redning med stigebil gjelder også her. I dokumentene vi har gjennomgått, er det ikke beskrevet en egen alternativ trapp eller en bekreftet forbindelse fra A til B.                                                                    |
+| **B, C og D** | Egen trapp er hovedveien ut, med stigebil som alternativ i Firesafes beskrivelse. Sameiets rutiner fra desember 2013 og desember 2022 omtaler også brannbalkonger mot Suhms gate til naboleilighet/nabooppgang, men angir ikke nøyaktig hvilke seksjoner og etasjer dette gjelder.                                |
+| **E**         | I tillegg til hovedtrappa beskriver Firesafe en rømningstrapp langs verandaene ved inngang E (side 10 og 14). Sameiets rutiner omtaler denne som «stige oppgang E til venstre». Hvilke leiligheter som har tilgang, må avklares for den enkelte seksjon. Dørene er senere byttet, se prosjektoversikten nedenfor. |
 
 Sameiets eldre rutiner nevner også gjennomgang via kjøkkeninngang til nabo, vindu
 i første etasje og over tak i åttende etasje. Dette er generelle beskrivelser,
