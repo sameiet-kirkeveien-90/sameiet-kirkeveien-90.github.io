@@ -9,6 +9,8 @@ nav_order: 3
 
 Det er lurt å ta kontakt med styret før oppussing. Vi har retningslinjer du må følge og kan f.eks. anbefale rørleggere som kjenner gården godt. Vi kan også svare på (noen) ansvars- og forsikringsspørsmål ut i fra historikken til gården. [Rører du fasaden (vinduer, dører)](/oppussing/vinduer-dorer) bør du ta kontakt med styret på forhånd.
 
+**Varsling før oppussing:** Ved inngripende arbeid som omfatter rør, radiatorer, riving av vegger og peis, skal styret kontaktes på forhånd ([husordensreglene punkt 11](/assets/pdfs/2026-husordensregler.pdf)). Før ombygging skal plantegninger legges fram for styret, med godkjenning fra Plan- og bygningsetaten dersom arbeidet er søknadspliktig ([vedtektene § 7](/assets/pdfs/2026-vedtekter.pdf)). Særdeles støyende arbeid skal varsles ved oppslag i den aktuelle og nærliggende oppganger, og kan bare utføres kl. 08–16 på hverdager ([husordensreglene punkt 2](/assets/pdfs/2026-husordensregler.pdf)). Styret skal også informeres på forhånd om planlagte tiltak som kan påvirke fasaden ([vedtektene, vedlegg 1 «Fasader»](/assets/pdfs/2026-vedtekter.pdf)). Reglene angir ingen bestemt varslingsfrist i antall dager.
+
 ## Parkeringstillatelser
 
 Se [egen side for bil](/praktisk/bil#parkeringstillatelser-for-bakg%C3%A5rden). Dette kan ordnes digitalt eller med lapp.
