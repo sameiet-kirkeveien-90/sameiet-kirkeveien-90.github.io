@@ -9,6 +9,8 @@ redirect_from:
 
 Disse undersidene inneholder informasjon for deg som er litt interessert i hvordan gården styres og økonomi. Spør gjerne oss i styret om det er noe du lurer på; det er sikkert andre som også kunne tenkt seg denne informasjonen!
 
+I [oversikten over vedtak fra årsmøtene](./vedtak) kan du lese om beslutninger fra 2000 til 2026, med kildehenvisninger og merknader om mangler i arkivet.
+
 # Kontakt
 
 Trenger du å ta kontakt med styret? Bruk gjerne [kontaktskjemaet](https://home.solibo.no/hp/kirkeveien90/contact) for henvendelser, så blir de sett av flere og det blir enklere å sørge for at ting blir håndtert.
