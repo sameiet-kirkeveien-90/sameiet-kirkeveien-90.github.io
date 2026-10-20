@@ -69,7 +69,7 @@ I oversikten over seksjoner fra seksjoneringen av 1974 vises også eierbrøk.
 
 ## Vedlikeholdsfond
 
-Vedlikeholdsfondet ble vedtatt opprettet på sameiermøtet 8. mai 2001. Både
+Vedlikeholdsfondet ble [vedtatt opprettet på sameiermøtet 8. mai 2001][vedtak-fond-2001]. Både
 protokollen og statuttene finnes nå i sameiets arkiv. Statuttene angir at
 månedlige innbetalinger skulle starte 1. juli 2001, sammen med innbetalingene
 til fellesutgiftene.
@@ -80,7 +80,8 @@ særlig så for seg fire områder: fasader, avløpsrør, takbelegg og heiser. De
 løpende vedlikeholdet skulle fortsatt dekkes av de ordinære fellesutgiftene.
 Dette beskriver tanken bak fondet og styrets prioriteringer. Statuttene
 formulerer bruksområdet som vedlikehold eller andre formål etter forutgående
-vedtak i sameiermøte, uten å begrense det til disse fire områdene.
+vedtak i sameiermøte, uten å begrense det til disse fire områdene. Se også
+[den økonomiske oversikten over fondet][vedlikeholdsfond-økonomi].
 
 Øivind og ektefellen flyttet inn høsten 2001. Han forteller at han kom inn i
 styret våren 2002. Anne Steen overtok som styreleder i 2015, slik det framgår
@@ -106,7 +107,7 @@ gjenstod til vær og temperatur tillot det.
 
 Rørfornyelsen i 2023 var et nytt stort vedlikeholdsprosjekt. I planleggingen
 var det lagt opp til å bruke fondsmidler kombinert med ekstraordinære
-innbetalinger fra sameierne. På årsmøtet 11. mai 2023 ble det i stedet vedtatt
+innbetalinger fra sameierne. På [årsmøtet 11. mai 2023][vedtak-rørfornyelse-2023] ble det i stedet vedtatt
 at de totale kostnadene skulle finansieres av vedlikeholdsfondet.
 
 Saksframlegget beskrev at fondet med innbetalingene for 2023 ville ha om lag
@@ -125,3 +126,7 @@ fullfinansiert av fondet.
 
 Dokumentene finnes i sameiets arkiv. Personlige erindringer er tilskrevet Øivind;
 datoer og vedtak er kontrollert mot arkivdokumentene der disse er tilgjengelige.
+
+[vedlikeholdsfond-økonomi]: /styre-og-stell/oecon#vedlikeholdsfond
+[vedtak-fond-2001]: /styre-og-stell/vedtak#2001--ordinært-sameiermøte-8-mai
+[vedtak-rørfornyelse-2023]: /styre-og-stell/vedtak#2023--ordinært-årsmøte-protokoll-datert-11-mai

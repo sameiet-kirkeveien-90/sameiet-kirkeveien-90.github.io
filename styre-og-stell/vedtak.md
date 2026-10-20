@@ -12,6 +12,10 @@ Her finner du en samlet oversikt over vedtak fra sameiets årsmøter og tidliger
 sameiermøter. Den dekker blant annet vedlikehold, økonomi, regelendringer og valg,
 og gir bakgrunn for hvordan gården drives i dag. Se også [gårdens historie](./historikk).
 
+For en samlet forklaring av bakgrunnen, innbetalingene og bruken av
+vedlikeholdsfondet, se [historikken][vedlikeholdsfond-historikk]
+og [økonomisiden][vedlikeholdsfond-økonomi].
+
 Oversikten bygger på dokumentene i sameiets arkiv og ble oppsummert 19. oktober 2026. Den er ikke fullstendig: For 2002–2005 mangler møteprotokoller, og enkelte
 andre år er bare indirekte dokumentert. Historiske vedtak kan være endret senere;
 se [gjeldende vedtekter](/assets/pdfs/2026-vedtekter.pdf) og
@@ -281,3 +285,6 @@ Kilder: [Protokoll, side 1–2]({{ '/assets/pdf/årsmøte-protokoller/202505-pro
 - **Valg (sak 6):** Carl Erik Kopseng ble valgt som styreleder for ett år. Erik Anton Forssten og Marit Aall Hughes ble valgt som styremedlemmer for to år. Gisle Vada og Stein Hødnebø står som varamedlemmer på valg i 2027. Sylvi S. Hovdenak og Anne Steen ble valgkomité for ett år.
 
 Kilder: [Protokoll, side 1–4]({{ '/assets/pdf/årsmøte-protokoller/202606-protokoll-årsmøte.pdf' | relative_url }})
+
+[vedlikeholdsfond-økonomi]: /styre-og-stell/oecon#vedlikeholdsfond
+[vedlikeholdsfond-historikk]: /styre-og-stell/historikk#vedlikeholdsfond

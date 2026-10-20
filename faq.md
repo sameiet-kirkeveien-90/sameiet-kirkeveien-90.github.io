@@ -30,11 +30,13 @@ Varmtvann og vannbåren varme til radiatorer fra [Hafslund Celsio](https://no.wi
 
 Det er ikke planlagt økning med mindre offentlige kostnader øker drastisk.
 
-Vi har et _vedlikeholdsfond_ finansiert over husleien som blir _tilført rundt en million kroner i året_. Det er hovedsakelig dette vi forsøker å ta store prosjekter gjennom. Som et eksempel på dette gjennomførte vi i 2023 rørfornying til seks millioner kroner og dette kunne vi gjennomføre uten å belaste sameierne med ytterligere engangsutgifter.
+Vi har et [vedlikeholdsfond][vedlikeholdsfond-økonomi] finansiert over husleien som blir _tilført rundt en million kroner i året_. Det er hovedsakelig dette vi forsøker å ta store prosjekter gjennom. Som et eksempel på dette gjennomførte vi i 2023 rørfornying til seks millioner kroner og dette kunne vi gjennomføre uten å belaste sameierne med ytterligere engangsutgifter. Les mer om [bakgrunnen og historiske prosjekter][vedlikeholdsfond-historikk].
 
 #### Hvorfor har vi et vedlikeholdsfond?
 
-Det ble bestemt på et sameiermøte i 2001 at et fond øremerket store vedlikeholdsprosjekter skulle opprettes. Det var for å slippe og belemre sameierne med lån med dårlige betingelser. Bruken av fondet krever et vedtak på årsmøtet eller ekstraordinert sameiermøte. Mindre prosjekter bør tas over det vanlige vedlikeholdsbudsjettet (ca 750' for 2026, heiser inkl.) - eventuelt over flere år. Man kan også be om engangsinnbetalinger for sameierne.
+Det ble bestemt på et [sameiermøte i 2001][vedtak-fond-2001] at et fond øremerket store vedlikeholdsprosjekter skulle opprettes. Det var for å slippe og belemre sameierne med lån med dårlige betingelser. Bruken av fondet krever et vedtak på årsmøtet eller ekstraordinert sameiermøte. Mindre prosjekter bør tas over det vanlige vedlikeholdsbudsjettet (ca 750' for 2026, heiser inkl.) - eventuelt over flere år. Man kan også be om engangsinnbetalinger for sameierne.
+
+Les mer om [innbetalinger og bruk av vedlikeholdsfondet][vedlikeholdsfond-økonomi], med lenker til årsmøtevedtakene, og [bakgrunnen for fondet][vedlikeholdsfond-historikk].
 
 ### Er det planlagt noen store prosjekter i fremtiden?
 
@@ -306,3 +308,7 @@ Ta kontakt med [Assistentpartner](/styre-og-stell/partnere#n%C3%B8kkelbrikker-og
 ### Hva skjer med syklene som ikke er merket innen dugnaden?
 
 Se [egen side](/praktisk/sykkel)
+
+[vedlikeholdsfond-økonomi]: /styre-og-stell/oecon#vedlikeholdsfond
+[vedlikeholdsfond-historikk]: /styre-og-stell/historikk#vedlikeholdsfond
+[vedtak-fond-2001]: /styre-og-stell/vedtak#2001--ordinært-sameiermøte-8-mai

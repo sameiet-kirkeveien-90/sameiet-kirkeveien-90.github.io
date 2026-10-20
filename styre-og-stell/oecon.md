@@ -37,7 +37,9 @@ Den eneste utgiften som ikke fordeles etter fordelingsnøkkelen basert på eierb
 
 ## Vedlikeholdsfond
 
-Vedtatt opprettet på sameiermøte 8. mai 2001 etter en dyr fasadeoppgradering, for å unngå tilsvarende store enkeltregninger i fremtiden. Det tilkommer ca 1 MNOK i året.
+Vedlikeholdsfondet ble [vedtatt opprettet på sameiermøtet 8. mai 2001][vedtak-fond-2001] etter en dyr fasadeoppgradering, for å unngå tilsvarende store enkeltregninger i fremtiden. Det tilkommer ca 1 MNOK i året. [Historikken][vedlikeholdsfond-historikk] forklarer bakgrunnen og bruken av fondet nærmere.
+
+Blant senere relevante vedtak er [årlig 5 % økning i fondsinnbetalingen fra 2016][vedtak-fondsøkning-2015], [finansiering av rørfornyelsen i 2023][vedtak-rørfornyelse-2023], [takarbeider i 2025][vedtak-tak-2025] og [oppgradering av varmeanlegget i 2026][vedtak-varmeanlegg-2026].
 
 Kjente kommende store utgifter
 
@@ -87,7 +89,7 @@ Totalverdi av sameiet er flere hundre millioner. Må tas vare på!
 
 - se på tallene i november
 - bruke tallene for januar - oktober
-- justerer tallene fra fjoråret basert på disse og forventet prisstigning (innbetalinger til vedlikeholdsfondet skal årlig økes med 5% - ordinært sameiermøte 29. april 2015, sak 6 c,)
+- justerer tallene fra fjoråret basert på disse og forventet prisstigning (innbetalinger til vedlikeholdsfondet skal årlig økes med 5% - [ordinært sameiermøte 29. april 2015, sak 6c][vedtak-fondsøkning-2015])
 - vanntette skott mellom de 3 kategoriene fyring, drift og vedlikeholdsfond.
 - Blandes ikke ved under- eller overdekning i de enkelte kategoriene.
 
@@ -118,3 +120,10 @@ Fiber til basestasjonene kommer inn i kjelleren (se f.eks. serverskapet i kjelle
 ## Leieinntekter: GlobalConnect
 
 Tidligere leverte Lynet internett til enkelte i gården. De ble kjøpt opp av GlobalConnect. De leier plass for serverskap i kjelleren av oss.
+
+[vedlikeholdsfond-historikk]: /styre-og-stell/historikk#vedlikeholdsfond
+[vedtak-fond-2001]: /styre-og-stell/vedtak#2001--ordinært-sameiermøte-8-mai
+[vedtak-fondsøkning-2015]: /styre-og-stell/vedtak#2015--ordinært-sameiermøte-29-april
+[vedtak-rørfornyelse-2023]: /styre-og-stell/vedtak#2023--ordinært-årsmøte-protokoll-datert-11-mai
+[vedtak-tak-2025]: /styre-og-stell/vedtak#2025--ordinært-årsmøte-7-mai
+[vedtak-varmeanlegg-2026]: /styre-og-stell/vedtak#2026--ordinært-årsmøte-16-juni
