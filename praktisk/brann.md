@@ -6,6 +6,58 @@ parent: Praktisk
 
 # Brann
 
+## Brannhensyn og rømningsmuligheter
+
+**Ved brann eller røyk: Ring 110. Ikke gå ut i en røykfylt trapp, og ikke bruk heisen.**
+Er brannen utenfor leiligheten og trygg utgang blokkert, hold døren mot oppgangen lukket,
+oppgi oppgang, etasje og leilighet til 110, og følg brannvesenets instruksjoner.
+Se også [brannvesenets råd for boligblokker med ett trapperom](https://abbr.no/bolig/borettslag-og-sameier/boligblokker-med-et-trapperom-romning-og-brannsikkerhet/).
+
+Hold trapper, ganger og brannbalkonger fri for hindringer og brennbare gjenstander.
+Gjør deg kjent med mulighetene fra din egen leilighet, og sørg for at røykvarslere og
+slokkeutstyr i boligen virker.
+
+### Hva er ment som alternativ når trappa ikke kan brukes?
+
+[Firesafes branntekniske tilstandsanalyse fra 15. januar 2014 (PDF)](/assets/pdf/2014-01-15-firesafe-brannteknisk-analyse.pdf)
+beskriver leilighetene som gjennomgående, med tilgang til ett trapperom.
+På side 13 og 15 er **redning med brannvesenets stigemateriell via vindu eller
+takterrasse** beskrevet som den sekundære rømningsmuligheten.
+
+Oversikten nedenfor beskriver det historiske dokumentasjonsgrunnlaget. Den er ikke
+en ferdig rømningsplan for hver seksjon: Vi har ikke en bekreftet oversikt over
+hvilke alternative veier som kan brukes fra hver enkelt leilighet og etasje.
+
+| Oppgang | Hva dokumentene beskriver |
+| --- | --- |
+| **A** | Egen trapp er hovedveien ut. Firesafes generelle beskrivelse av alternativ redning med stigebil gjelder også her. I dokumentene vi har gjennomgått, er det ikke beskrevet en egen alternativ trapp eller en bekreftet forbindelse fra A til B. |
+| **B, C og D** | Egen trapp er hovedveien ut, med stigebil som alternativ i Firesafes beskrivelse. Sameiets rutiner fra desember 2013 og desember 2022 omtaler også brannbalkonger mot Suhms gate til naboleilighet/nabooppgang, men angir ikke nøyaktig hvilke seksjoner og etasjer dette gjelder. |
+| **E** | I tillegg til hovedtrappa beskriver Firesafe en rømningstrapp langs verandaene ved inngang E (side 10 og 14). Sameiets rutiner omtaler denne som «stige oppgang E til venstre». Hvilke leiligheter som har tilgang, må avklares for den enkelte seksjon. Dørene er senere byttet, se prosjektoversikten nedenfor. |
+
+Sameiets eldre rutiner nevner også gjennomgang via kjøkkeninngang til nabo, vindu
+i første etasje og over tak i åttende etasje. Dette er generelle beskrivelser,
+**ikke bekreftelse på at slike veier er tilgjengelige og trygge fra din leilighet**.
+Ikke legg til grunn at du kan komme gjennom en naboleilighet uten at dette er avklart.
+
+### Hva må avklares videre?
+
+Firesafe påpekte at det er omtrent 24 meter til åttende etasje, nær den oppgitte
+rekkevidden for maskinstige, og at stigebil ikke nødvendigvis er tilgjengelig raskt
+nok (side 13 og 15). Rapporten er fra 2014 og bekrefter ikke dagens adkomst eller
+redningsmuligheter.
+
+Særlig for A trenger vi en konkret avklaring med brannrådgiver og brannvesenet av
+hvilke vinduer og terrasser som kan nås, hvor stigebil kan stilles opp, og om det
+finnes en annen brukbar vei ut. Tilsvarende må tilgang til brannbalkonger og
+rømningstrappa ved E kartlegges per leilighet.
+[DSB anbefaler kontakt med lokalt brannvesen når stigebil er alternativet til hovedrømningsveien](https://www.dsb.no/sikkerhverdag/brann/disse-romningsveiene-ma-du-ha/).
+
+Firesafe anbefalte også heldekkende brannalarmanlegg for å gi tidligere varsling.
+Dette omfatter normalt deteksjon både i leiligheter og fellesarealer.
+Røykvarslingen vi har installert i trapperommene, dokumenterer derfor ikke i seg
+selv at anbefalingen om heldekkende anlegg er oppfylt. Tidlig varsling gir mer tid,
+men erstatter ikke en alternativ rømnings- eller redningsmulighet.
+
 ## Pågående prosjekter
 
 Styret har i 2025 og 2026 jobbet mye med brannproblematikk:
