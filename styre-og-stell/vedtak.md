@@ -12,8 +12,7 @@ Her finner du en samlet oversikt over vedtak fra sameiets årsmøter og tidliger
 sameiermøter. Den dekker blant annet vedlikehold, økonomi, regelendringer og valg,
 og gir bakgrunn for hvordan gården drives i dag. Se også [gårdens historie](./historikk).
 
-Oversikten bygger på dokumentene i sameiets arkiv og ble oppsummert 19. oktober
-2026. Den er ikke fullstendig: For 2002–2005 mangler møteprotokoller, og enkelte
+Oversikten bygger på dokumentene i sameiets arkiv og ble oppsummert 19. oktober 2026. Den er ikke fullstendig: For 2002–2005 mangler møteprotokoller, og enkelte
 andre år er bare indirekte dokumentert. Historiske vedtak kan være endret senere;
 se [gjeldende vedtekter](/assets/pdfs/2026-vedtekter.pdf) og
 [husordensregler](/assets/pdfs/2026-husordensregler.pdf) for dagens regler.
@@ -33,9 +32,10 @@ vedtak er bare tatt med én gang selv om det finnes flere dokumentkopier.
 Rutinemessige valg av møteleder, referent og protokollvitner samt detaljerte
 regnskapsoppstillinger er utelatt.
 
-Kildehenvisningene under hvert møte viser til dokumenter i sameiets arkiv, med
-side- og saksnummer der det er relevant. Dokumentene er ikke publisert sammen med
-denne oversikten; [kontakt styret](./index#kontakt) dersom du trenger en kilde.
+Protokollene kan lastes ned som PDF fra kildehenvisningene under hvert møte.
+Sidetallene viser til de publiserte PDF-ene. Andre kilder, som saksframlegg,
+statutter og historiske regelsett, finnes i sameiets arkiv;
+[kontakt styret](./index#kontakt) dersom du trenger disse.
 Oppsummeringen bygger på tekstuttrekk og tekstgjenkjenning av skannede dokumenter.
 Ved behov for nøyaktig ordlyd må originalen kontrolleres. Uklarheter og avvik i
 kildene er merket i de aktuelle årsavsnittene.
@@ -54,7 +54,7 @@ Kilder: 200012 Utkast til vedlikeholdsprogram og vedlikeholdsfond.pdf
 - **Årsbehandling:** Styrets beretning og regnskapet for 2000 ble godkjent. Revisors beretning ble tatt til etterretning. Det var ingen bemerkninger til driftsbudsjettet for 2001.
 - **Avslag og trukket sak:** Forslaget om honorar for styrearbeid falt med 9 mot 8 stemmer. Styret trakk forslaget om å avvikle søppelsjaktene.
 
-Kilder: Protokoll, side 6–7 – 20010508 Innkalling og protokoll fra sameiermøte.pdf; Statutter, side 1 – 20010508 Statutter vedlikeholdsfond.pdf
+Kilder: [Protokoll, side 1–2]({{ '/assets/pdf/årsmøte-protokoller/200105-protokoll-årsmøte.pdf' | relative_url }}); Statutter, side 1 – 20010508 Statutter vedlikeholdsfond.pdf
 
 ## 2002–2005 – manglende møteprotokoller
 
@@ -88,7 +88,7 @@ Kilder: Historisk samling, side 11 og 14 – 20080422 Fra Alf Helle CCE_000687.p
 - **Årsbehandling:** Styrets beretning og regnskapet for 2008 ble godkjent; revisors beretning ble tatt til etterretning.
 - **TV-avtale:** Styret ble oppfordret til å arbeide videre med saken. Protokollen dokumenterer ikke valg av en ny avtale.
 
-Kilder: Protokoll i historisk samling, side 14 – 20080422 Fra Alf Helle CCE_000687.pdf
+Kilder: [Protokoll, side 1]({{ '/assets/pdf/årsmøte-protokoller/200904-protokoll-årsmøte.pdf' | relative_url }})
 
 ## 2010 – ordinært sameiermøte 11. mai
 
@@ -98,7 +98,7 @@ Kilder: Protokoll i historisk samling, side 14 – 20080422 Fra Alf Helle CCE_00
 - **Valg:** Øivind Gjetanger og Georg Hoell ble valgt som styremedlemmer og Stein Hødnebø som varamedlem, alle for to år. Anne Steen og Irene Jenssen ble valgt til valgkomité.
 - **Årsbehandling:** Styrets beretning og regnskapet for 2009 samt budsjettforslaget for 2010 ble godkjent/vedtatt. Revisors beretning ble tatt til etterretning. Beslutningene ble vedtatt ved akklamasjon.
 
-Kilder: Protokoll, side 1–2 – 20100511 Sameiermøte.pdf
+Kilder: [Protokoll, side 1–2]({{ '/assets/pdf/årsmøte-protokoller/201005-protokoll-årsmøte.pdf' | relative_url }})
 
 ## 2011 – ordinært sameiermøte, protokoll datert 5. mai
 
@@ -107,7 +107,7 @@ Kilder: Protokoll, side 1–2 – 20100511 Sameiermøte.pdf
 - **Årsbehandling:** Styrets beretning og regnskapet for 2010 ble godkjent, revisors beretning tatt til etterretning og styrets budsjettforslag vedtatt. Protokollens budsjettoverskrift sier «Budsjett 2010» selv om møtet er i 2011.
 - **Datoavvik:** Filnavnet angir 4. mai; protokolloverskriften angir **5. mai 2011**. Beslutningene er oppgitt som enstemmige.
 
-Kilder: Protokoll, side 1–2 – 20110504 Sameiermøte.pdf
+Kilder: [Protokoll, side 1–2]({{ '/assets/pdf/årsmøte-protokoller/201105-protokoll-årsmøte.pdf' | relative_url }})
 
 ## 2012 – ordinært sameiermøte 2. mai
 
@@ -117,14 +117,14 @@ Kilder: Protokoll, side 1–2 – 20110504 Sameiermøte.pdf
 - **Årsbehandling:** Styrets beretning og regnskapet for 2011 og budsjettforslaget for 2012 ble godkjent/vedtatt. Revisors beretning ble tatt til etterretning.
 - **Butikklokale/fortau (sak 10):** Det ble ikke truffet vedtak om levegg eller markise. Ønsket om ekstraordinært møte fikk bare 6 stemmer, og styret skulle derfor ikke innkalle på dette grunnlaget.
 
-Kilder: Protokoll, side 1–2 – 20120502 Sameiermøte.pdf
+Kilder: [Protokoll, side 1–2]({{ '/assets/pdf/årsmøte-protokoller/201205-protokoll-årsmøte.pdf' | relative_url }})
 
 ## 2012 – ekstraordinært sameiermøte 3. desember
 
 - **Vedlikeholdsfond (sak 2):** Innbetalingen ble økt med **kr 750 per måned for en gjennomsnittsleilighet i 2013 og 2014** i forbindelse med fasadevedlikehold.
 - **Fortau ved butikkvirksomhet (sak 3):** Styret fikk enstemmig fullmakt til å forhandle og undertegne avtaler på vegne av sameierne om leieavtale og bruksregler for fortauet.
 
-Kilder: Protokoll, side 1 – 20121203 Sameiermøte.pdf
+Kilder: [Protokoll, side 1]({{ '/assets/pdf/årsmøte-protokoller/201212-protokoll-årsmøte.pdf' | relative_url }})
 
 ## 2013 – ordinært sameiermøte 24. april
 
@@ -134,7 +134,7 @@ Kilder: Protokoll, side 1 – 20121203 Sameiermøte.pdf
 - **Valg:** Stein Hødnebø ble valgt som styremedlem, Anne Steen og Sigmund Reite som varamedlemmer, med valgperiode til 2015. Randi Røvig Bauer og Irene Jenssen ble gjenvalgt til valgkomité.
 - **Årsbehandling:** Styrets beretning og regnskapet for 2012 samt budsjettforslaget for 2013 ble godkjent/vedtatt. Revisors beretning ble tatt til etterretning. Øvrige beslutninger var enstemmige.
 
-Kilder: Protokoll, side 1–2 – 20130424 Sameiermøte.pdf
+Kilder: [Protokoll, side 1–2]({{ '/assets/pdf/årsmøte-protokoller/201304-protokoll-årsmøte.pdf' | relative_url }})
 
 ## 2014 – ordinært sameiermøte 28. april
 
@@ -144,7 +144,7 @@ Kilder: Protokoll, side 1–2 – 20130424 Sameiermøte.pdf
 - **Valg/fullmakt:** Øyvind Gjetanger og Georg Hoell ble valgt for ett år. Styret fikk fullmakt til å utpeke det andre varamedlemmet; protokollen opplyser at Øystein Holten deretter ble utpekt. Sølvi Hovdenakk og Charlotte Mørch ble valgt til valgkomité.
 - **Årsbehandling:** Styrets beretning og regnskapet for 2013 samt budsjettforslaget for 2014 ble godkjent/vedtatt. Revisors beretning og orienteringen om framtidig vedlikehold ble tatt til etterretning. Omtalen av brannpålegg og fasadearbeid er orienteringer, ikke nye selvstendige prosjektvedtak.
 
-Kilder: Protokoll, side 1–2 – 20140428 Sameiermøte.pdf
+Kilder: [Protokoll, side 1–2]({{ '/assets/pdf/årsmøte-protokoller/201404-protokoll-årsmøte.pdf' | relative_url }})
 
 ## 2015 – ordinært sameiermøte 29. april
 
@@ -154,7 +154,7 @@ Kilder: Protokoll, side 1–2 – 20140428 Sameiermøte.pdf
 - **Valg:** Anne Steen ble styreleder og Liv Ødegaard styremedlem for to år. Sigmund Reite ble valgt som styremedlem for ett år og Helge Myhra som varamedlem for to år. Sølvi Hovdenakk og Charlotte Mørch ble gjenvalgt til valgkomité.
 - **Årsbehandling:** Styrets beretning og regnskapet for 2014 samt budsjettforslaget for 2015 ble godkjent/vedtatt. Revisors beretning og orienteringen om byggets tilstand ble tatt til etterretning.
 
-Kilder: Protokoll, side 1 – 20150429 Sameiermøte.pdf; Senere omtale, punkt 8 – Vedlegg til innkalling til årsmøtet 19 april 2016.pdf
+Kilder: [Protokoll, side 1]({{ '/assets/pdf/årsmøte-protokoller/201504-protokoll-årsmøte.pdf' | relative_url }}); Senere omtale, punkt 8 – Vedlegg til innkalling til årsmøtet 19 april 2016.pdf
 
 ## 2016 – ordinært sameiermøte 19. april
 
@@ -162,7 +162,7 @@ Kilder: Protokoll, side 1 – 20150429 Sameiermøte.pdf; Senere omtale, punkt 8 
 - **Valg:** Fredrik Lied Larsen ble valgt som styremedlem og Astri Merete Møen som varamedlem for to år. Sølvi Hovdenakk og Øivind Gjetanger ble valgt til valgkomité.
 - **Årsbehandling:** Styrets beretning og regnskapet for 2015 samt budsjettforslaget for 2016 ble godkjent/vedtatt. Revisors beretning og styrets orienteringer ble tatt til etterretning. Orienteringene om elkontroll, felles dørbestilling, søppel og heiser er ikke oppsummert som nye prosjektfullmakter.
 
-Kilder: Protokoll, side 1 – 20160419 Sameiermøte.pdf
+Kilder: [Protokoll, side 1]({{ '/assets/pdf/årsmøte-protokoller/201604-protokoll-årsmøte.pdf' | relative_url }})
 
 ## 2017 – ordinært sameiermøte, protokoll datert 3. mai
 
@@ -174,13 +174,13 @@ Kilder: Protokoll, side 1 – 20160419 Sameiermøte.pdf
 - **Årsbehandling:** Styrets beretning og regnskapet for 2016 samt budsjettforslaget for 2017 ble godkjent/vedtatt. Revisors beretning og styrets orienteringer ble tatt til etterretning. Øvrige vedtak er oppgitt som enstemmige.
 - **Kildeavvik:** Protokollen sier **3. mai**, mens filnavn og utsendelses-e-posten viser **4. mai**. De to protokollkopiene har samme saksvedtak; kopien i undermappen har Astri Merete Møen ført to ganger i styrelisten. Dette er ikke behandlet som et ekstra valg.
 
-Kilder: Protokoll, side 1 – 20170504 Sameiermøte.pdf; Vedtatt regelsett – Vedtekter og husordensregler samlet 20170504.pdf; Utsendelse 8. mai – SE Kirkeveien 90 .msg.eml
+Kilder: [Protokoll, side 1]({{ '/assets/pdf/årsmøte-protokoller/201705-protokoll-årsmøte.pdf' | relative_url }}); Vedtatt regelsett – Vedtekter og husordensregler samlet 20170504.pdf; Utsendelse 8. mai – SE Kirkeveien 90 .msg.eml
 
 ## 2018 – ekstraordinært sameiermøte 14. februar
 
 - **Oppussing av oppgangene (sak 2):** Styret fikk enstemmig fullmakt til å akseptere tilbudet fra Maler Compagniet. Kostnadene skulle dekkes av opptjent kapital. Styrets senere beretning beskriver en totalpris på litt over kr 600 000 og finansieringsplanen, men dette er omtale av samme vedtak og er ikke ført som et nytt vedtak.
 
-Kilder: Protokoll, side 1 – 20180214 Ekstraord Sameiermøte.pdf; Supplerende beretning – Styrets beretning for 2017 til årsmøtet i 2018.pdf
+Kilder: [Protokoll, side 1]({{ '/assets/pdf/årsmøte-protokoller/201802-protokoll-årsmøte.pdf' | relative_url }}); Supplerende beretning – Styrets beretning for 2017 til årsmøtet i 2018.pdf
 
 ## 2018 – ordinært sameiermøte 2. mai
 
@@ -188,7 +188,7 @@ Kilder: Protokoll, side 1 – 20180214 Ekstraord Sameiermøte.pdf; Supplerende b
 - **Valg:** Fredrik Lied Larsen ble valgt som styremedlem og Anne Solberg som varamedlem for to år. Øyvind Gjetanger og Sylvi S. Hovdenak ble valgt til valgkomité.
 - **Årsbehandling:** Styrets beretning og regnskapet for 2017 ble godkjent. Revisors beretning og budsjettet for 2018 ble tatt til etterretning. Beslutningene er oppgitt som enstemmige. Orienteringen om ny eierseksjonslov er ikke et vedtak om konkrete regelendringer.
 
-Kilder: Protokoll, side 1–2 – 20180502 Sameiermøte.pdf
+Kilder: [Protokoll, side 1–2]({{ '/assets/pdf/årsmøte-protokoller/201805-protokoll-årsmøte.pdf' | relative_url }})
 
 ## 2019 – ordinært sameiermøte 7. mai
 
@@ -199,7 +199,7 @@ Kilder: Protokoll, side 1–2 – 20180502 Sameiermøte.pdf
 - **Valg:** Anne Steen ble valgt som styreleder, Liv Ødegaard som styremedlem og Erik Alnæs som varamedlem for to år. Øyvind Gjetanger og Sylvi Stenersen Hovdenakk ble gjenvalgt til valgkomité.
 - **Årsbehandling:** Styrets beretning og regnskapet for 2018 ble godkjent; revisors beretning og budsjettet for 2019 ble tatt til etterretning. Protokollen oppgir at beslutningene var enstemmige.
 
-Kilder: Protokoll, side 1–2 – 20190507 Sameiermøte.pdf
+Kilder: [Protokoll, side 1–2]({{ '/assets/pdf/årsmøte-protokoller/201905-protokoll-årsmøte.pdf' | relative_url }})
 
 ## 2020 – elektronisk årsmøte 15. juni
 
@@ -208,7 +208,7 @@ Kilder: Protokoll, side 1–2 – 20190507 Sameiermøte.pdf
 - **Valg:** Styret ble gjenvalgt; Fredrik Lied Larsen og Anne Solberg fikk nye toårsperioder. Øyvind Gjetanger og Sylvi Stenersen Hovdenakk ble gjenvalgt til valgkomité. Langseth Revisjon AS ble valgt som revisor.
 - **Årsbehandling:** Årsoppgjøret for 2019 med revisors beretning ble godkjent og fastsatt. Alle innsendte stemmesedler sluttet seg til styrets forslag; vedtakene er oppgitt truffet med nødvendig flertall.
 
-Kilder: Protokoll, side 1 – Årsmøte 20200615.pdf
+Kilder: [Protokoll, side 1]({{ '/assets/pdf/årsmøte-protokoller/202006-protokoll-årsmøte.pdf' | relative_url }})
 
 ## 2021 – ordinært digitalt årsmøte 28. april
 
@@ -219,7 +219,7 @@ Kilder: Protokoll, side 1 – Årsmøte 20200615.pdf
 - **Valg:** Anne Steen ble styreleder og Liv Ødegaard styremedlem med periode til 2023. Carl-Erik Kopseng ble styremedlem for ett år og Sondre Høglund varamedlem til 2023. Øyvind Gjetanger og Sylvi Stenersen Hovdenak ble gjenvalgt til valgkomité.
 - **Årsbehandling:** Årsoppgjøret for 2020 med revisors beretning ble godkjent og fastsatt. Budsjettet for 2021 og styrets informasjon ble tatt til etterretning. Informasjonen angir at etableringskostnader og gebyrer for e-faktura skulle dekkes over driften; informasjonen om soilrør var ikke en prosjektfullmakt. Vedtakene er oppgitt truffet med nødvendig flertall.
 
-Kilder: Protokoll, side 1–2 – Årsmøte 20210428.pdf
+Kilder: [Protokoll, side 1–2]({{ '/assets/pdf/årsmøte-protokoller/202104-protokoll-årsmøte.pdf' | relative_url }})
 
 ## 2022 – ordinært årsmøte 11. mai
 
@@ -230,7 +230,7 @@ Kilder: Protokoll, side 1–2 – Årsmøte 20210428.pdf
 - **Valg:** Carl Erik Kopseng ble valgt som styremedlem og Øystein Revheim som varamedlem til 2024. Valgkomiteen, Sylvi Stenersen Hovdenakk og Øivind Gjetanger, ble gjenvalgt.
 - **Årsbehandling:** Regnskapet for 2021 ble godkjent. Revisors beretning, budsjettforslaget og styrets informasjon ble tatt til etterretning. Budsjettoverskriften sier feilaktig «2019» i protokollen. Vedtakene er oppgitt som enstemmige/med nødvendig flertall.
 
-Kilder: Protokoll, side 1 – Årsmøte 20220511.pdf
+Kilder: [Protokoll, side 1]({{ '/assets/pdf/årsmøte-protokoller/202205-protokoll-årsmøte.pdf' | relative_url }})
 
 ## 2023 – ordinært årsmøte, protokoll datert 11. mai
 
@@ -240,7 +240,7 @@ Kilder: Protokoll, side 1 – Årsmøte 20220511.pdf
 - **Årsbehandling:** Regnskapet for 2022 ble godkjent; revisors beretning og budsjettet for 2023 ble tatt til etterretning. Vedtakene er oppgitt truffet med nødvendig flertall.
 - **Datoavvik:** Filnavnet angir 12. mai, protokollen **11. mai 2023**.
 
-Kilder: Protokoll, side 1 – 20230512 Årsmøte protokoll.pdf; Saksframlegg – Sak til årsmøte 2023.pdf
+Kilder: [Protokoll, side 1]({{ '/assets/pdf/årsmøte-protokoller/202305-protokoll-årsmøte.pdf' | relative_url }}); Saksframlegg – Sak til årsmøte 2023.pdf
 
 ## 2024 – ordinært årsmøte 7. mai
 
@@ -252,7 +252,7 @@ Kilder: Protokoll, side 1 – 20230512 Årsmøte protokoll.pdf; Saksframlegg �
 - **Valg:** Øystein Revheim og Carl Erik Kopseng ble valgt som styremedlemmer til 2026. Sylvi Stenersen Hovdenakk og Øivind Gjetanger ble gjenvalgt til valgkomité.
 - **Årsbehandling:** Regnskapet for 2023 ble godkjent; revisors beretning og budsjettet for 2024 ble tatt til etterretning. Vedtakene er oppgitt som enstemmige/med nødvendig flertall.
 
-Kilder: Protokoll, side 1 – 20240507 Årsmøte .pdf
+Kilder: [Protokoll, side 1]({{ '/assets/pdf/årsmøte-protokoller/202405-protokoll-årsmøte.pdf' | relative_url }})
 
 ## 2025 – ordinært årsmøte 7. mai
 
@@ -266,7 +266,7 @@ Kilder: Protokoll, side 1 – 20240507 Årsmøte .pdf
 
 **Annen 2025-fil – ikke dokumentert vedtak:** «20251023Innkalling_ekstraordinært_sameiermøte.pdf» er en innkalling med forslag om økt innbetaling til vedlikeholdsfondet. Filen har fortsatt «xx %» og møtedato 7. mai 2025 i teksten, selv om filnavnet viser 23. oktober. Ingen tilhørende protokoll dokumenterer at denne økningen ble vedtatt. Innkallingens omtale av akseptert taktilbud på ca. kr 1,5 mill. er ikke ført som en ny beløpsramme vedtatt av årsmøtet.
 
-Kilder: Protokoll, side 1–2 – 20250507 Årsmøte .pdf; Fyringsvedlegg – Fyringsregnskap for 2024.pdf; Vedtatte husordensregler – 20250507 Husordensregler.pdf; Uavklart innkalling – 20251023Innkalling_ekstraordinært_sameiermøte.pdf
+Kilder: [Protokoll, side 1–2]({{ '/assets/pdf/årsmøte-protokoller/202505-protokoll-årsmøte.pdf' | relative_url }}); Fyringsvedlegg – Fyringsregnskap for 2024.pdf; Vedtatte husordensregler – 20250507 Husordensregler.pdf; Uavklart innkalling – 20251023Innkalling_ekstraordinært_sameiermøte.pdf
 
 ## 2026 – ordinært årsmøte 16. juni
 
@@ -280,4 +280,4 @@ Kilder: Protokoll, side 1–2 – 20250507 Årsmøte .pdf; Fyringsvedlegg – F
 - **Varmeanlegg (sak 5.5):** Enstemmig fullmakt til å bruke vedlikeholdsfondet til oppgradering, herunder **Apurgo Heat & Cool**, og inngå nødvendige avtaler og gjennomføre tiltaket innenfor **kr 500 000 inkludert mva.**
 - **Valg (sak 6):** Carl Erik Kopseng ble valgt som styreleder for ett år. Erik Anton Forssten og Marit Aall Hughes ble valgt som styremedlemmer for to år. Gisle Vada og Stein Hødnebø står som varamedlemmer på valg i 2027. Sylvi S. Hovdenak og Anne Steen ble valgkomité for ett år.
 
-Kilder: Protokoll, side 1–4 – 20260616 protokoll årsmøte.pdf
+Kilder: [Protokoll, side 1–4]({{ '/assets/pdf/årsmøte-protokoller/202606-protokoll-årsmøte.pdf' | relative_url }})
