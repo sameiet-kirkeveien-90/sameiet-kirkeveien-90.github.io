@@ -40,11 +40,11 @@ Les mer om [innbetalinger og bruk av vedlikeholdsfondet][vedlikeholdsfond-økono
 
 ### Er det planlagt noen store prosjekter i fremtiden?
 
-I 2026 starter vi fornying av taket. Tak er dyrt og vi tømte fondet i 2023, så dette må vi antagelig ta over flere år. Før eller siden må vi også gjøre noe med heisene. Etter grundig evaluering i 2025 og 2026 er vi ikke veldig bekymret for kostnadsnivået her, ettersom vi kan fornye heisene en etter en, for en mye lavere kostnader enn å kjøpe nye, med bedre resultat.
+I 2026 tar vi oppgradering av fyringsanlegget, taket på "hylla" i åttende m/utbedring av parapeten rundt og sikring av pipene (muligens også full piperehabilitering). Dette er dyrt, men til tross for at vi tømte fondet i 2023 tror vi dette skal gå helt fint å ta utelukkende på vedlikeholdsfondet. Før eller siden må vi også gjøre noe med heisene. Etter grundig evaluering i 2025 og 2026 er vi ikke veldig bekymret for kostnadsnivået her, ettersom vi kan fornye heisene en etter en, for en mye lavere kostnader enn å kjøpe nye, med bedre resultat.
 
 ### Er det utført noen større vedlikeholdsprosjekt i gården de siste årene som er verdt å nevne?
 
-Vi gjennomførte fornying av avløpsrør i 2023 og i 2026 oppgradering av beslag på "hylla" i åttende (verandaen for 8. etasje mot gården og nødadkomst mot Suhmsgate).
+Vi gjennomførte fornying av avløpsrør i 2023 og i 2026 oppgradering av beslag på "hylla" i åttende (terrassen for 8. etasje mot gården og nødadkomst mot Suhmsgate).
 
 ### Er sameiet involvert i noen rettstvister eller fått noen pålegg?
 
@@ -52,11 +52,11 @@ Per januar 2026 er det ingen ting slikt under opptakt, og de har heller ikke væ
 
 ### Er det observert noen skadedyr?
 
-Vi har fram til 2026 hatt en serviceavtale med Anticimex og har generelt ikke hatt problemer med skadedyr. Det har i tidligere blitt observert spor av rotter, men hver gang følges det umiddelbart ved at Anticimex legger ut åte og følger opp for å finne eventuell inngang. I mai 2026 ble det igjen observert rotter og vi engasjerte da spesialistene i Sentrum Skadedyrkontroll etter Anticimex ikke fikk has på dem. Nye innganger ble funnet og lukket og rottene er nå bekreftet borte (infrarød video og UV-pulver). Vi har også hatt et tilfelle med møll i kjelleren i 2020, men ikke lenger.
+Vi har fram til 2026 hatt en serviceavtale med Anticimex og har generelt ikke hatt problemer med skadedyr. Med noen års mellomrom har det blitt observert spor av rotter, men hver gang følges det umiddelbart opp for å finne eventuell inngang. I mai 2026 ble det igjen observert rotter og vi engasjerte da [Kim i Sentrum Skadedyrkontroll](https://sentrumskadedyrkontroll.no/) - etter at Anticimex hadde forsøkt uten å komme noen vei. Nye innganger ble funnet og lukket og rottene er nå bekreftet borte (infrarød video og UV-pulver). Vi har også hatt et tilfelle med møll i kjelleren i 2020, men ikke lenger.
 
 ### Hva betyr det for meg om sameiet velger å ta opp lån?
 
-Vi prøver i størst mulig grad å unngå lån, men det kan være at vi ikke kommer unna dette om kostnadene går utover det som er i vedlikeholdsfondet. En del har ikke mulighet til å hoste opp 200 tusen kroner på rappen, og sameiet _må_ gjøre det som er nødvendig for å holde sameiet vedlike. Da blir typisk lånet fordelt på hver seksjon ut i fra sameierbrøken. Fordelen med et felleslån over at den enkelte tar opp lån er at regnestykket for seksjonseiere som bare bor her et par år blir mye penere. For en seksjonseier med en 105 kvm leilighet vil f.eks. nye heiser koste rundt 200'000 kr. Det er hardt å svelge om man bare blir boende et par år.
+Sameiet har aldri tatt opp lån og formålet med vedlikeholdsfondet er nettopp å unngå lån. Det kan likevel være at vi i fremtiden ikke kommer unna dette om plutselige, nødvendige kostnader går utover det som er i vedlikeholdsfondet. En del har ikke mulighet til å hoste opp 200 tusen kroner på rappen, og sameiet _må_ gjøre det som er nødvendig for å holde sameiet vedlike. Da blir typisk lånet fordelt på hver seksjon ut i fra sameierbrøken. Fordelen med et felleslån over at den enkelte tar opp lån er at regnestykket for seksjonseiere som bare bor her et par år blir mye penere. For en seksjonseier med en 105 kvm leilighet vil f.eks. nye heiser koste rundt 200'000 kr. Det er hardt å svelge om man bare blir boende et par år.
 
 Renten et sameie kan oppnå er relativt dårlig sammenlignet med en privatperson siden sameiet ikke kan stille med noe pant. Derfor kan det lønne seg for den enkelte å innfri sin del av lånet ved å heller øke lånerammen på sitt eget boliglån som kan ha tildels mye gunstigere rente. Eksempelvis ligger en typisk rente for et sameie i 2025Q3 på 7,2%. Tilsvarende for en privatperson er ca 4,5%. Innfriing av lånet gir selvsagt bare mening om man tenker å bo her i mange år.
 
